@@ -27,4 +27,4 @@ dependencies = [
 "Bug Tracker" = "https://github.com/xxl4tomxu98/my_package/issues"
 
 [tool.hatch.build.targets.wheel]
-packages = ["src/fictional-couscous"]
+packages = ["src/my_graphrag"]
