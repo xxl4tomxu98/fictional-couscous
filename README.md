@@ -1,4 +1,4 @@
-fictional-couscous
+fictional-couscous:
 A Neo4j implementation of GraphRAG approach for knowledge graph-based retrieval augmented generation.
 
     Extract entities and relationships from unstructured text
@@ -59,13 +59,16 @@ Generate summaries for nodes and relationships
     print(result)
 
 Identify and summarize communities
+
     result = kb_graph.summarize_communities()
     print(result)
 
 Close the connection
+
     kb_graph.close()
     
 Features
+
     Extract Nodes and Relationships: The library uses Anthropic and OpenAI's models to extract entities and relationships from your text data, creating a structured graph.
 
     Summarize Nodes and Relationships: Each entity and relationship is summarized to capture its essence across all mentions in the source documents.
