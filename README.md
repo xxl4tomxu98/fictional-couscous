@@ -20,59 +20,40 @@ Quick Start
     import os
     from fictional-couscous import KBGraphRAG
     from neo4j import GraphDatabase
-
-Set your environment variables
-
+    #Set your environment variables
     os.environ["OPENAI_API_KEY"] = "your-openai-api-key"
     os.environ["NEO4J_URI"] = "neo4j://127.0.0.1:7687"
     os.environ["NEO4J_USERNAME"] = "neo4j"
     os.environ["NEO4J_PASSWORD"] = "password"
-
-Connect to Neo4j
-
+    #Connect to Neo4j
     driver = GraphDatabase.driver(
         os.environ["NEO4J_URI"], 
         auth=(os.environ["NEO4J_USERNAME"], os.environ["NEO4J_PASSWORD"])
     )
-
-Initialize KBGraphRAG
-
+    #Initialize KBGraphRAG
     kb_graph = KBGraphRAG(driver=driver, model='gpt-4o')
-
-Define example texts and entity types
-
+    #Define example texts and entity types
     example_texts = [
         "Tom is an American",
         "Tom lives in Washington DC", 
         "Tom went to school in Utah"
     ]
     allowed_entities = ["Person", "Nationality", "Location"]
-
-Extract entities and relationships
-
+    #Extract entities and relationships
     result = kb_graph.extract_nodes_and_rels(example_texts, allowed_entities)
     print(result)
-
-Generate summaries for nodes and relationships
-
+    #Generate summaries for nodes and relationships
     result = kb_graph.summarize_nodes_and_rels()
     print(result)
-
-Identify and summarize communities
-
+    #Identify and summarize communities
     result = kb_graph.summarize_communities()
     print(result)
-
-Close the connection
-
+    #Close the connection
     kb_graph.close()
     
 Features
 
     Extract Nodes and Relationships: The library uses Anthropic and OpenAI's models to extract entities and relationships from your text data, creating a structured graph.
-
     Summarize Nodes and Relationships: Each entity and relationship is summarized to capture its essence across all mentions in the source documents.
-
     Community Detection: The Leiden algorithm is applied to identify communities of related entities.
-    
     Community Summarization: Each community is summarized to provide a high-level understanding of the concepts it contains.
