@@ -1,4 +1,4 @@
-# fictional-couscous
+fictional-couscous
 A Neo4j implementation of GraphRAG approach for knowledge graph-based retrieval augmented generation.
 
     Extract entities and relationships from unstructured text
@@ -6,65 +6,66 @@ A Neo4j implementation of GraphRAG approach for knowledge graph-based retrieval 
     Generate summaries for nodes and relationships
     Detect and summarize communities within the graph
     Leverage this graph structure for enhanced RAG
-    The implementation uses Anthropic and OpenAI's models for text processing and Neo4j's powerful graph capabilities including the Graph Data Science (GDS) library.
+    Anthropic and OpenAI's LLM models for text processing and Neo4j's powerful graph capabilities including the Graph Data Science (GDS) library.
 
-# Requirements
+Requirements
 
     Neo4j Aura or Desktop database (5.26+)
     APOC plugin installed in Neo4j
     Graph Data Science (GDS) library installed in Neo4j
-    OpenAI API key
+    Claude or OpenAI API key
 
-# Quick Start
+Quick Start
 
     import os
-    from fictional-couscous import MyGraphRAG
+    from fictional-couscous import KBGraphRAG
     from neo4j import GraphDatabase
 
-# Set your environment variables
+Set your environment variables
 
     os.environ["OPENAI_API_KEY"] = "your-openai-api-key"
     os.environ["NEO4J_URI"] = "neo4j://127.0.0.1:7687"
     os.environ["NEO4J_USERNAME"] = "neo4j"
     os.environ["NEO4J_PASSWORD"] = "password"
 
-# Connect to Neo4j
+Connect to Neo4j
 
     driver = GraphDatabase.driver(
         os.environ["NEO4J_URI"], 
         auth=(os.environ["NEO4J_USERNAME"], os.environ["NEO4J_PASSWORD"])
     )
 
-# Initialize MsGraphRAG
-    kb_graph = MyGraphRAG(driver=driver, model='gpt-4o')
+Initialize KBGraphRAG
 
-# Define example texts and entity types
+    kb_graph = KBGraphRAG(driver=driver, model='gpt-4o')
+
+Define example texts and entity types
 
     example_texts = [
         "Tom is an American",
         "Tom lives in Washington DC", 
-        "Tom went to school in Delaware"
+        "Tom went to school in Utah"
     ]
     allowed_entities = ["Person", "Nationality", "Location"]
 
-# Extract entities and relationships
+Extract entities and relationships
 
     result = kb_graph.extract_nodes_and_rels(example_texts, allowed_entities)
     print(result)
 
-# Generate summaries for nodes and relationships
+Generate summaries for nodes and relationships
 
     result = kb_graph.summarize_nodes_and_rels()
     print(result)
 
-# Identify and summarize communities
+Identify and summarize communities
     result = kb_graph.summarize_communities()
     print(result)
 
-# Close the connection
+Close the connection
     kb_graph.close()
     
-# Features
+Features
     Extract Nodes and Relationships: The library uses Anthropic and OpenAI's models to extract entities and relationships from your text data, creating a structured graph.
 
     Summarize Nodes and Relationships: Each entity and relationship is summarized to capture its essence across all mentions in the source documents.
