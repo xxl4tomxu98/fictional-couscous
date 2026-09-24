@@ -19,7 +19,10 @@ classifiers = [
 requires-python = ">=3.8"
 dependencies = [
     "neo4j>=5.28.1",
-    "openai>=1.69.0"
+    "openai>=1.69.0",
+    "tqdm",
+    "ipykernel",
+    "python-dotenv",
 ]
 
 [project.urls]

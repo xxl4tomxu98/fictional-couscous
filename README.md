@@ -14,6 +14,10 @@ Requirements
     APOC plugin installed in Neo4j
     Graph Data Science (GDS) library installed in Neo4j
     Claude or OpenAI API key
+    pyenv local 3.12.6
+    python -m venv .venv
+    source .venv/bin/activate
+    python -m pip install -e .
 
 Quick Start
 
