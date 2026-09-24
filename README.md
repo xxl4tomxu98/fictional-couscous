@@ -25,7 +25,7 @@ Quick Start
     from fictional-couscous import KBGraphRAG
     from neo4j import GraphDatabase
     #Set your environment variables
-    os.environ["OPENAI_API_KEY"] = "your-openai-api-key"
+    os.environ["ANTHROPIC_API_KEY"] = "your-anthropic-api-key"  # or OPENAI_API_KEY for gpt-* models
     os.environ["NEO4J_URI"] = "neo4j://127.0.0.1:7687"
     os.environ["NEO4J_USERNAME"] = "neo4j"
     os.environ["NEO4J_PASSWORD"] = "password"
@@ -34,8 +34,8 @@ Quick Start
         os.environ["NEO4J_URI"], 
         auth=(os.environ["NEO4J_USERNAME"], os.environ["NEO4J_PASSWORD"])
     )
-    #Initialize KBGraphRAG
-    kb_graph = KBGraphRAG(driver=driver, model='gpt-4o')
+    #Initialize KBGraphRAG (model name selects the provider: "claude*" -> Anthropic, else OpenAI)
+    kb_graph = KBGraphRAG(driver=driver, model='claude-opus-5')
     #Define example texts and entity types
     example_texts = [
         "Tom is an American",
