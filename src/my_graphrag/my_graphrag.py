@@ -1,9 +1,8 @@
 import os
-from types import SimpleNamespace
 from typing import Any, Dict, List, Optional, Type
 from neo4j import Driver
 from openai import AsyncOpenAI
-from anthropic import AsyncAnthropic
+from groq import AsyncGroq
 import asyncio
 import json
 from functools import wraps
@@ -44,25 +43,25 @@ def async_retry(max_retries=3, delay=1, backoff=2, exceptions=(Exception,)):
 
 class KBGraphRAG:
     """
-    KBGraphRAG: Knowledge Base GraphRAG Implementation for Neo4j
-    A class for implementing the Knowledge Base GraphRAG approach with Neo4j graph database.
-    GraphRAG enhances retrieval-augmented generation by leveraging graph structures
-    to provide context-aware information for LLM responses.
+    KBGraphRAG: Knowledge Base GraphRAG Implementation for Neo4j. A class for implementing
+    the Knowledge Base GraphRAG approach with Neo4j graph database. GraphRAG enhances RAG
+    by leveraging graph structures to provide context-aware information for LLM responses.
 
     This implementation features:
     - Entity and relationship extraction from unstructured text
     - Node and relationship summarization for improved retrieval
     - Community detection and summarization for concept clustering
-    - Integration with Anthropic (Claude) or OpenAI models for generation
+    - Integration with LLM models for generation
     - Retry logic for LLM calls and JSON parsing operations
 
-    The class connects to Neo4j for graph storage and uses an LLM (Claude or OpenAI,
-    selected automatically from the `model` name) for content generation and
-    extraction, providing a seamless way to build knowledge graphs from text.
+    The class connects to Neo4j for graph storage and uses an LLM (selected automatically
+    from the `model` name) for content generation and extraction, providing a seamless way
+    to build knowledge graphs from text.
 
     Requirements:
     - Neo4j database with APOC and GDS plugins installed
     - An `ANTHROPIC_API_KEY` (for Claude models) or `OPENAI_API_KEY` (for GPT models)
+    - An `GROQ_API_KEY` for Groq API if using free Groq models (implemented)
 
     Example:
     ```
@@ -76,7 +75,7 @@ class KBGraphRAG:
 
     from neo4j import GraphDatabase
     driver = GraphDatabase.driver(os.environ["NEO4J_URI"], auth=(os.environ["NEO4J_USERNAME"], os.environ["NEO4J_PASSWORD"]))
-    kb_graph = KBGraphRAG(driver=driver, model='gpt-4o')
+    kb_graph = KBGraphRAG(driver=driver, model='openai/gpt-oss-120b')
     kb_graph = KBGraphRAG(driver=driver, model='claude-opus-5')
     example_texts = [
         "Tom is an American",
@@ -96,7 +95,7 @@ class KBGraphRAG:
         self,
         driver: Driver,
         #model: str = "gpt-4o",
-        model: str = "claude-opus-5",
+        model: str = "openai/gpt-oss-120b",
         database: str = "neo4j",
         max_workers: int = 10,
         create_constraints: bool = True,
@@ -106,23 +105,17 @@ class KBGraphRAG:
     ) -> None:
         """
         Initialize KBGraphRAG with Neo4j driver and LLM.
-
         Args:
             driver (Driver): Neo4j driver instance
             model (str, optional): The language model to use. Model names starting
-                with "claude" route to Anthropic; anything else routes to OpenAI.
-                Defaults to "claude-opus-5".
+                with "openai*" route to Groq; anything else routes to OpenAI.
+                Defaults to "openai/gpt-oss-120b".
             database (str, optional): Neo4j database name. Defaults to "neo4j".
             max_workers (int, optional): Maximum number of concurrent workers. Defaults to 10.
             create_constraints (bool, optional): Whether to create database constraints. Defaults to True.
             max_retries (int, optional): Maximum number of retries for LLM calls. Defaults to 3.
             retry_delay (float, optional): Initial delay between retries in seconds. Defaults to 1.0.
             retry_backoff (float, optional): Backoff multiplier for retry delays. Defaults to 2.0.
-
-            if not os.environ.get("OPENAI_API_KEY"):
-                        raise ValueError(
-                            "You need to define the `OPENAI_API_KEY` environment variable"
-                        )
         """
         self._driver = driver
         self.model = model
@@ -132,8 +125,8 @@ class KBGraphRAG:
         self.retry_delay = retry_delay
         self.retry_backoff = retry_backoff
         #self._openai_client = AsyncOpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
+        self._groq_client = None
         self._openai_client = None
-        self._anthropic_client = None
         self._init_llm_client(model)
         # Test for APOC
         try:
@@ -325,8 +318,8 @@ class KBGraphRAG:
         """
         Detect and summarize communities within the graph using the Leiden algorithm.
         Args:
-            summarize_all_levels (bool, optional): Whether to summarize all community levels
-                or just the final level. Defaults to False.
+            summarize_all_levels (bool, optional): Whether to summarize all community
+            levels or just the final level. Defaults to False.
         Returns:
             str: Success message with count of generated community summaries
         Notes:
@@ -478,28 +471,21 @@ class KBGraphRAG:
 
     @staticmethod
     def _provider_for_model(model: str) -> str:
-        """Route a model name to its provider. "claude*" -> anthropic, else openai."""
-        return "anthropic" if model.lower().startswith("claude") else "openai"
+        #Route a model name to its provider.
+        return "groq" if model.lower().startswith("openai") else "openai"
 
     def _init_llm_client(self, model: str) -> None:
         """Lazily create (and cache) the client needed for `model`'s provider."""
         provider = self._provider_for_model(model)
-        if provider == "anthropic":
-            if self._anthropic_client is None:
-                if not os.environ.get("ANTHROPIC_API_KEY"):
+        if provider == "groq":
+            if self._groq_client is None:
+                if not os.environ.get("GROQ_API_KEY"):
                     raise ValueError(
-                        "You need to define the `ANTHROPIC_API_KEY` environment variable"
+                        "You need to define the `GROQ_API_KEY` environment variable"
                     )
-                # Keys not scoped to a workspace must name one via this header
-                workspace_id = os.environ.get("ANTHROPIC_WORKSPACE_ID")
-                self._anthropic_client = AsyncAnthropic(
-                    api_key=os.environ.get("ANTHROPIC_API_KEY"),
-                    default_headers=(
-                        {"anthropic-workspace-id": workspace_id}
-                        if workspace_id
-                        else None
-                    ),
-                )
+                self._groq_client = AsyncGroq(
+                    api_key=os.environ.get("GROQ_API_KEY")
+                )        
         else:
             if self._openai_client is None:
                 if not os.environ.get("OPENAI_API_KEY"):
@@ -515,18 +501,15 @@ class KBGraphRAG:
         model = model or self.model
         config = dict(config) if config else {}
         self._init_llm_client(model)
-        if self._provider_for_model(model) == "anthropic":
+        if self._provider_for_model(model) == "groq":
             max_tokens = config.pop("max_tokens", 4096)
-            response = await self._anthropic_client.messages.create(
+            response = await self._groq_client.chat.completions.create(
                 model=model,
                 max_tokens=max_tokens,
                 messages=messages,
                 **config,
             )
-            text = "".join(
-                block.text for block in response.content if block.type == "text"
-            )
-            return SimpleNamespace(content=text)
+            return response.choices[0].message
         response = await self._openai_client.chat.completions.create(
             model=model,
             messages=messages,
@@ -537,7 +520,6 @@ class KBGraphRAG:
     def close(self) -> None:
         """
         Explicitly close the Neo4j driver connection.
-
         Delegates connection management to the Neo4j driver.
         """
         if hasattr(self, "_driver"):

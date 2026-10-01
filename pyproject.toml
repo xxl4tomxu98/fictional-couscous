@@ -21,9 +21,15 @@ dependencies = [
     "neo4j>=5.28.1",
     "openai>=1.69.0",
     "anthropic>=0.40.0",
+    "groq",
     "tqdm",
     "ipykernel",
     "python-dotenv",
+    "langchain",
+    "langchain-community",
+    "langchain-experimental",
+    "langchain-groq",
+    "langchain-neo4j"
 ]
 
 [project.urls]
