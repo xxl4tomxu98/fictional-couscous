@@ -26,10 +26,15 @@ dependencies = [
     "ipykernel",
     "python-dotenv",
     "langchain",
-    "langchain-community",
-    "langchain-experimental",
+    "langchain-community",    
     "langchain-groq",
-    "langchain-neo4j"
+    "langchain-neo4j",
+    "tiktoken",
+    "llama-index-core",
+    "json-repair",
+    "datasets",
+    "weaviate-client",
+    "neo4j-graphrag"
 ]
 
 [project.urls]

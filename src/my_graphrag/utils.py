@@ -138,4 +138,9 @@ def parse_extraction_output(output_str, record_delimiter=None, tuple_delimiter=N
 
 
 def extract_json(input: str):
-    return json.loads(input.removeprefix("```json").removesuffix("```").strip())
+    cleaned = input.removeprefix("```json").removesuffix("```").strip()
+    try:
+        return json.loads(cleaned)
+    except json.JSONDecodeError:
+        import json_repair
+        return json_repair.loads(cleaned)

@@ -1,5 +1,5 @@
 import_nodes_query = """
-CREATE (c:__Chunk__ {id: $chunk_id})
+MERGE (c:__Chunk__ {id: $chunk_id})
 SET c.text = $text
 WITH c
 UNWIND $data AS row

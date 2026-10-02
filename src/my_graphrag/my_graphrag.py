@@ -108,8 +108,9 @@ class KBGraphRAG:
         Args:
             driver (Driver): Neo4j driver instance
             model (str, optional): The language model to use. Model names starting
-                with "openai*" route to Groq; anything else routes to OpenAI.
-                Defaults to "openai/gpt-oss-120b".
+                with "openai*" route to Groq, "ollama/*" route to a local Ollama
+                server (OLLAMA_BASE_URL, default http://localhost:11434/v1), and
+                anything else routes to OpenAI. Defaults to "openai/gpt-oss-120b".
             database (str, optional): Neo4j database name. Defaults to "neo4j".
             max_workers (int, optional): Maximum number of concurrent workers. Defaults to 10.
             create_constraints (bool, optional): Whether to create database constraints. Defaults to True.
@@ -127,6 +128,7 @@ class KBGraphRAG:
         #self._openai_client = AsyncOpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
         self._groq_client = None
         self._openai_client = None
+        self._ollama_client = None
         self._init_llm_client(model)
         # Test for APOC
         try:
@@ -192,8 +194,23 @@ class KBGraphRAG:
                 print(f"JSON parsing error for extraction: {e}. Retrying...")
                 raise  # Re-raise to trigger retry
 
-        # Create tasks for all input texts
-        tasks = [process_text_with_retry(text) for text in input_texts]
+        # Skip chunks that were already extracted and imported (e.g. a previous run
+        # was interrupted or timed out partway through), so resuming doesn't redo
+        # work or duplicate relationships for chunks already in the graph.
+        existing_chunk_ids = {
+            row["id"] for row in self.query("MATCH (c:__Chunk__) RETURN c.id AS id")
+        }
+        pending_texts = [
+            text for text in input_texts if get_hash(text) not in existing_chunk_ids
+        ]
+        skipped = len(input_texts) - len(pending_texts)
+        if skipped:
+            print(f"Skipping {skipped} already-extracted chunk(s)")
+        if not pending_texts:
+            return "Successfuly extracted and imported 0 relationships (nothing new to extract)"
+
+        # Create tasks for all pending input texts
+        tasks = [process_text_with_retry(text) for text in pending_texts]
         # Process tasks with tqdm progress bar
         # Use semaphore to limit concurrent tasks if max_workers is specified
         if self.max_workers:
@@ -218,7 +235,7 @@ class KBGraphRAG:
 
         total_relationships = 0
         # Import nodes and relationships
-        for text, output in zip(input_texts, results):
+        for text, output in zip(pending_texts, results):
             nodes, relationships = output
             total_relationships += len(relationships)
             # Import nodes
@@ -369,6 +386,13 @@ class KBGraphRAG:
             # Try to extract JSON - this may fail and trigger retry
             try:
                 extracted_json = extract_json(summary.content)
+                if not isinstance(extracted_json, dict) or not all(
+                    isinstance(extracted_json.get(key), (str, int, float))
+                    for key in ("title", "summary", "rating", "rating_explanation")
+                ):
+                    raise ValueError(
+                        f"Community summary JSON missing expected scalar fields: {extracted_json!r}"
+                    )
                 return {
                     "community": extracted_json,
                     "communityId": community["communityId"],
@@ -472,6 +496,8 @@ class KBGraphRAG:
     @staticmethod
     def _provider_for_model(model: str) -> str:
         #Route a model name to its provider.
+        if model.lower().startswith("ollama/"):
+            return "ollama"
         return "groq" if model.lower().startswith("openai") else "openai"
 
     def _init_llm_client(self, model: str) -> None:
@@ -485,7 +511,13 @@ class KBGraphRAG:
                     )
                 self._groq_client = AsyncGroq(
                     api_key=os.environ.get("GROQ_API_KEY")
-                )        
+                )
+        elif provider == "ollama":
+            if self._ollama_client is None:
+                self._ollama_client = AsyncOpenAI(
+                    base_url=os.environ.get("OLLAMA_BASE_URL", "http://localhost:11434/v1"),
+                    api_key="ollama",
+                )
         else:
             if self._openai_client is None:
                 if not os.environ.get("OPENAI_API_KEY"):
@@ -501,11 +533,19 @@ class KBGraphRAG:
         model = model or self.model
         config = dict(config) if config else {}
         self._init_llm_client(model)
-        if self._provider_for_model(model) == "groq":
+        provider = self._provider_for_model(model)
+        if provider == "groq":
             max_tokens = config.pop("max_tokens", 4096)
             response = await self._groq_client.chat.completions.create(
                 model=model,
                 max_tokens=max_tokens,
+                messages=messages,
+                **config,
+            )
+            return response.choices[0].message
+        if provider == "ollama":
+            response = await self._ollama_client.chat.completions.create(
+                model=model.split("/", 1)[1],
                 messages=messages,
                 **config,
             )
