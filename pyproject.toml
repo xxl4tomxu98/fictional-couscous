@@ -24,6 +24,7 @@ dependencies = [
     "groq",
     "tqdm",
     "ipykernel",
+    "ipywidgets",
     "python-dotenv",
     "langchain",
     "langchain-community",    
