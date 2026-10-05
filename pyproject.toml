@@ -35,7 +35,9 @@ dependencies = [
     "json-repair",
     "datasets",
     "weaviate-client",
-    "neo4j-graphrag"
+    "neo4j-graphrag",
+    "rdflib",
+    "SPARQLWrapper"
 ]
 
 [project.urls]
