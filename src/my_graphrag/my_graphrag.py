@@ -90,7 +90,6 @@ class KBGraphRAG:
     References:
     - Microsoft GraphRAG: https://github.com/microsoft/graphrag
     """
-
     def __init__(
         self,
         driver: Driver,
@@ -193,7 +192,6 @@ class KBGraphRAG:
                 # Log the error if needed
                 print(f"JSON parsing error for extraction: {e}. Retrying...")
                 raise  # Re-raise to trigger retry
-
         # Skip chunks that were already extracted and imported (e.g. a previous run
         # was interrupted or timed out partway through), so resuming doesn't redo
         # work or duplicate relationships for chunks already in the graph.
@@ -208,17 +206,14 @@ class KBGraphRAG:
             print(f"Skipping {skipped} already-extracted chunk(s)")
         if not pending_texts:
             return "Successfuly extracted and imported 0 relationships (nothing new to extract)"
-
         # Create tasks for all pending input texts
         tasks = [process_text_with_retry(text) for text in pending_texts]
-        # Process tasks with tqdm progress bar
-        # Use semaphore to limit concurrent tasks if max_workers is specified
+        # Process tasks with tqdm bar, use semaphore to limit concurrent tasks if max_workers specified
         if self.max_workers:
             semaphore = asyncio.Semaphore(self.max_workers)
             async def process_with_semaphore(task):
                 async with semaphore:
                     return await task
-
             results = []
             for task in tqdm.as_completed(
                 [process_with_semaphore(task) for task in tasks],
@@ -232,7 +227,6 @@ class KBGraphRAG:
                 tasks, total=len(tasks), desc="Extracting nodes & relationships"
             ):
                 results.append(await task)
-
         total_relationships = 0
         # Import nodes and relationships
         for text, output in zip(pending_texts, results):
@@ -245,7 +239,6 @@ class KBGraphRAG:
             )
             # Import relationships
             self.query(import_relationships_query, params={"data": relationships})
-
         return f"Successfuly extracted and imported {total_relationships} relationships"
 
     async def summarize_nodes_and_rels(self) -> str:
@@ -279,7 +272,6 @@ class KBGraphRAG:
             async def process_with_semaphore(node):
                 async with semaphore:
                     return await process_node(node)
-
             summaries = await tqdm_asyncio.gather(
                 *[process_with_semaphore(node) for node in nodes],
                 desc="Summarizing nodes",
@@ -371,11 +363,7 @@ class KBGraphRAG:
             exceptions=(Exception,)
         )
         async def process_community_with_retry(community):
-            input_text = f"""Entities:
-                    {community['nodes']}
-
-                    Relationships:
-                    {community['rels']}"""
+            input_text = f"""Entities: {community['nodes']} Relationships: {community['rels']}"""
             messages = [
                 {
                     "role": "user",
