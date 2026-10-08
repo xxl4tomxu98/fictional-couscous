@@ -1,0 +1,1825 @@
+<http://schema.org/author/Ru,Jiang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://www.wikidata.org/entity/Q710> <http://www.w3.org/2000/01/rdf-schema#label> "Kiribati wikidata code"@en .
+<http://schema.org/doc/Environmental_and_Social
+____________Commitment_Plan_(ESCP)_Lao_Airlines_Sustainable_Development_(P181359)> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C2756_Lao_Airlines_Implementation_Support> .
+<http://schema.org/project/LA_Lao_Airlines_Sustainable_Development____P181359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/abstract/Environmental_and_Social
+____________Management_Framework_(ESMF)_Cashew_Value_Chain_Sustainable
+____________Development_Project_(P180040)> <http://schema.org/isPartOf> <http://schema.org/abstract/Environmental_and_Social
+____________Management_Framework_(ESMF)_Cashew_Value_Chain_Sustainable
+____________Development_Project_(P180040)> .
+<http://schema.org/doc/Stakeholder_Engagement_Plan_(SEP)
+____________Lao_Airlines_Sustainable_Development_(P181359)> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C2754_Lao_Air_Transport_Policy_&____________Governance_Technical_Assistance> .
+<http://schema.org/abstract/Official_Documents_
+____________Administration_Agreement_with_the_Grand_Duchy_of_Luxembourg,
+____________acting_through_its_Ministry_of_the_Environment,_Climate_and
+____________Sustainable_Development,_for_TF072858.pdf> <http://schema.org/isPartOf> <http://schema.org/abstract/Official_Documents_
+____________Administration_Agreement_with_the_Grand_Duchy_of_Luxembourg,
+____________acting_through_its_Ministry_of_the_Environment,_Climate_and
+____________Sustainable_Development,_for_TF072858.pdf> .
+<http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Mato_Grosso_Sustainable_Development_of_Family_Farming__
+____________P175723___Sequence_No_:_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/abstract> .
+<http://schema.org/Environmental_and_Social_Review_Summary> <http://www.w3.org/2000/01/rdf-schema#label> "Environmental and Social Review Summary"@en .
+<http://schema.org/doc/Turkiye___EUROPE_AND_CENTRAL
+____________ASIA__P179217__Land_management_infrastructure_for_green_and
+____________sustainable_development___Procurement_Plan> <http://schema.org/isPartOf> <http://schema.org/project/TR_Land_Management_Infrastructure_For_Green
+____________And_Sustainable_Develo____P179217> .
+<http://schema.org/abstract/Appraisal_Environmental_and
+____________Social_Review_Summary_(ESRS)___Haryana_Clean_Air_and
+____________Sustainable_Development_Program___P502491> <http://www.w3.org/2000/01/rdf-schema#label> "nan" .
+<http://schema.org/doc/Montenegro___First_Resilient
+____________Fiscal_and_Sustainable_Development_DPF_Project> <http://schema.org/isPartOf> <http://schema.org/project/ME_Montenegro_First_Resilient_Fiscal_And
+____________Sustainable_Development_D____P178646> .
+<http://schema.org/doc/Brazil___LATIN_AMERICA_AND
+____________CARIBBEAN___P167455___Ceara_Rural_Sustainable_Development
+____________and_Competitiveness_Phase_II___Audited_Financial_Statement> <http://www.w3.org/2000/01/rdf-schema#label> "Brazil - LATIN AMERICA AND\n            CARIBBEAN - P167455 - Ceara Rural Sustainable Development\n            and Competitiveness Phase II - Audited Financial Statement"@en .
+<http://schema.org/doc/Turkiye___EUROPE_AND_CENTRAL
+____________ASIA__P179217__Land_management_infrastructure_for_green_and
+____________sustainable_development___Procurement_Plan> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C6078_GSCP___C2___Turkiye:____________Geospatial_informed_Smart_City_Strategies_for_Publ> .
+<http://schema.org/author/Noronha_Farinelli,Barbara_Cristina> <http://www.w3.org/2000/01/rdf-schema#label> "Noronha Farinelli,Barbara Cristina"@en .
+<http://schema.org/trustfund/TF0C1092_POLICIES_TO_PROMOTE____________MONTENEGRO#S_RESILIENT_RECOVERY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Sustainable_Development_DPL___P500557___Sequence_No_:_1> <http://schema.org/countryOfOrigin> <http://schema.org/Dominican_Republic> .
+<http://schema.org/author/D_Agostino_Fontaine,Santiago_Manuel> <http://schema.org/authored> <http://schema.org/doc/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN___P105680___Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Audited_Financial_Statement> .
+<http://schema.org/abstract/Environmental_and_Social
+____________Commitment_Plan_(ESCP)___Haryana_Clean_Air_and_Sustainable
+____________Development_Program___P502491> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/abstract> .
+<http://schema.org/doc/Turkiye___EUROPE_AND_CENTRAL
+____________ASIA__P179217__Land_management_infrastructure_for_green_and
+____________sustainable_development___Procurement_Plan> <http://www.w3.org/2000/01/rdf-schema#label> "Turkiye - EUROPE AND CENTRAL\n            ASIA- P179217- Land management infrastructure for green and\n            sustainable development - Procurement Plan"@en .
+<http://schema.org/author/Lugo,Maria_Ana> <http://www.w3.org/2000/01/rdf-schema#label> "Lugo,Maria Ana"@en .
+<http://schema.org/doc/Brazil___LATIN_AMERICA_AND
+____________CARIBBEAN___P167455___Ceara_Rural_Sustainable_Development
+____________and_Competitiveness_Phase_II___Audited_Financial_Statement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Auditing_Document> .
+<http://schema.org/doc/Montenegro___First_Resilient
+____________Fiscal_and_Sustainable_Development_DPF_Project> <http://schema.org/abstractIs> <http://schema.org/abstract/Montenegro___First_Resilient
+____________Fiscal_and_Sustainable_Development_DPF_Project> .
+<http://schema.org/doc/Concept_Environmental_and_Social
+____________Review_Summary_(ESRS)___Kiritimati_Sustainable_Development
+____________Platform___P505401> <http://schema.org/abstractIs> <http://schema.org/abstract/Concept_Environmental_and_Social
+____________Review_Summary_(ESRS)___Kiritimati_Sustainable_Development
+____________Platform___P505401> .
+<http://schema.org/doc/Environmental_and_Social
+____________Commitment_Plan_(ESCP)___Haryana_Clean_Air_and_Sustainable
+____________Development_Program___P502491> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C4697_Haryana_Clean_Air_Project_for____________Sustainable_Development:_Clean_Cooking_Pr> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_31> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0B8604_Circular_Economy_Actions_for____________Non_Point_Source_Pollution_Reduction_at_th> .
+<http://schema.org/doc/Lao_People’s_Democratic_Republic
+______________Lao_Airlines_Sustainable_Development_Project_:
+____________Implementation_Support_Mission___July_8_12,_2024> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C3665_Lao_Aviation_Sustainable_Development> .
+<http://schema.org/doc/Sustainable_Development_Finance
+____________Policy_of_the_International_Development_Association_:
+____________Proposal_for_Policy_Enhancement> <http://schema.org/isPartOf> <http://schema.org/project/nan> .
+<http://schema.org/doc/Lao_People's_Democratic
+____________Republic___EAST_ASIA_AND_PACIFIC__P181359__Lao_Airlines
+____________Sustainable_Development_Project___Procurement_Plan> <http://schema.org/countryOfOrigin> <http://schema.org/Lao_People's_Democratic_Republic> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Rio_de_Janeiro_Adjustment_and_Sustainable_Development_Policy
+____________Loan___P178729___Sequence_No_:_2> <http://schema.org/countryOfOrigin> <http://schema.org/Brazil> .
+<http://schema.org/doc/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN___P105680___Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Audited_Financial_Statement> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF098374_Supporting_the_Implementation____________of_Phase_1_of_the_Matanza_Riachuelo_Basin> .
+<http://schema.org/Montenegro> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/country> .
+<http://schema.org/author/World_Bank> <http://www.w3.org/2000/01/rdf-schema#label> "World Bank"@en .
+<http://schema.org/abstract/Lao_People’s_Democratic_Republic
+______________Lao_Airlines_Sustainable_Development_Project> <http://schema.org/isPartOf> <http://schema.org/abstract/Lao_People’s_Democratic_Republic
+______________Lao_Airlines_Sustainable_Development_Project> .
+<http://schema.org/isPartOf> <http://www.w3.org/2000/01/rdf-schema#label> "This entity is a part of another entity" .
+<http://schema.org/abstract/Environmental_and_Social
+____________Management_Framework_(ESMF)_Cashew_Value_Chain_Sustainable
+____________Development_Project_(P180040)> <http://www.w3.org/2000/01/rdf-schema#label> "nan" .
+<http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_31> <http://schema.org/isPartOf> <http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_31> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Mato_Grosso_Sustainable_Development_of_Family_Farming__
+____________P175723___Sequence_No_:_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Implementation_Status_and_Results_Report> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Ceara_Rural_Sustainable_Development_and_Competitiveness
+____________Phase_II___P167455___Sequence_No_:_10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Implementation_Status_and_Results_Report> .
+<http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/abstract> .
+<http://schema.org/author/Daniel_Larrache> <http://schema.org/authored> <http://schema.org/doc/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN__P105680__Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Procurement_Plan> .
+<http://schema.org/author/zgen_alar> <http://schema.org/authored> <http://schema.org/doc/Turkiye___EUROPE_AND_CENTRAL
+____________ASIA__P179217__Land_management_infrastructure_for_green_and
+____________sustainable_development___Procurement_Plan> .
+<http://schema.org/author/Gill,Indermit_S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Mato_Grosso_Sustainable_Development_of_Family_Farming__
+____________P175723___Sequence_No_:_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Implementation_Status_and_Results_Report> .
+<http://schema.org/doc/Brazil___LATIN_AMERICA_AND
+____________CARIBBEAN__P167455__Ceara_Rural_Sustainable_Development_and
+____________Competitiveness_Phase_II___Procurement_Plan> <http://schema.org/isPartOf> <http://schema.org/project/BR_Ceara_Rural_Sustainable_Development_And
+____________Competitiveness_Phase_I____P167455> .
+<http://schema.org/trustfund/TF0C5866_FY25_PPIUF_Kirimati_Sustainable____________Development_Platform> <http://www.w3.org/2000/01/rdf-schema#label> "Trustfund: TF0C5866_FY25_PPIUF_Kirimati_Sustainable____________Development_Platform" .
+<http://schema.org/doc/Appraisal_Environmental_and
+____________Social_Review_Summary_(ESRS)___Rio_Grande_do_Norte:
+____________Sustainable_Development_and_Governance_of_Rio_Grande_do
+____________Norte___Phase_2_ __P502493> <http://schema.org/countryOfOrigin> <http://schema.org/Brazil> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Rio_de_Janeiro_Adjustment_and_Sustainable_Development_Policy
+____________Loan___P178729___Sequence_No_:_2> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0B9837_Co_creating_safe_and_inclusive____________infrastructure_to_enhance_childrenâ> .
+<http://schema.org/Stakeholder_Engagement_Plan> <http://www.w3.org/2000/01/rdf-schema#label> "Stakeholder Engagement Plan"@en .
+<http://schema.org/project/IN_Haryana_Clean_Air_And_Sustainable
+____________Development_Program_P502491> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/trustfund/TF0B9837_Co_creating_safe_and_inclusive____________infrastructure_to_enhance_childrenâ> <http://schema.org/countryOfOrigin> <http://schema.org/Brazil> .
+<http://schema.org/trustfund/TF0C1092_POLICIES_TO_PROMOTE____________MONTENEGRO#S_RESILIENT_RECOVERY> <http://schema.org/countryOfOrigin> <http://schema.org/Montenegro> .
+<http://schema.org/abstract/Disclosable_Restructuring_Paper__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project___P105680> <http://schema.org/isPartOf> <http://schema.org/abstract/Disclosable_Restructuring_Paper__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project___P105680> .
+<http://schema.org/doc/Concept_Environmental_and_Social
+____________Review_Summary_(ESRS)___Rio_Grande_do_Norte:_Sustainable
+____________Development_and_Governance_of_Rio_Grande_do_Norte___Phase_2
+____________ __P502493> <http://schema.org/countryOfOrigin> <http://schema.org/Brazil> .
+<http://schema.org/doc/Environmental_and_Social
+____________Commitment_Plan_(ESCP)_Lao_Airlines_Sustainable_Development_(P181359)> <http://schema.org/countryOfOrigin> <http://schema.org/Lao_People's_Democratic_Republic> .
+<http://schema.org/doc/Lao_People’s_Democratic_Republic
+______________Lao_Airlines_Sustainable_Development_Project> <http://schema.org/abstractIs> <http://schema.org/abstract/Lao_People’s_Democratic_Republic
+______________Lao_Airlines_Sustainable_Development_Project> .
+<http://schema.org/author/LEGKL> <http://schema.org/authored> <http://schema.org/doc/Official_Documents_
+____________Administration_Agreement_with_the_Grand_Duchy_of_Luxembourg,
+____________acting_through_its_Ministry_of_the_Environment,_Climate_and
+____________Sustainable_Development,_for_TF072858.pdf> .
+<http://schema.org/doc/Environmental_and_Social
+____________Commitment_Plan_(ESCP)___Rio_Grande_do_Norte:_Sustainable
+____________Development_and_Governance_of_Rio_Grande_do_Norte___Phase_2
+______________P502493> <http://schema.org/countryOfOrigin> <http://schema.org/Brazil> .
+<http://schema.org/doc/Concept_Environmental_and_Social
+____________Review_Summary_(ESRS)___Haryana_Clean_Air_and_Sustainable
+____________Development_Program___P502491> <http://schema.org/authoredBy> <http://schema.org/author/Chichgar,Sharlene_Jehanbux> .
+<http://schema.org/project> <http://www.w3.org/2000/01/rdf-schema#label> "worldbank project" .
+<http://schema.org/author/Zeni,Federica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/trustfund/TF0C5866_FY25_PPIUF_Kirimati_Sustainable____________Development_Platform> <http://schema.org/countryOfOrigin> <http://schema.org/Kiribati> .
+<http://schema.org/World> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/authored> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://schema.org/Procurement_Plan> <http://www.w3.org/2000/01/rdf-schema#label> "Procurement Plan"@en .
+<http://schema.org/doc/Turkiye___EUROPE_AND_CENTRAL
+____________ASIA__P179217__Land_management_infrastructure_for_green_and
+____________sustainable_development___Procurement_Plan> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C4083_Leveraging_property_and____________geospatial_data_for_disaster_and_climate_resili> .
+<http://schema.org/Procedure_and_Checklist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://schema.org/Policy_Research_Working_Paper> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/author/Lugo,Maria_Ana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/doc/Montenegro___First_Resilient
+____________Fiscal_and_Sustainable_Development_DPF_Project> <http://www.w3.org/2000/01/rdf-schema#label> "Montenegro - First Resilient\n            Fiscal and Sustainable Development DPF Project"@en .
+<http://schema.org/project/AR_Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project____P105680> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/authored> <http://www.w3.org/2000/01/rdf-schema#label> "This author wrote this document." .
+<http://schema.org/author/Waksberg_Guerrini,Ana> <http://www.w3.org/2000/01/rdf-schema#label> "Waksberg Guerrini,Ana"@en .
+<http://schema.org/Program_Document> <http://www.w3.org/2000/01/rdf-schema#label> "Program Document"@en .
+<http://schema.org/project/1W_Global_Aquabusiness_Investment_Guide____P503117> <http://www.w3.org/2000/01/rdf-schema#label> "1W_Global_Aquabusiness_Investment_Guide____P503117"@en .
+<http://schema.org/abstract/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN___P105680___Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Audited_Financial_Statement> <http://www.w3.org/2000/01/rdf-schema#label> "nan" .
+<http://schema.org/author/Bichara_Rocha,Leonardo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/doc/Environmental_and_Social
+____________Management_Framework_(ESMF)_Cashew_Value_Chain_Sustainable
+____________Development_Project_(P180040)> <http://schema.org/abstractIs> <http://schema.org/abstract/Environmental_and_Social
+____________Management_Framework_(ESMF)_Cashew_Value_Chain_Sustainable
+____________Development_Project_(P180040)> .
+<http://schema.org/doc/Appraisal_Environmental_and
+____________Social_Review_Summary_(ESRS)___Haryana_Clean_Air_and
+____________Sustainable_Development_Program___P502491> <http://schema.org/authoredBy> <http://schema.org/author/Chichgar,Sharlene_Jehanbux> .
+<http://schema.org/author/Cull,Robert_J.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_31> <http://schema.org/countryOfOrigin> <http://schema.org/Argentina> .
+<http://schema.org/author/Ruiz_Ortega,Claudia> <http://www.w3.org/2000/01/rdf-schema#label> "Ruiz Ortega,Claudia"@en .
+<http://schema.org/author/Diaz_Sanchez,Jose_Luis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/doc/Brazil___Mato_Grosso_Sustainable
+____________Development_of_Family_Farming_Project> <http://www.w3.org/2000/01/rdf-schema#label> "Brazil - Mato Grosso Sustainable\n            Development of Family Farming Project"@en .
+<http://schema.org/abstract/Labor_Management_Procedures_Lao
+____________Airlines_Sustainable_Development_(P181359)> <http://www.w3.org/2000/01/rdf-schema#label> "nan" .
+<http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Sustainable_Development_DPL___P500557___Sequence_No_:_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/abstract> .
+<http://schema.org/trustfund/TF098374_Supporting_the_Implementation____________of_Phase_1_of_the_Matanza_Riachuelo_Basin> <http://www.w3.org/2000/01/rdf-schema#label> "TF098374_Supporting_the_Implementation____________of_Phase_1_of_the_Matanza_Riachuelo_Basin" .
+<http://schema.org/author/LEGKL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/doc/Environmental_and_Social
+____________Management_Framework_(ESMF)_Cashew_Value_Chain_Sustainable
+____________Development_Project_(P180040)> <http://www.w3.org/2000/01/rdf-schema#label> "Environmental and Social\n            Management Framework (ESMF) Cashew Value Chain Sustainable\n            Development Project (P180040)"@en .
+<http://schema.org/India> <http://www.w3.org/2000/01/rdf-schema#label> "India"@en .
+<http://schema.org/trustfund/TF0C5871_CH4D___Brazil___Methane_Action____________in_Livestock_Practices> <http://schema.org/countryOfOrigin> <http://schema.org/Brazil> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Lao_Airlines_Sustainable_Development_Project___P181359__
+____________Sequence_No_:_1> <http://schema.org/countryOfOrigin> <http://schema.org/Lao_People's_Democratic_Republic> .
+<http://schema.org/Aide_Memoire> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/author/Siegmann,Katharina> <http://schema.org/authored> <http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Sustainable_Development_DPL___P500557___Sequence_No_:_1> .
+<http://schema.org/Program_Information_Document> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/abstract/Disclosable_Restructuring_Paper__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project___P105680> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/abstract> .
+<http://schema.org/author/World_Bank> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://www.wikidata.org/entity/Q786> <http://www.w3.org/2000/01/rdf-schema#label> "Dominican Republic wikidata code"@en .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Ceara_Rural_Sustainable_Development_and_Competitiveness
+____________Phase_II___P167455___Sequence_No_:_11> <http://schema.org/isPartOf> <http://schema.org/project/BR_Ceara_Rural_Sustainable_Development_And
+____________Competitiveness_Phase_I____P167455> .
+<http://schema.org/author/Lucas_Figueras> <http://schema.org/authored> <http://schema.org/doc/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN__P105680__Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Procurement_Plan> .
+<http://schema.org/trustfund/TF0C5873_Investing_in_the_Dominican____________Republics_Green_Recovery_and_Blue_Economy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/trustfund/TF0C2756_Lao_Airlines_Implementation_Support> <http://www.w3.org/2000/01/rdf-schema#label> "Trustfund: TF0C2756_Lao_Airlines_Implementation_Support" .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Ceara_Rural_Sustainable_Development_and_Competitiveness
+____________Phase_II___P167455___Sequence_No_:_11> <http://www.w3.org/2000/01/rdf-schema#label> "Disclosable Version of the ISR -\n            Ceara Rural Sustainable Development and Competitiveness\n            Phase II - P167455 - Sequence No : 11"@en .
+<http://schema.org/project/UG_Uganda:_Albertine_Region_Sustainable
+____________Development_Project____P145101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Rio_de_Janeiro_Adjustment_and_Sustainable_Development_Policy
+____________Loan___P178729___Sequence_No_:_2> <http://schema.org/abstractIs> <http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Rio_de_Janeiro_Adjustment_and_Sustainable_Development_Policy
+____________Loan___P178729___Sequence_No_:_2> .
+<http://schema.org/trustfund/TF0C2756_Lao_Airlines_Implementation_Support> <http://schema.org/countryOfOrigin> <http://schema.org/Lao_People's_Democratic_Republic> .
+<http://schema.org/doc/Environmental_and_Social
+____________Commitment_Plan_(ESCP)_Lao_Airlines_Sustainable_Development_(P181359)> <http://www.w3.org/2000/01/rdf-schema#label> "Environmental and Social\n            Commitment Plan (ESCP) Lao Airlines Sustainable Development (P181359)"@en .
+<http://schema.org/project/HN_First_Fiscal_And_Climate_Transparency_And
+____________Sustainability_Develo____P179909> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/trustfund/TF0C5873_Investing_in_the_Dominican____________Republics_Green_Recovery_and_Blue_Economy> <http://schema.org/countryOfOrigin> <http://schema.org/Dominican_Republic> .
+<http://schema.org/project/ME_Montenegro_First_Resilient_Fiscal_And
+____________Sustainable_Development_D____P178646> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Mato_Grosso_Sustainable_Development_of_Family_Farming__
+____________P175723___Sequence_No_:_2> <http://schema.org/isPartOf> <http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Mato_Grosso_Sustainable_Development_of_Family_Farming__
+____________P175723___Sequence_No_:_2> .
+<http://schema.org/doc/Sustainable_Development_Finance
+____________Policy_of_the_International_Development_Association_:
+____________Proposal_for_Policy_Enhancement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Board_Report> .
+<http://schema.org/abstract/Stakeholder_Engagement_Plan_(SEP)
+____________Lao_Airlines_Sustainable_Development_(P181359)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/abstract> .
+<http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Lao_Airlines_Sustainable_Development_Project___P181359__
+____________Sequence_No_:_1> <http://www.w3.org/2000/01/rdf-schema#label> "nan" .
+<http://schema.org/author/LEGKL> <http://www.w3.org/2000/01/rdf-schema#label> "LEGKL"@en .
+<http://schema.org/abstract/Stakeholder_Engagement_Plan_(SEP)
+______________Haryana_Clean_Air_and_Sustainable_Development_Program___P502491> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/abstract> .
+<http://schema.org/doc/Stakeholder_Engagement_Plan_(SEP)
+______________Rio_Grande_do_Norte:_Sustainable_Development_and
+____________Governance_of_Rio_Grande_do_Norte___Phase_2____P502493> <http://schema.org/countryOfOrigin> <http://schema.org/Brazil> .
+<http://schema.org/trustfund/TF0C4083_Leveraging_property_and____________geospatial_data_for_disaster_and_climate_resili> <http://schema.org/countryOfOrigin> <http://schema.org/Turkiye> .
+<http://www.wikidata.org/entity/Q783> <http://www.w3.org/2000/01/rdf-schema#label> "Honduras wikidata code"@en .
+<http://schema.org/doc/Brazil___LATIN_AMERICA_AND
+____________CARIBBEAN__P167455__Ceara_Rural_Sustainable_Development_and
+____________Competitiveness_Phase_II___Procurement_Plan> <http://www.w3.org/2000/01/rdf-schema#label> "Brazil - LATIN AMERICA AND\n            CARIBBEAN- P167455- Ceara Rural Sustainable Development and\n            Competitiveness Phase II - Procurement Plan"@en .
+<http://schema.org/author/Colbano,Fabiano_Silvio> <http://schema.org/authored> <http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Rio_de_Janeiro_Adjustment_and_Sustainable_Development_Policy
+____________Loan___P178729___Sequence_No_:_2> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_31> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF098374_Supporting_the_Implementation____________of_Phase_1_of_the_Matanza_Riachuelo_Basin> .
+<http://schema.org/abstract/Concept_Environmental_and_Social
+____________Review_Summary_(ESRS)___Haryana_Clean_Air_and_Sustainable
+____________Development_Program___P502491> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/abstract> .
+<http://schema.org/Uganda> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/country> .
+<http://schema.org/Project_Appraisal_Document> <http://www.w3.org/2000/01/rdf-schema#label> "Project Appraisal Document"@en .
+<http://schema.org/doc/Revised__Resettlement_Framework
+____________Rio_Grande_do_Norte:_Sustainable_Development_and_Governance
+____________of_Rio_Grande_do_Norte___Phase_2__(P502493)> <http://www.w3.org/2000/01/rdf-schema#label> "Revised  Resettlement Framework\n            Rio Grande do Norte: Sustainable Development and Governance\n            of Rio Grande do Norte - Phase 2  (P502493)"@en .
+<http://schema.org/Argentina> <http://www.w3.org/2000/01/rdf-schema#label> "Argentina"@en .
+<http://schema.org/doc/Disclosable_Restructuring_Paper__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project___P105680> <http://www.w3.org/2000/01/rdf-schema#label> "Disclosable Restructuring Paper -\n            Matanza-Riachuelo Basin Sustainable Development Project - P105680"@en .
+<http://schema.org/doc/The_Global_Aquabusiness
+____________Investment_Guide_:_A_Living_Framework_to_Guide_Sustainable
+____________Development_in_the_World's_Fastest_Growing_Food_Sector
+______________Summer_2024> <http://schema.org/isPartOf> <http://schema.org/project/1W_Global_Aquabusiness_Investment_Guide____P503117> .
+<http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/abstract> .
+<http://schema.org/doc/Lao_People's_Democratic
+____________Republic___EAST_ASIA_AND_PACIFIC__P181359__Lao_Airlines
+____________Sustainable_Development_Project___Procurement_Plan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Procurement_Plan> .
+<http://schema.org/trustfund/TF0C5871_CH4D___Brazil___Methane_Action____________in_Livestock_Practices> <http://www.w3.org/2000/01/rdf-schema#label> "Trustfund: TF0C5871_CH4D___Brazil___Methane_Action____________in_Livestock_Practices" .
+<http://schema.org/doc/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN___P105680___Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Audited_Financial_Statement> <http://schema.org/isPartOf> <http://schema.org/project/AR_Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project____P105680> .
+<http://schema.org/trustfund/TF0C4415_Kiritimati_TAF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/doc/Stakeholder_Engagement_Plan_(SEP)
+______________Haryana_Clean_Air_and_Sustainable_Development_Program___P502491> <http://schema.org/countryOfOrigin> <http://schema.org/India> .
+<http://schema.org/doc/Appraisal_Environmental_and
+____________Social_Review_Summary_(ESRS)___Haryana_Clean_Air_and
+____________Sustainable_Development_Program___P502491> <http://www.w3.org/2000/01/rdf-schema#label> "Appraisal Environmental and\n            Social Review Summary (ESRS) - Haryana Clean Air and\n            Sustainable Development Program - P502491"@en .
+<http://schema.org/doc/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN___P105680___Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Audited_Financial_Statement> <http://schema.org/authoredBy> <http://schema.org/author/D_Agostino_Fontaine,Santiago_Manuel> .
+<http://schema.org/author/Borrowing_Agency> <http://schema.org/authored> <http://schema.org/doc/Labor_Management_Procedures_Lao
+____________Airlines_Sustainable_Development_(P181359)> .
+<http://schema.org/Stakeholder_Engagement_Plan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_33> <http://schema.org/isPartOf> <http://schema.org/project/AR_Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project____P105680> .
+<http://schema.org/doc/Brazil___State_of_Ceará
+____________Sustainable_Development_Policy_Financing> <http://schema.org/isPartOf> <http://schema.org/project/BR_State_Of_Ceará_Sustainable_Development
+____________Policy_Loan____P180497> .
+<http://schema.org/author/Lafaete_Almeida_de_Oliveira> <http://www.w3.org/2000/01/rdf-schema#label> "Lafaete Almeida de Oliveira"@en .
+<http://schema.org/Argentina> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/country> .
+<http://schema.org/author/Laure,Alexandre_Hugo> <http://www.w3.org/2000/01/rdf-schema#label> "Laure,Alexandre Hugo"@en .
+<http://www.wikidata.org/entity/Q155> <http://www.w3.org/2000/01/rdf-schema#label> "Brazil wikidata code"@en .
+<http://schema.org/Montenegro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/trustfund/TF0C4697_Haryana_Clean_Air_Project_for____________Sustainable_Development:_Clean_Cooking_Pr> <http://www.w3.org/2000/01/rdf-schema#label> "TF0C4697_Haryana_Clean_Air_Project_for____________Sustainable_Development:_Clean_Cooking_Pr" .
+<http://schema.org/trustfund/nan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/doc/P502491___Draft_Environmental_and
+____________Social_Systems_Assessment_(ESSA)___Haryana_Clean_Air_and
+____________Sustainable_Development_Program> <http://schema.org/isPartOf> <http://schema.org/project/IN_Haryana_Clean_Air_And_Sustainable
+____________Development_Program_P502491> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Ceara_Rural_Sustainable_Development_and_Competitiveness
+____________Phase_II___P167455___Sequence_No_:_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Implementation_Status_and_Results_Report> .
+<http://schema.org/doc/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN__P105680__Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Procurement_Plan> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0B9831_Circular_Economy_for_Waste____________Management_in_Province_of_Buenos_Aires> .
+<http://schema.org/trustfund> <http://www.w3.org/2000/01/rdf-schema#label> "trustfund" .
+<http://schema.org/doc/World_Bank_Group_Partnership_Fund
+____________for_the_Sustainable_Development_Goals_:_Annual_Report_2024> <http://www.w3.org/2000/01/rdf-schema#label> "World Bank Group Partnership Fund\n            for the Sustainable Development Goals : Annual Report 2024"@en .
+<http://schema.org/doc/Environmental_and_Social
+____________Commitment_Plan_(ESCP)___Rio_Grande_do_Norte:_Sustainable
+____________Development_and_Governance_of_Rio_Grande_do_Norte___Phase_2
+______________P502493> <http://schema.org/isPartOf> <http://schema.org/project/BR_Rio_Grande_Do_Norte:_Sustainable
+____________Development_And_Governance_Of____P502493> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_3> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C5286_T00fcrkiye:_Leveraging_National____________Spatial_Data_Infrastructure_for_Smart_C> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_4> <http://schema.org/authoredBy> <http://schema.org/author/Corsi,Anna> .
+<http://schema.org/India> <http://schema.org/wd_URI> <http://www.wikidata.org/entity/Q668> .
+<http://schema.org/Cote_d'Ivoire> <http://www.w3.org/2000/01/rdf-schema#label> "Cote d'Ivoire"@en .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_3> <http://schema.org/isPartOf> <http://schema.org/project/TR_Land_Management_Infrastructure_For_Green
+____________And_Sustainable_Develo____P179217> .
+<http://schema.org/abstract> <http://www.w3.org/2000/01/rdf-schema#label> "Short summary of a document." .
+<http://schema.org/Environmental_and_Social_Management_Plan> <http://www.w3.org/2000/01/rdf-schema#label> "Environmental and Social Management Plan"@en .
+<http://schema.org/author/Lafaete_Almenida_de_Oliveira_Mesquita> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/doc/Lao_People's_Democratic
+____________Republic___EAST_ASIA_AND_PACIFIC__P181359__Lao_Airlines
+____________Sustainable_Development___Procurement_Plan> <http://schema.org/countryOfOrigin> <http://schema.org/Lao_People's_Democratic_Republic> .
+<http://schema.org/doc/Brazil___LATIN_AMERICA_AND
+____________CARIBBEAN__P167455__Ceara_Rural_Sustainable_Development_and
+____________Competitiveness_Phase_II___Procurement_Plan> <http://schema.org/countryOfOrigin> <http://schema.org/Brazil> .
+<http://schema.org/abstract/P502491___Draft_Environmental_and
+____________Social_Systems_Assessment_(ESSA)___Haryana_Clean_Air_and
+____________Sustainable_Development_Program> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/abstract> .
+<http://schema.org/Annual_Report> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/project/IN_Haryana_Clean_Air_And_Sustainable
+____________Development_Program_P502491> <http://www.w3.org/2000/01/rdf-schema#label> "IN_Haryana_Clean_Air_And_Sustainable\n____________Development_Program_P502491"@en .
+<http://schema.org/doc/Montenegro___First_Resilient
+____________Fiscal_and_Sustainable_Development_DPF_Project> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C1092_POLICIES_TO_PROMOTE____________MONTENEGRO#S_RESILIENT_RECOVERY> .
+<http://schema.org/project/ME_Montenegro_First_Resilient_Fiscal_And
+____________Sustainable_Development_D____P178646> <http://www.w3.org/2000/01/rdf-schema#label> "ME_Montenegro_First_Resilient_Fiscal_And\n____________Sustainable_Development_D____P178646"@en .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Ceara_Rural_Sustainable_Development_and_Competitiveness
+____________Phase_II___P167455___Sequence_No_:_11> <http://schema.org/countryOfOrigin> <http://schema.org/Brazil> .
+<http://schema.org/doc/Lao_People’s_Democratic_Republic
+______________Lao_Airlines_Sustainable_Development_Project_:
+____________Implementation_Support_Mission___July_8_12,_2024> <http://schema.org/isPartOf> <http://schema.org/project/LA_Lao_Airlines_Sustainable_Development
+____________Project____P181359> .
+<http://schema.org/author/ELAINY_CRISTINA_PINHEIRO_VIEIRA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/project/LA_Lao_Airlines_Sustainable_Development
+____________Project____P181359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/author/zgen_alar> <http://www.w3.org/2000/01/rdf-schema#label> "zgen alar"@en .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_02> <http://schema.org/countryOfOrigin> <http://schema.org/Turkiye> .
+<http://schema.org/trustfund/TF072858_Global_Shield_Financing____________Facility_Multi_Donor_Trust_Fund> <http://schema.org/countryOfOrigin> <http://schema.org/nan> .
+<http://schema.org/Kiribati> <http://schema.org/wd_URI> <http://www.wikidata.org/entity/Q710> .
+<http://www.wikidata.org/entity/Q1036> <http://www.w3.org/2000/01/rdf-schema#label> "Uganda wikidata code"@en .
+<http://schema.org/Implementation_Status_and_Results_Report> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/Auditing_Document> <http://www.w3.org/2000/01/rdf-schema#label> "Auditing Document"@en .
+<http://schema.org/Report> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Implementation_Status_and_Results_Report> .
+<http://schema.org/doc/Lao_People’s_Democratic_Republic
+______________Lao_Airlines_Sustainable_Development_Project> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C2754_Lao_Air_Transport_Policy_&____________Governance_Technical_Assistance> .
+<http://schema.org/author/Oppong,M._Yaa_Pokua_Afriyie> <http://www.w3.org/2000/01/rdf-schema#label> "Oppong,M. Yaa Pokua Afriyie"@en .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_3> <http://schema.org/countryOfOrigin> <http://schema.org/Turkiye> .
+<http://schema.org/trustfund/TF0C2756_Lao_Airlines_Implementation_Support> <http://www.w3.org/2000/01/rdf-schema#label> "TF0C2756_Lao_Airlines_Implementation_Support" .
+<http://schema.org/project/BR_Rio_De_Janeiro_Fiscal_Management_And
+____________Sustainable_Development_Po____P179182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/doc/Environmental_and_Social
+____________Commitment_Plan_(ESCP)___Haryana_Clean_Air_and_Sustainable
+____________Development_Program___P502491> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Environmental_and_Social_Commitment_Plan> .
+<http://schema.org/trustfund/TF0C5286_T00fcrkiye:_Leveraging_National____________Spatial_Data_Infrastructure_for_Smart_C> <http://schema.org/countryOfOrigin> <http://schema.org/Turkiye> .
+<http://schema.org/abstract/Lao_People’s_Democratic_Republic
+______________Lao_Airlines_Sustainable_Development_Project> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/abstract> .
+<http://schema.org/Honduras> <http://www.w3.org/2000/01/rdf-schema#label> "Honduras"@en .
+<http://schema.org/doc/Stakeholder_Engagement_Plan_(SEP)
+______________Haryana_Clean_Air_and_Sustainable_Development_Program___P502491> <http://schema.org/isPartOf> <http://schema.org/project/IN_Haryana_Clean_Air_And_Sustainable
+____________Development_Program_P502491> .
+<http://schema.org/trustfund/TF0C4083_Leveraging_property_and____________geospatial_data_for_disaster_and_climate_resili> <http://www.w3.org/2000/01/rdf-schema#label> "Trustfund: TF0C4083_Leveraging_property_and____________geospatial_data_for_disaster_and_climate_resili" .
+<http://schema.org/doc/Agenda_for_Action_:_Key_Policy
+____________Recommendations_for_Mongolia’s_Sustainable_Development_Vision> <http://www.w3.org/2000/01/rdf-schema#label> "Agenda for Action : Key Policy\n            Recommendations for Mongolia’s Sustainable Development Vision"@en .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_32> <http://schema.org/authoredBy> <http://schema.org/author/Ru,Jiang> .
+<http://schema.org/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "Identifier" .
+<http://schema.org/country> <http://www.w3.org/2000/01/rdf-schema#label> "country"@en .
+<http://schema.org/trustfund/TF0C3665_Lao_Aviation_Sustainable_Development> <http://schema.org/countryOfOrigin> <http://schema.org/Lao_People's_Democratic_Republic> .
+<http://schema.org/doc/Disclosable_Restructuring_Paper__
+____________Ceara_Rural_Sustainable_Development_and_Competitiveness
+____________Phase_II___P167455> <http://www.w3.org/2000/01/rdf-schema#label> "Disclosable Restructuring Paper -\n            Ceara Rural Sustainable Development and Competitiveness\n            Phase II - P167455"@en .
+<http://schema.org/trustfund/TF098374_Supporting_the_Implementation____________of_Phase_1_of_the_Matanza_Riachuelo_Basin> <http://schema.org/countryOfOrigin> <http://schema.org/Argentina> .
+<http://schema.org/project/BR_Rio_De_Janeiro_Fiscal_Management_And
+____________Sustainable_Development_Po____P179182> <http://www.w3.org/2000/01/rdf-schema#label> "BR_Rio_De_Janeiro_Fiscal_Management_And\n____________Sustainable_Development_Po____P179182"@en .
+<http://schema.org/abstract/Concept_Environmental_and_Social
+____________Review_Summary_(ESRS)___Kiritimati_Sustainable_Development
+____________Platform___P505401> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/abstract> .
+<http://schema.org/abstract/Environmental_and_Social
+____________Commitment_Plan_(ESCP)_Lao_Airlines_Sustainable_Development_(P181359)> <http://www.w3.org/2000/01/rdf-schema#label> "nan" .
+<http://schema.org/doc/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN__P105680__Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Procurement_Plan> <http://schema.org/authoredBy> <http://schema.org/author/Daniel_Larrache> .
+<http://schema.org/author/Vanh_Dilaphanh> <http://schema.org/authored> <http://schema.org/doc/Lao_People's_Democratic
+____________Republic___EAST_ASIA_AND_PACIFIC__P181359__Lao_Airlines
+____________Sustainable_Development___Procurement_Plan> .
+<http://schema.org/trustfund/TF0B9831_Circular_Economy_for_Waste____________Management_in_Province_of_Buenos_Aires> <http://www.w3.org/2000/01/rdf-schema#label> "TF0B9831_Circular_Economy_for_Waste____________Management_in_Province_of_Buenos_Aires" .
+<http://schema.org/doc/Environmental_and_Social
+____________Commitment_Plan_(ESCP)___Haryana_Clean_Air_and_Sustainable
+____________Development_Program___P502491> <http://www.w3.org/2000/01/rdf-schema#label> "Environmental and Social\n            Commitment Plan (ESCP) - Haryana Clean Air and Sustainable\n            Development Program - P502491"@en .
+<http://schema.org/abstract/Lao_People's_Democratic
+____________Republic___EAST_ASIA_AND_PACIFIC__P181359__Lao_Airlines
+____________Sustainable_Development___Procurement_Plan> <http://www.w3.org/2000/01/rdf-schema#label> "nan" .
+<http://schema.org/doc/Stakeholder_Engagement_Plan_(SEP)
+____________Lao_Airlines_Sustainable_Development_(P181359)> <http://schema.org/authoredBy> <http://schema.org/author/Borrowing_Agency> .
+<http://schema.org/doc/Environmental_and_Social
+____________Commitment_Plan_(ESCP)_Mato_Grosso_Sustainable_Development
+____________of_Family_Farming_(P175723)> <http://www.w3.org/2000/01/rdf-schema#label> "Environmental and Social\n            Commitment Plan (ESCP) Mato Grosso Sustainable Development\n            of Family Farming (P175723)"@en .
+<http://schema.org/project/nan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/project/BR_State_Of_Ceará_Sustainable_Development
+____________Policy_Loan____P180497> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/doc/Lao_People’s_Democratic_Republic
+______________Lao_Airlines_Sustainable_Development_Project_:
+____________Implementation_Support_Mission___July_8_12,_2024> <http://schema.org/abstractIs> <http://schema.org/abstract/Lao_People’s_Democratic_Republic
+______________Lao_Airlines_Sustainable_Development_Project_:
+____________Implementation_Support_Mission___July_8_12,_2024> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_3> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C4083_Leveraging_property_and____________geospatial_data_for_disaster_and_climate_resili> .
+<http://schema.org/doc/Stakeholder_Engagement_Plan_(SEP)
+______________Haryana_Clean_Air_and_Sustainable_Development_Program___P502491> <http://schema.org/abstractIs> <http://schema.org/abstract/Stakeholder_Engagement_Plan_(SEP)
+______________Haryana_Clean_Air_and_Sustainable_Development_Program___P502491> .
+<http://schema.org/doc/Uganda___EASTERN_AND_SOUTHERN
+____________AFRICA___P145101___Uganda:_Albertine_Region_Sustainable
+____________Development_Project___Audited_Financial_Statement> <http://www.w3.org/2000/01/rdf-schema#label> "Uganda - EASTERN AND SOUTHERN\n            AFRICA - P145101 - Uganda: Albertine Region Sustainable\n            Development Project - Audited Financial Statement"@en .
+<http://schema.org/author/Ramirez,Maria_Catalina> <http://schema.org/authored> <http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_33> .
+<http://schema.org/abstract/Appraisal_Environmental_and
+____________Social_Review_Summary_(ESRS)___Haryana_Clean_Air_and
+____________Sustainable_Development_Program___P502491> <http://schema.org/isPartOf> <http://schema.org/abstract/Appraisal_Environmental_and
+____________Social_Review_Summary_(ESRS)___Haryana_Clean_Air_and
+____________Sustainable_Development_Program___P502491> .
+<http://schema.org/doc/Stakeholder_Engagement_Plan_(SEP)
+______________Haryana_Clean_Air_and_Sustainable_Development_Program___P502491> <http://schema.org/authoredBy> <http://schema.org/author/Borrowing_Agency> .
+<http://schema.org/abstract/Concept_Environmental_and_Social
+____________Review_Summary_(ESRS)___Kiritimati_Sustainable_Development
+____________Platform___P505401> <http://schema.org/isPartOf> <http://schema.org/abstract/Concept_Environmental_and_Social
+____________Review_Summary_(ESRS)___Kiritimati_Sustainable_Development
+____________Platform___P505401> .
+<http://schema.org/Report> <http://www.w3.org/2000/01/rdf-schema#label> "Report"@en .
+<http://schema.org/doc/Environmental_and_Social
+____________Commitment_Plan_(ESCP)___Rio_Grande_do_Norte:_Sustainable
+____________Development_and_Governance_of_Rio_Grande_do_Norte___Phase_2
+______________P502493> <http://www.w3.org/2000/01/rdf-schema#label> "Environmental and Social\n            Commitment Plan (ESCP) - Rio Grande do Norte: Sustainable\n            Development and Governance of Rio Grande do Norte - Phase 2\n            - P502493"@en .
+<http://schema.org/doc/Revised___Environmental_and
+____________Social_Management_Framework_(ESMF)_Rio_Grande_do_Norte:
+____________Sustainable_Development_and_Governance_of_Rio_Grande_do
+____________Norte___Phase_2__(P502493)> <http://schema.org/countryOfOrigin> <http://schema.org/Brazil> .
+<http://schema.org/doc/P502491___Draft_Environmental_and
+____________Social_Systems_Assessment_(ESSA)___Haryana_Clean_Air_and
+____________Sustainable_Development_Program> <http://schema.org/authoredBy> <http://schema.org/author/Chichgar,Sharlene_Jehanbux> .
+<http://schema.org/doc/Revised___Environmental_and
+____________Social_Management_Framework_(ESMF)_Rio_Grande_do_Norte:
+____________Sustainable_Development_and_Governance_of_Rio_Grande_do
+____________Norte___Phase_2__(P502493)> <http://www.w3.org/2000/01/rdf-schema#label> "Revised   Environmental and\n            Social Management Framework (ESMF) Rio Grande do Norte:\n            Sustainable Development and Governance of Rio Grande do\n            Norte - Phase 2  (P502493)"@en .
+<http://schema.org/doc/Honduras___First_Fiscal_and
+____________Climate_Transparency_and_Sustainability_Development_Policy_Financing> <http://schema.org/isPartOf> <http://schema.org/project/HN_First_Fiscal_And_Climate_Transparency_And
+____________Sustainability_Develo____P179909> .
+<http://schema.org/doc/Lao_People’s_Democratic_Republic
+______________Lao_Airlines_Sustainable_Development_Project_:
+____________Implementation_Support_Mission___July_8_12,_2024> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C2754_Lao_Air_Transport_Policy_&____________Governance_Technical_Assistance> .
+<http://schema.org/Brazil> <http://www.w3.org/2000/01/rdf-schema#label> "Brazil"@en .
+<http://schema.org/doc/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN__P105680__Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Procurement_Plan> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0B8604_Circular_Economy_Actions_for____________Non_Point_Source_Pollution_Reduction_at_th> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_31> <http://schema.org/isPartOf> <http://schema.org/project/AR_Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project____P105680> .
+<http://schema.org/author/Waksberg_Guerrini,Ana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Rio_de_Janeiro_Adjustment_and_Sustainable_Development_Policy
+____________Loan___P178729___Sequence_No_:_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Implementation_Status_and_Results_Report> .
+<http://schema.org/author/Arthur_Mumanyire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/project/CI_Cashew_Value_Chain_Sustainable
+____________Development_Project____P180040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/trustfund/TF0C4618_Designing_Innovative_Climate____________Finance_Instruments_for_Scaling_Climate_Sm> <http://www.w3.org/2000/01/rdf-schema#label> "TF0C4618_Designing_Innovative_Climate____________Finance_Instruments_for_Scaling_Climate_Sm" .
+<http://schema.org/author/World_Bank> <http://schema.org/authored> <http://schema.org/doc/Lao_People’s_Democratic_Republic
+______________Lao_Airlines_Sustainable_Development_Project> .
+<http://schema.org/doc/Concept_Environmental_and_Social
+____________Review_Summary_(ESRS)___Kiritimati_Sustainable_Development
+____________Platform___P505401> <http://schema.org/countryOfOrigin> <http://schema.org/Kiribati> .
+<http://schema.org/doc/Sustainable_Development_Finance
+____________Policy_of_the_International_Development_Association_:
+____________Proposal_for_Policy_Enhancement> <http://schema.org/countryOfOrigin> <http://schema.org/World> .
+<http://schema.org/doc/Honduras___First_Fiscal_and
+____________Climate_Transparency_and_Sustainability_Development_Policy_Financing> <http://schema.org/countryOfOrigin> <http://schema.org/Honduras> .
+<http://schema.org/Procurement_Plan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/author/Liduina_Cynthya_Lemos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/doc/Brazil___Mato_Grosso_Sustainable
+____________Development_of_Family_Farming_Project> <http://schema.org/isPartOf> <http://schema.org/project/BR_Mato_Grosso_Sustainable_Development_Of
+____________Family_Farming____P175723> .
+<http://schema.org/doc/Environmental_and_Social
+____________Management_Framework_(ESMF)_Cashew_Value_Chain_Sustainable
+____________Development_Project_(P180040)> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C4618_Designing_Innovative_Climate____________Finance_Instruments_for_Scaling_Climate_Sm> .
+<http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Rio_de_Janeiro_Adjustment_and_Sustainable_Development_Policy
+____________Loan___P178729___Sequence_No_:_2> <http://www.w3.org/2000/01/rdf-schema#label> "nan" .
+<http://schema.org/Cote_d'Ivoire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/author/Maria_Salene_Maia_da_Silva> <http://www.w3.org/2000/01/rdf-schema#label> "Maria Salene Maia da Silva"@en .
+<http://schema.org/Procedure_and_Checklist> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/doc/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN__P105680__Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Procurement_Plan> <http://schema.org/abstractIs> <http://schema.org/abstract/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN__P105680__Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Procurement_Plan> .
+<http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Rio_de_Janeiro_Adjustment_and_Sustainable_Development_Policy
+____________Loan___P178729___Sequence_No_:_2> <http://schema.org/isPartOf> <http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Rio_de_Janeiro_Adjustment_and_Sustainable_Development_Policy
+____________Loan___P178729___Sequence_No_:_2> .
+<http://www.wikidata.org/entity/Q414> <http://www.w3.org/2000/01/rdf-schema#label> "Argentina wikidata code"@en .
+<http://schema.org/doc/Honduras___First_Fiscal_and
+____________Climate_Transparency_and_Sustainability_Development_Policy_Financing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Program_Document> .
+<http://schema.org/doc/Environmental_and_Social
+____________Management_Framework_(ESMF)_Cashew_Value_Chain_Sustainable
+____________Development_Project_(P180040)> <http://schema.org/isPartOf> <http://schema.org/project/CI_Cashew_Value_Chain_Sustainable
+____________Development_Project____P180040> .
+<http://schema.org/doc/Mobilizing_Private_Capital_for
+____________the_Sustainable_Development_Goals> <http://www.w3.org/2000/01/rdf-schema#label> "Mobilizing Private Capital for\n            the Sustainable Development Goals"@en .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Lao_Airlines_Sustainable_Development_Project___P181359__
+____________Sequence_No_:_1> <http://www.w3.org/2000/01/rdf-schema#label> "Disclosable Version of the ISR -\n            Lao Airlines Sustainable Development Project - P181359 -\n            Sequence No : 1"@en .
+<http://schema.org/doc/Lao_People's_Democratic
+____________Republic___EAST_ASIA_AND_PACIFIC__P181359__Lao_Airlines
+____________Sustainable_Development_Project___Procurement_Plan> <http://schema.org/authoredBy> <http://schema.org/author/Vanh_Dilaphanh> .
+<http://schema.org/doc/Environmental_and_Social
+____________Commitment_Plan_(ESCP)___Haryana_Clean_Air_and_Sustainable
+____________Development_Program___P502491> <http://schema.org/isPartOf> <http://schema.org/project/IN_Haryana_Clean_Air_And_Sustainable
+____________Development_Program_P502491> .
+<http://schema.org/doc/Appraisal_Environmental_and
+____________Social_Review_Summary_(ESRS)___Haryana_Clean_Air_and
+____________Sustainable_Development_Program___P502491> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Environmental_and_Social_Review_Summary> .
+<http://schema.org/Mongolia> <http://www.w3.org/2000/01/rdf-schema#label> "Mongolia"@en .
+<http://schema.org/doc/Environmental_and_Social
+____________Commitment_Plan_(ESCP)___Haryana_Clean_Air_and_Sustainable
+____________Development_Program___P502491> <http://schema.org/countryOfOrigin> <http://schema.org/India> .
+<http://schema.org/doc/Stakeholder_Engagement_Plan_(SEP)
+______________Rio_Grande_do_Norte:_Sustainable_Development_and
+____________Governance_of_Rio_Grande_do_Norte___Phase_2____P502493> <http://schema.org/isPartOf> <http://schema.org/project/BR_Rio_Grande_Do_Norte:_Sustainable
+____________Development_And_Governance_Of____P502493> .
+<http://schema.org/author/D_Agostino_Fontaine,Santiago_Manuel> <http://www.w3.org/2000/01/rdf-schema#label> "D Agostino Fontaine,Santiago Manuel"@en .
+<http://schema.org/author/Chichgar,Sharlene_Jehanbux> <http://schema.org/authored> <http://schema.org/doc/Concept_Environmental_and_Social
+____________Review_Summary_(ESRS)___Haryana_Clean_Air_and_Sustainable
+____________Development_Program___P502491> .
+<http://schema.org/trustfund/TF0C6078_GSCP___C2___Turkiye:____________Geospatial_informed_Smart_City_Strategies_for_Publ> <http://schema.org/countryOfOrigin> <http://schema.org/Turkiye> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_32> <http://schema.org/abstractIs> <http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_32> .
+<http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_32> <http://www.w3.org/2000/01/rdf-schema#label> "nan" .
+<http://schema.org/project/BR_Rio_De_Janeiro_Adjustment_And_Sustainable
+____________Development_Policy_Lo____P178729> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/author/Gill,Indermit_S.> <http://www.w3.org/2000/01/rdf-schema#label> "Gill,Indermit S."@en .
+<http://schema.org/author/Diaz_Sanchez,Jose_Luis> <http://www.w3.org/2000/01/rdf-schema#label> "Diaz Sanchez,Jose Luis"@en .
+<http://schema.org/project/BR_Ceara_Rural_Sustainable_Development_And
+____________Competitiveness_Phase_I____P167455> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Mato_Grosso_Sustainable_Development_of_Family_Farming__
+____________P175723___Sequence_No_:_2> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C5871_CH4D___Brazil___Methane_Action____________in_Livestock_Practices> .
+<http://schema.org/Kiribati> <http://www.w3.org/2000/01/rdf-schema#label> "Kiribati"@en .
+<http://schema.org/doc/Turkiye___EUROPE_AND_CENTRAL
+____________ASIA__P179217__Land_management_infrastructure_for_green_and
+____________sustainable_development___Procurement_Plan> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C5286_T00fcrkiye:_Leveraging_National____________Spatial_Data_Infrastructure_for_Smart_C> .
+<http://schema.org/abstract/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN__P105680__Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Procurement_Plan> <http://www.w3.org/2000/01/rdf-schema#label> "nan" .
+<http://schema.org/doc/Appraisal_Environmental_and
+____________Social_Review_Summary_(ESRS)___Rio_Grande_do_Norte:
+____________Sustainable_Development_and_Governance_of_Rio_Grande_do
+____________Norte___Phase_2_ __P502493> <http://schema.org/isPartOf> <http://schema.org/project/BR_Rio_Grande_Do_Norte:_Sustainable
+____________Development_And_Governance_Pro____P502493> .
+<http://schema.org/Implementation_Status_and_Results_Report> <http://www.w3.org/2000/01/rdf-schema#label> "Implementation Status and Results Report"@en .
+<http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_33> <http://schema.org/isPartOf> <http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_33> .
+<http://schema.org/doc/Turkiye___EUROPE_AND_CENTRAL
+____________ASIA__P179217__Land_management_infrastructure_for_green_and
+____________sustainable_development___Procurement_Plan> <http://schema.org/authoredBy> <http://schema.org/author/zgen_alar> .
+<http://schema.org/Dominican_Republic> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/country> .
+<http://schema.org/abstract/Turkiye___EUROPE_AND_CENTRAL
+____________ASIA__P179217__Land_management_infrastructure_for_green_and
+____________sustainable_development___Procurement_Plan> <http://www.w3.org/2000/01/rdf-schema#label> "nan" .
+<http://schema.org/Honduras> <http://schema.org/wd_URI> <http://www.wikidata.org/entity/Q783> .
+<http://schema.org/Turkiye> <http://www.w3.org/2000/01/rdf-schema#label> "Turkiye"@en .
+<http://schema.org/wd_URI> <http://www.w3.org/2000/01/rdf-schema#label> "Wikidata URI"@en .
+<http://schema.org/author/Noronha_Farinelli,Barbara_Cristina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Lao_Airlines_Sustainable_Development_Project___P181359__
+____________Sequence_No_:_1> <http://schema.org/isPartOf> <http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Lao_Airlines_Sustainable_Development_Project___P181359__
+____________Sequence_No_:_1> .
+<http://schema.org/authoredBy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://schema.org/Uganda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/trustfund/TF0C5871_CH4D___Brazil___Methane_Action____________in_Livestock_Practices> <http://www.w3.org/2000/01/rdf-schema#label> "TF0C5871_CH4D___Brazil___Methane_Action____________in_Livestock_Practices" .
+<http://schema.org/trustfund/TF0C5871_CH4D___Brazil___Methane_Action____________in_Livestock_Practices> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/doc/Agenda_for_Action_:_Key_Policy
+____________Recommendations_for_Mongolia’s_Sustainable_Development_Vision> <http://schema.org/countryOfOrigin> <http://schema.org/Mongolia> .
+<http://schema.org/doc/Mobilizing_Private_Capital_for
+____________the_Sustainable_Development_Goals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Policy_Research_Working_Paper> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Implementation_Status_and_Results_Report> .
+<http://schema.org/abstract/Stakeholder_Engagement_Plan_(SEP)
+____________Lao_Airlines_Sustainable_Development_(P181359)> <http://schema.org/isPartOf> <http://schema.org/abstract/Stakeholder_Engagement_Plan_(SEP)
+____________Lao_Airlines_Sustainable_Development_(P181359)> .
+<http://schema.org/Uganda> <http://schema.org/wd_URI> <http://www.wikidata.org/entity/Q1036> .
+<http://schema.org/doc/Environmental_and_Social
+____________Commitment_Plan_(ESCP)___Haryana_Clean_Air_and_Sustainable
+____________Development_Program___P502491> <http://schema.org/authoredBy> <http://schema.org/author/Borrowing_Agency> .
+<http://schema.org/author/Borrowing_Agency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/Lao_People's_Democratic_Republic> <http://www.w3.org/2000/01/rdf-schema#label> "Lao People's Democratic Republic"@en .
+<http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Lao_Airlines_Sustainable_Development_Project___P181359__
+____________Sequence_No_:_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/abstract> .
+<http://schema.org/doc/World_Bank_Group_Partnership_Fund
+____________for_the_Sustainable_Development_Goals_:_Annual_Report_2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Annual_Report> .
+<http://schema.org/doc/Turkiye___EUROPE_AND_CENTRAL
+____________ASIA__P179217__Land_management_infrastructure_for_green_and
+____________sustainable_development___Procurement_Plan> <http://schema.org/countryOfOrigin> <http://schema.org/Turkiye> .
+<http://schema.org/doc/Revised__Resettlement_Framework
+____________Rio_Grande_do_Norte:_Sustainable_Development_and_Governance
+____________of_Rio_Grande_do_Norte___Phase_2__(P502493)> <http://schema.org/countryOfOrigin> <http://schema.org/Brazil> .
+<http://schema.org/Environmental_and_Social_Management_Plan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/trustfund/TF0C4618_Designing_Innovative_Climate____________Finance_Instruments_for_Scaling_Climate_Sm> <http://schema.org/countryOfOrigin> <http://schema.org/Cote_d'Ivoire> .
+<http://schema.org/doc/Brazil___State_of_Ceará
+____________Sustainable_Development_Policy_Financing> <http://www.w3.org/2000/01/rdf-schema#label> "Brazil - State of Ceará\n            Sustainable Development Policy Financing"@en .
+<http://schema.org/trustfund/TF0C5286_T00fcrkiye:_Leveraging_National____________Spatial_Data_Infrastructure_for_Smart_C> <http://www.w3.org/2000/01/rdf-schema#label> "Trustfund: TF0C5286_T00fcrkiye:_Leveraging_National____________Spatial_Data_Infrastructure_for_Smart_C" .
+<http://schema.org/doc/Disclosable_Restructuring_Paper__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project___P105680> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Project_Paper> .
+<http://schema.org/doc/Lao_People's_Democratic
+____________Republic___EAST_ASIA_AND_PACIFIC__P181359__Lao_Airlines
+____________Sustainable_Development_Project___Procurement_Plan> <http://schema.org/abstractIs> <http://schema.org/abstract/Lao_People's_Democratic
+____________Republic___EAST_ASIA_AND_PACIFIC__P181359__Lao_Airlines
+____________Sustainable_Development_Project___Procurement_Plan> .
+<http://schema.org/project/MN_Structural_Reforms_Asa:_Policy_Notes____P500438> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/abstract/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN___P105680___Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Audited_Financial_Statement> <http://schema.org/isPartOf> <http://schema.org/abstract/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN___P105680___Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Audited_Financial_Statement> .
+<http://schema.org/doc/Appraisal_Environmental_and
+____________Social_Review_Summary_(ESRS)___Rio_Grande_do_Norte:
+____________Sustainable_Development_and_Governance_of_Rio_Grande_do
+____________Norte___Phase_2_ __P502493> <http://www.w3.org/2000/01/rdf-schema#label> "Appraisal Environmental and\n            Social Review Summary (ESRS) - Rio Grande do Norte:\n            Sustainable Development and Governance of Rio Grande do\n            Norte - Phase 2  - P502493"@en .
+<http://schema.org/abstract/Official_Documents_
+____________Administration_Agreement_with_the_Grand_Duchy_of_Luxembourg,
+____________acting_through_its_Ministry_of_the_Environment,_Climate_and
+____________Sustainable_Development,_for_TF072858.pdf> <http://www.w3.org/2000/01/rdf-schema#label> "nan" .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Rio_de_Janeiro_Adjustment_and_Sustainable_Development_Policy
+____________Loan___P178729___Sequence_No_:_2> <http://www.w3.org/2000/01/rdf-schema#label> "Disclosable Version of the ISR -\n            Rio de Janeiro Adjustment and Sustainable Development Policy\n            Loan - P178729 - Sequence No : 2"@en .
+<http://schema.org/doc/Lao_People's_Democratic
+____________Republic___EAST_ASIA_AND_PACIFIC__P181359__Lao_Airlines
+____________Sustainable_Development___Procurement_Plan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Procurement_Plan> .
+<http://schema.org/project/DO_Sustainable_Development_Dpl____P500557> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/doc/Sustainable_Development_Finance
+____________Policy_of_the_International_Development_Association_:_FY24
+____________Implementation_Update_and_Proposal_for_Policy_Enhancement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Board_Report> .
+<http://schema.org/nan> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/country> .
+<http://schema.org/Project_Paper> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/doc/Concept_Environmental_and_Social
+____________Review_Summary_(ESRS)___Haryana_Clean_Air_and_Sustainable
+____________Development_Program___P502491> <http://schema.org/abstractIs> <http://schema.org/abstract/Concept_Environmental_and_Social
+____________Review_Summary_(ESRS)___Haryana_Clean_Air_and_Sustainable
+____________Development_Program___P502491> .
+<http://schema.org/abstract/P502491___Draft_Environmental_and
+____________Social_Systems_Assessment_(ESSA)___Haryana_Clean_Air_and
+____________Sustainable_Development_Program> <http://schema.org/isPartOf> <http://schema.org/abstract/P502491___Draft_Environmental_and
+____________Social_Systems_Assessment_(ESSA)___Haryana_Clean_Air_and
+____________Sustainable_Development_Program> .
+<http://schema.org/doc/Concept_Environmental_and_Social
+____________Review_Summary_(ESRS)___Haryana_Clean_Air_and_Sustainable
+____________Development_Program___P502491> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C4697_Haryana_Clean_Air_Project_for____________Sustainable_Development:_Clean_Cooking_Pr> .
+<http://schema.org/doc/Official_Documents_
+____________Administration_Agreement_with_the_Grand_Duchy_of_Luxembourg,
+____________acting_through_its_Ministry_of_the_Environment,_Climate_and
+____________Sustainable_Development,_for_TF072858.pdf> <http://schema.org/isPartOf> <http://schema.org/project/nan> .
+<http://schema.org/trustfund/TF0C5873_Investing_in_the_Dominican____________Republics_Green_Recovery_and_Blue_Economy> <http://www.w3.org/2000/01/rdf-schema#label> "TF0C5873_Investing_in_the_Dominican____________Republics_Green_Recovery_and_Blue_Economy" .
+<http://schema.org/Procedure_and_Checklist> <http://www.w3.org/2000/01/rdf-schema#label> "Procedure and Checklist"@en .
+<http://schema.org/author/Zeni,Federica> <http://www.w3.org/2000/01/rdf-schema#label> "Zeni,Federica"@en .
+<http://schema.org/author/Mileva,Elitza_Alexandrova> <http://www.w3.org/2000/01/rdf-schema#label> "Mileva,Elitza Alexandrova"@en .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Lao_Airlines_Sustainable_Development_Project___P181359__
+____________Sequence_No_:_1> <http://schema.org/authoredBy> <http://schema.org/author/De_Serio,Christopher_J.> .
+<http://schema.org/trustfund/TF0C2754_Lao_Air_Transport_Policy_&____________Governance_Technical_Assistance> <http://schema.org/countryOfOrigin> <http://schema.org/Lao_People's_Democratic_Republic> .
+<http://schema.org/doc/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN__P105680__Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Procurement_Plan> <http://schema.org/countryOfOrigin> <http://schema.org/Argentina> .
+<http://schema.org/doc/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN__P105680__Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Procurement_Plan> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF098374_Supporting_the_Implementation____________of_Phase_1_of_the_Matanza_Riachuelo_Basin> .
+<http://schema.org/doc/Environmental_and_Social
+____________Commitment_Plan_(ESCP)_Lao_Airlines_Sustainable_Development_(P181359)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Environmental_and_Social_Commitment_Plan> .
+<http://schema.org/doc/Environmental_and_Social
+____________Commitment_Plan_(ESCP)_Mato_Grosso_Sustainable_Development
+____________of_Family_Farming_(P175723)> <http://schema.org/isPartOf> <http://schema.org/project/BR_Mato_Grosso_Sustainable_Development_Of
+____________Family_Farming____P175723> .
+<http://schema.org/project/MN_Structural_Reforms_Asa:_Policy_Notes____P500438> <http://www.w3.org/2000/01/rdf-schema#label> "MN_Structural_Reforms_Asa:_Policy_Notes____P500438"@en .
+<http://schema.org/author/Paviot,Marie_Caroline> <http://www.w3.org/2000/01/rdf-schema#label> "Paviot,Marie Caroline"@en .
+<http://schema.org/project/UG_Uganda:_Albertine_Region_Sustainable
+____________Development_Project____P145101> <http://www.w3.org/2000/01/rdf-schema#label> "UG_Uganda:_Albertine_Region_Sustainable\n____________Development_Project____P145101"@en .
+<http://schema.org/doc/Montenegro___First_Resilient
+____________Fiscal_and_Sustainable_Development_DPF_Project> <http://schema.org/authoredBy> <http://schema.org/author/World_Bank> .
+<http://schema.org/doc/Lao_People's_Democratic
+____________Republic___EAST_ASIA_AND_PACIFIC__P181359__Lao_Airlines
+____________Sustainable_Development_Project___Procurement_Plan> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C3665_Lao_Aviation_Sustainable_Development> .
+<http://schema.org/doc/Stakeholder_Engagement_Plan_(SEP)
+____________Lao_Airlines_Sustainable_Development_(P181359)> <http://schema.org/countryOfOrigin> <http://schema.org/Lao_People's_Democratic_Republic> .
+<http://schema.org/project/BR_Rio_Grande_Do_Norte:_Sustainable
+____________Development_And_Governance_Of____P502493> <http://www.w3.org/2000/01/rdf-schema#label> "BR_Rio_Grande_Do_Norte:_Sustainable\n____________Development_And_Governance_Of____P502493"@en .
+<http://schema.org/doc/Official_Documents_
+____________Administration_Agreement_with_the_Grand_Duchy_of_Luxembourg,
+____________acting_through_its_Ministry_of_the_Environment,_Climate_and
+____________Sustainable_Development,_for_TF072858.pdf> <http://schema.org/authoredBy> <http://schema.org/author/LEGKL> .
+<http://schema.org/author/Noronha_Farinelli,Barbara_Cristina> <http://schema.org/authored> <http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Mato_Grosso_Sustainable_Development_of_Family_Farming__
+____________P175723___Sequence_No_:_2> .
+<http://schema.org/nan> <http://www.w3.org/2000/01/rdf-schema#label> "nan"@en .
+<http://schema.org/doc/Concept_Environmental_and_Social
+____________Review_Summary_(ESRS)___Haryana_Clean_Air_and_Sustainable
+____________Development_Program___P502491> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Environmental_and_Social_Review_Summary> .
+<http://schema.org/author/Laure,Alexandre_Hugo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/trustfund/TF0C5780_Technical_Assistance_for____________Establishing_Science_Based_Policy_Options_for> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/author/Ru,Jiang> <http://www.w3.org/2000/01/rdf-schema#label> "Ru,Jiang"@en .
+<http://schema.org/author/Ramirez,Maria_Catalina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Lao_Airlines_Sustainable_Development_Project___P181359__
+____________Sequence_No_:_1> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C2756_Lao_Airlines_Implementation_Support> .
+<http://schema.org/author/Lucas_Figueras> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/Auditing_Document> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/doc/Mobilizing_Private_Capital_for
+____________the_Sustainable_Development_Goals> <http://schema.org/isPartOf> <http://schema.org/project/nan> .
+<http://schema.org/Implementation_Status_and_Results_Report> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/abstract/Lao_People’s_Democratic_Republic
+______________Lao_Airlines_Sustainable_Development_Project_:
+____________Implementation_Support_Mission___July_8_12,_2024> <http://www.w3.org/2000/01/rdf-schema#label> "nan" .
+<http://schema.org/doc/Lao_People’s_Democratic_Republic
+______________Lao_Airlines_Sustainable_Development_Project> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Project_Paper> .
+<http://schema.org/trustfund/TF0B8604_Circular_Economy_Actions_for____________Non_Point_Source_Pollution_Reduction_at_th> <http://www.w3.org/2000/01/rdf-schema#label> "Trustfund: TF0B8604_Circular_Economy_Actions_for____________Non_Point_Source_Pollution_Reduction_at_th" .
+<http://schema.org/Brazil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/author/D_Agostino_Fontaine,Santiago_Manuel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/doc/Sustainable_Development_Finance
+____________Policy_of_the_International_Development_Association_:
+____________Proposal_for_Policy_Enhancement> <http://www.w3.org/2000/01/rdf-schema#label> "Sustainable Development Finance\n            Policy of the International Development Association :\n            Proposal for Policy Enhancement"@en .
+<http://schema.org/Stakeholder_Engagement_Plan> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/project/BR_Rio_De_Janeiro_Adjustment_And_Sustainable
+____________Development_Policy_Lo____P178729> <http://www.w3.org/2000/01/rdf-schema#label> "BR_Rio_De_Janeiro_Adjustment_And_Sustainable\n____________Development_Policy_Lo____P178729"@en .
+<http://schema.org/trustfund/TF0C6078_GSCP___C2___Turkiye:____________Geospatial_informed_Smart_City_Strategies_for_Publ> <http://www.w3.org/2000/01/rdf-schema#label> "Trustfund: TF0C6078_GSCP___C2___Turkiye:____________Geospatial_informed_Smart_City_Strategies_for_Publ" .
+<http://schema.org/abstract/Lao_People’s_Democratic_Republic
+______________Lao_Airlines_Sustainable_Development_Project> <http://www.w3.org/2000/01/rdf-schema#label> "{'cdata!': 'The development objective of Lao\\n            Airlines Sustainable Development Project for Lao People’s\\n            Democratic Republic is to reduce Lao Airlines business\\n            losses, enhance corporate financial reporting, and\\n            strengthen operational management. This project has three\\n            components. 1) The first component, Lao Airline\\n            Restructuring Strategy and Reform Pathway, will prepare an\\n            airline restructuring options analysis that will inform a\\n            specific reform pathway and attenuated airline\\n            sustainability plan. 2) The second component, Lao Airlines\\n            Business Optimization and Management Assistance, will focus\\n            on delivering technical assistance in core areas that can\\n            immediately add value to Lao Airlines management and\\n            operations. 3) The third component, Passenger Service System\\n            module upgrade, will implement industry software module\\n            upgrades that improve integrated enterprise resource planning.'}" .
+<http://schema.org/Project_Appraisal_Document> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/abstract/Lao_People's_Democratic
+____________Republic___EAST_ASIA_AND_PACIFIC__P181359__Lao_Airlines
+____________Sustainable_Development_Project___Procurement_Plan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/abstract> .
+<http://schema.org/doc/Concept_Environmental_and_Social
+____________Review_Summary_(ESRS)___Kiritimati_Sustainable_Development
+____________Platform___P505401> <http://schema.org/authoredBy> <http://schema.org/author/Laure,Alexandre_Hugo> .
+<http://schema.org/doc/Labor_Management_Procedures_Lao
+____________Airlines_Sustainable_Development_(P181359)> <http://schema.org/isPartOf> <http://schema.org/project/LA_Lao_Airlines_Sustainable_Development____P181359> .
+<http://schema.org/trustfund/TF0C4415_Kiritimati_TAF> <http://www.w3.org/2000/01/rdf-schema#label> "TF0C4415_Kiritimati_TAF" .
+<http://schema.org/Environmental_and_Social_Review_Summary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/doc/World_Bank_Group_Partnership_Fund
+____________for_the_Sustainable_Development_Goals_:_Annual_Report_2024> <http://schema.org/countryOfOrigin> <http://schema.org/World> .
+<http://schema.org/doc/Lao_People’s_Democratic_Republic
+______________Lao_Airlines_Sustainable_Development_Project_:
+____________Implementation_Support_Mission___July_8_12,_2024> <http://schema.org/authoredBy> <http://schema.org/author/World_Bank> .
+<http://schema.org/project/BR_Mato_Grosso_Sustainable_Development_Of
+____________Family_Farming____P175723> <http://www.w3.org/2000/01/rdf-schema#label> "BR_Mato_Grosso_Sustainable_Development_Of\n____________Family_Farming____P175723"@en .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Sustainable_Development_DPL___P500557___Sequence_No_:_1> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C5873_Investing_in_the_Dominican____________Republics_Green_Recovery_and_Blue_Economy> .
+<http://schema.org/doc/Lao_People’s_Democratic_Republic
+______________Lao_Airlines_Sustainable_Development_Project> <http://schema.org/isPartOf> <http://schema.org/project/LA_Lao_Airlines_Sustainable_Development
+____________Project____P181359> .
+<http://schema.org/doc/Uganda___EASTERN_AND_SOUTHERN
+____________AFRICA___P145101___Uganda:_Albertine_Region_Sustainable
+____________Development_Project___Audited_Financial_Statement> <http://schema.org/isPartOf> <http://schema.org/project/UG_Uganda:_Albertine_Region_Sustainable
+____________Development_Project____P145101> .
+<http://schema.org/doc/World_Bank_Group_Partnership_Fund
+____________for_the_Sustainable_Development_Goals_:_Annual_Report_2024> <http://schema.org/isPartOf> <http://schema.org/project/nan> .
+<http://schema.org/Mongolia> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/country> .
+<http://schema.org/doc/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN__P105680__Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Procurement_Plan> <http://www.w3.org/2000/01/rdf-schema#label> "Argentina - LATIN AMERICA AND\n            CARIBBEAN- P105680- Matanza-Riachuelo Basin Sustainable\n            Development Project - Procurement Plan"@en .
+<http://schema.org/doc/Labor_Management_Procedures_Lao
+____________Airlines_Sustainable_Development_(P181359)> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C2754_Lao_Air_Transport_Policy_&____________Governance_Technical_Assistance> .
+<http://schema.org/Environmental_and_Social_Management_Framework> <http://www.w3.org/2000/01/rdf-schema#label> "Environmental and Social Management Framework"@en .
+<http://schema.org/doc/Disclosable_Restructuring_Paper__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project___P105680> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0B9831_Circular_Economy_for_Waste____________Management_in_Province_of_Buenos_Aires> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Implementation_Status_and_Results_Report> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Implementation_Status_and_Results_Report> .
+<http://schema.org/trustfund/TF0C4083_Leveraging_property_and____________geospatial_data_for_disaster_and_climate_resili> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/Report> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/doc/Brazil___LATIN_AMERICA_AND
+____________CARIBBEAN___P167455___Ceara_Rural_Sustainable_Development
+____________and_Competitiveness_Phase_II___Audited_Financial_Statement> <http://schema.org/isPartOf> <http://schema.org/project/BR_Ceara_Rural_Sustainable_Development_And
+____________Competitiveness_Phase_I____P167455> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_01> <http://schema.org/isPartOf> <http://schema.org/project/TR_Land_Management_Infrastructure_For_Green
+____________And_Sustainable_Develo____P179217> .
+<http://schema.org/doc/P502491___Draft_Environmental_and
+____________Social_Systems_Assessment_(ESSA)___Haryana_Clean_Air_and
+____________Sustainable_Development_Program> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Program_for_Results_Environmental_and_Social
+____________Systems_Assessment> .
+<http://schema.org/trustfund/TF0C3665_Lao_Aviation_Sustainable_Development> <http://www.w3.org/2000/01/rdf-schema#label> "TF0C3665_Lao_Aviation_Sustainable_Development" .
+<http://schema.org/doc/Concept_Environmental_and_Social
+____________Review_Summary_(ESRS)___Kiritimati_Sustainable_Development
+____________Platform___P505401> <http://www.w3.org/2000/01/rdf-schema#label> "Concept Environmental and Social\n            Review Summary (ESRS) - Kiritimati Sustainable Development\n            Platform - P505401"@en .
+<http://schema.org/doc/Lao_People’s_Democratic_Republic
+______________Lao_Airlines_Sustainable_Development_Project_:
+____________Implementation_Support_Mission___July_8_12,_2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Aide_Memoire> .
+<http://schema.org/abstract/Appraisal_Environmental_and
+____________Social_Review_Summary_(ESRS)___Haryana_Clean_Air_and
+____________Sustainable_Development_Program___P502491> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/abstract> .
+<http://schema.org/doc/Labor_Management_Procedures_Lao
+____________Airlines_Sustainable_Development_(P181359)> <http://www.w3.org/2000/01/rdf-schema#label> "Labor Management Procedures Lao\n            Airlines Sustainable Development (P181359)"@en .
+<http://schema.org/doc/Honduras___First_Fiscal_and
+____________Climate_Transparency_and_Sustainability_Development_Policy_Financing> <http://www.w3.org/2000/01/rdf-schema#label> "Honduras - First Fiscal and\n            Climate Transparency and Sustainability Development Policy Financing"@en .
+<http://schema.org/trustfund/TF0B9837_Co_creating_safe_and_inclusive____________infrastructure_to_enhance_childrenâ> <http://www.w3.org/2000/01/rdf-schema#label> "Trustfund: TF0B9837_Co_creating_safe_and_inclusive____________infrastructure_to_enhance_childrenâ" .
+<http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/abstract> .
+<http://schema.org/doc/Official_Documents_
+____________Administration_Agreement_with_the_Grand_Duchy_of_Luxembourg,
+____________acting_through_its_Ministry_of_the_Environment,_Climate_and
+____________Sustainable_Development,_for_TF072858.pdf> <http://schema.org/abstractIs> <http://schema.org/abstract/Official_Documents_
+____________Administration_Agreement_with_the_Grand_Duchy_of_Luxembourg,
+____________acting_through_its_Ministry_of_the_Environment,_Climate_and
+____________Sustainable_Development,_for_TF072858.pdf> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Rio_de_Janeiro_Adjustment_and_Sustainable_Development_Policy
+____________Loan___P178729___Sequence_No_:_2> <http://schema.org/isPartOf> <http://schema.org/project/BR_Rio_De_Janeiro_Adjustment_And_Sustainable
+____________Development_Policy_Lo____P178729> .
+<http://schema.org/author/Vanh_Dilaphanh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/Board_Report> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/trustfund/TF098374_Supporting_the_Implementation____________of_Phase_1_of_the_Matanza_Riachuelo_Basin> <http://www.w3.org/2000/01/rdf-schema#label> "Trustfund: TF098374_Supporting_the_Implementation____________of_Phase_1_of_the_Matanza_Riachuelo_Basin" .
+<http://schema.org/doc/Lao_People's_Democratic
+____________Republic___EAST_ASIA_AND_PACIFIC__P181359__Lao_Airlines
+____________Sustainable_Development___Procurement_Plan> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C2756_Lao_Airlines_Implementation_Support> .
+<http://schema.org/Trust_Fund_Administrative_Agreement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/World> <http://www.w3.org/2000/01/rdf-schema#label> "World"@en .
+<http://schema.org/doc/Disclosable_Restructuring_Paper__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project___P105680> <http://schema.org/abstractIs> <http://schema.org/abstract/Disclosable_Restructuring_Paper__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project___P105680> .
+<http://schema.org/doc/Turkiye___EUROPE_AND_CENTRAL
+____________ASIA__P179217__Land_management_infrastructure_for_green_and
+____________sustainable_development___Procurement_Plan> <http://schema.org/abstractIs> <http://schema.org/abstract/Turkiye___EUROPE_AND_CENTRAL
+____________ASIA__P179217__Land_management_infrastructure_for_green_and
+____________sustainable_development___Procurement_Plan> .
+<http://schema.org/Program_Document> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/trustfund/TF0B9831_Circular_Economy_for_Waste____________Management_in_Province_of_Buenos_Aires> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_31> <http://schema.org/abstractIs> <http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_31> .
+<http://schema.org/Environmental_and_Social_Commitment_Plan> <http://www.w3.org/2000/01/rdf-schema#label> "Environmental and Social Commitment Plan"@en .
+<http://schema.org/nan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/author/Ramirez,Maria_Catalina> <http://schema.org/authored> <http://schema.org/doc/Disclosable_Restructuring_Paper__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project___P105680> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Ceara_Rural_Sustainable_Development_and_Competitiveness
+____________Phase_II___P167455___Sequence_No_:_09> <http://schema.org/isPartOf> <http://schema.org/project/BR_Ceara_Rural_Sustainable_Development_And
+____________Competitiveness_Phase_I____P167455> .
+<http://schema.org/world_bank_document> <http://www.w3.org/2000/01/rdf-schema#label> "A document produced and written by the World Bank."@en .
+<http://schema.org/project/nan> <http://www.w3.org/2000/01/rdf-schema#label> "nan"@en .
+<http://schema.org/doc/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN__P105680__Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Procurement_Plan> <http://schema.org/isPartOf> <http://schema.org/project/AR_Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project____P105680> .
+<http://schema.org/doc/Montenegro___First_Resilient
+____________Fiscal_and_Sustainable_Development_DPF_Project> <http://schema.org/countryOfOrigin> <http://schema.org/Montenegro> .
+<http://schema.org/doc/Lao_People's_Democratic
+____________Republic___EAST_ASIA_AND_PACIFIC__P181359__Lao_Airlines
+____________Sustainable_Development___Procurement_Plan> <http://schema.org/authoredBy> <http://schema.org/author/Vanh_Dilaphanh> .
+<http://schema.org/doc/Revised__Resettlement_Framework
+____________Rio_Grande_do_Norte:_Sustainable_Development_and_Governance
+____________of_Rio_Grande_do_Norte___Phase_2__(P502493)> <http://schema.org/isPartOf> <http://schema.org/project/BR_Rio_Grande_Do_Norte:_Sustainable
+____________Development_And_Governance_Of____P502493> .
+<http://schema.org/wd_URI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://schema.org/Dominican_Republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Mato_Grosso_Sustainable_Development_of_Family_Farming__
+____________P175723___Sequence_No_:_2> <http://schema.org/isPartOf> <http://schema.org/project/BR_Mato_Grosso_Sustainable_Development_Of
+____________Family_Farming____P175723> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Lao_Airlines_Sustainable_Development_Project___P181359__
+____________Sequence_No_:_1> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C3665_Lao_Aviation_Sustainable_Development> .
+<http://schema.org/doc/Agenda_for_Action_:_Key_Policy
+____________Recommendations_for_Mongolia’s_Sustainable_Development_Vision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Report> .
+<http://schema.org/trustfund/TF0C1092_POLICIES_TO_PROMOTE____________MONTENEGRO#S_RESILIENT_RECOVERY> <http://www.w3.org/2000/01/rdf-schema#label> "TF0C1092_POLICIES_TO_PROMOTE____________MONTENEGRO#S_RESILIENT_RECOVERY" .
+<http://schema.org/doc/Environmental_and_Social
+____________Management_Framework_(ESMF)_Cashew_Value_Chain_Sustainable
+____________Development_Project_(P180040)> <http://schema.org/authoredBy> <http://schema.org/author/Borrowing_Agency> .
+<http://schema.org/author/Bichara_Rocha,Leonardo> <http://www.w3.org/2000/01/rdf-schema#label> "Bichara Rocha,Leonardo"@en .
+<http://schema.org/doc/Dominican_Republic___Sustainable
+____________Development_Policy_Loan_Program> <http://www.w3.org/2000/01/rdf-schema#label> "Dominican Republic - Sustainable\n            Development Policy Loan Program"@en .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_31> <http://www.w3.org/2000/01/rdf-schema#label> "Disclosable Version of the ISR -\n            Matanza-Riachuelo Basin Sustainable Development Project -\n            P105680 - Sequence No : 31"@en .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_31> <http://schema.org/authoredBy> <http://schema.org/author/Ru,Jiang> .
+<http://schema.org/countryOfOrigin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_3> <http://www.w3.org/2000/01/rdf-schema#label> "Disclosable Version of the ISR -\n            Land management infrastructure for green and sustainable\n            development - P179217 - Sequence No : 3"@en .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_3> <http://schema.org/abstractIs> <http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_3> .
+<http://schema.org/abstract/Environmental_and_Social
+____________Commitment_Plan_(ESCP)___Haryana_Clean_Air_and_Sustainable
+____________Development_Program___P502491> <http://www.w3.org/2000/01/rdf-schema#label> "nan" .
+<http://schema.org/author/Laure,Alexandre_Hugo> <http://schema.org/authored> <http://schema.org/doc/Concept_Environmental_and_Social
+____________Review_Summary_(ESRS)___Kiritimati_Sustainable_Development
+____________Platform___P505401> .
+<http://schema.org/trustfund/TF072858_Global_Shield_Financing____________Facility_Multi_Donor_Trust_Fund> <http://www.w3.org/2000/01/rdf-schema#label> "TF072858_Global_Shield_Financing____________Facility_Multi_Donor_Trust_Fund" .
+<http://schema.org/doc/P502491___Draft_Environmental_and
+____________Social_Systems_Assessment_(ESSA)___Haryana_Clean_Air_and
+____________Sustainable_Development_Program> <http://schema.org/abstractIs> <http://schema.org/abstract/P502491___Draft_Environmental_and
+____________Social_Systems_Assessment_(ESSA)___Haryana_Clean_Air_and
+____________Sustainable_Development_Program> .
+<http://schema.org/doc/Stakeholder_Engagement_Plan_(SEP)
+____________Lao_Airlines_Sustainable_Development_(P181359)> <http://schema.org/abstractIs> <http://schema.org/abstract/Stakeholder_Engagement_Plan_(SEP)
+____________Lao_Airlines_Sustainable_Development_(P181359)> .
+<http://schema.org/Annual_Report> <http://schema.org/wd_URI> <http://www.wikidata.org/entity/Q54935566> .
+<http://schema.org/Procurement_Plan> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://www.wikidata.org/entity/Q711> <http://www.w3.org/2000/01/rdf-schema#label> "Mongolia wikidata code"@en .
+<http://schema.org/Board_Report> <http://www.w3.org/2000/01/rdf-schema#label> "Board Report"@en .
+<http://schema.org/author/Joseph_Kawuma_Kawuma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/doc/Disclosable_Restructuring_Paper__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project___P105680> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0B8604_Circular_Economy_Actions_for____________Non_Point_Source_Pollution_Reduction_at_th> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_33> <http://www.w3.org/2000/01/rdf-schema#label> "Disclosable Version of the ISR -\n            Matanza-Riachuelo Basin Sustainable Development Project -\n            P105680 - Sequence No : 33"@en .
+<http://schema.org/abstract/Stakeholder_Engagement_Plan_(SEP)
+______________Haryana_Clean_Air_and_Sustainable_Development_Program___P502491> <http://schema.org/isPartOf> <http://schema.org/abstract/Stakeholder_Engagement_Plan_(SEP)
+______________Haryana_Clean_Air_and_Sustainable_Development_Program___P502491> .
+<http://schema.org/doc/Concept_Environmental_and_Social
+____________Review_Summary_(ESRS)___Kiritimati_Sustainable_Development
+____________Platform___P505401> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Environmental_and_Social_Review_Summary> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Ceara_Rural_Sustainable_Development_and_Competitiveness
+____________Phase_II___P167455___Sequence_No_:_09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Implementation_Status_and_Results_Report> .
+<http://schema.org/abstract/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN___P105680___Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Audited_Financial_Statement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/abstract> .
+<http://schema.org/trustfund/TF0C1092_POLICIES_TO_PROMOTE____________MONTENEGRO#S_RESILIENT_RECOVERY> <http://www.w3.org/2000/01/rdf-schema#label> "Trustfund: TF0C1092_POLICIES_TO_PROMOTE____________MONTENEGRO#S_RESILIENT_RECOVERY" .
+<http://schema.org/doc/Lao_People's_Democratic
+____________Republic___EAST_ASIA_AND_PACIFIC__P181359__Lao_Airlines
+____________Sustainable_Development_Project___Procurement_Plan> <http://schema.org/isPartOf> <http://schema.org/project/LA_Lao_Airlines_Sustainable_Development
+____________Project____P181359> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_32> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0B9831_Circular_Economy_for_Waste____________Management_in_Province_of_Buenos_Aires> .
+<http://schema.org/doc/Brazil___Mato_Grosso_Sustainable
+____________Development_of_Family_Farming_Project> <http://schema.org/countryOfOrigin> <http://schema.org/Brazil> .
+<http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_33> <http://www.w3.org/2000/01/rdf-schema#label> "nan" .
+<http://schema.org/doc/Official_Documents_
+____________Administration_Agreement_with_the_Grand_Duchy_of_Luxembourg,
+____________acting_through_its_Ministry_of_the_Environment,_Climate_and
+____________Sustainable_Development,_for_TF072858.pdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Trust_Fund_Administrative_Agreement> .
+<http://schema.org/author/Betty_Namatovu> <http://www.w3.org/2000/01/rdf-schema#label> "Betty Namatovu"@en .
+<http://schema.org/doc/Turkiye___EUROPE_AND_CENTRAL
+____________ASIA__P179217__Land_management_infrastructure_for_green_and
+____________sustainable_development___Procurement_Plan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Procurement_Plan> .
+<http://schema.org/trustfund/TF0C4415_Kiritimati_TAF> <http://schema.org/countryOfOrigin> <http://schema.org/Kiribati> .
+<http://schema.org/doc/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN___P105680___Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Audited_Financial_Statement> <http://schema.org/abstractIs> <http://schema.org/abstract/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN___P105680___Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Audited_Financial_Statement> .
+<http://schema.org/Program_for_Results_Environmental_and_Social
+____________Systems_Assessment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Implementation_Status_and_Results_Report> .
+<http://schema.org/author/Vanh_Dilaphanh> <http://www.w3.org/2000/01/rdf-schema#label> "Vanh Dilaphanh"@en .
+<http://schema.org/trustfund/TF0C2754_Lao_Air_Transport_Policy_&____________Governance_Technical_Assistance> <http://www.w3.org/2000/01/rdf-schema#label> "TF0C2754_Lao_Air_Transport_Policy_&____________Governance_Technical_Assistance" .
+<http://schema.org/doc/P502491___Draft_Environmental_and
+____________Social_Systems_Assessment_(ESSA)___Haryana_Clean_Air_and
+____________Sustainable_Development_Program> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C4697_Haryana_Clean_Air_Project_for____________Sustainable_Development:_Clean_Cooking_Pr> .
+<http://schema.org/abstract/Labor_Management_Procedures_Lao
+____________Airlines_Sustainable_Development_(P181359)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/abstract> .
+<http://schema.org/trustfund/TF0C6078_GSCP___C2___Turkiye:____________Geospatial_informed_Smart_City_Strategies_for_Publ> <http://www.w3.org/2000/01/rdf-schema#label> "TF0C6078_GSCP___C2___Turkiye:____________Geospatial_informed_Smart_City_Strategies_for_Publ" .
+<http://schema.org/author/Maria_Salene_Maia_da_Silva> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://www.wikidata.org/entity/Q668> <http://www.w3.org/2000/01/rdf-schema#label> "India wikidata code"@en .
+<http://schema.org/abstract/Stakeholder_Engagement_Plan_(SEP)
+____________Lao_Airlines_Sustainable_Development_(P181359)> <http://www.w3.org/2000/01/rdf-schema#label> "nan" .
+<http://schema.org/author/Ru,Jiang> <http://schema.org/authored> <http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_32> .
+<http://schema.org/doc/Uganda___EASTERN_AND_SOUTHERN
+____________AFRICA___P145101___Uganda:_Albertine_Region_Sustainable
+____________Development_Project___Audited_Financial_Statement> <http://schema.org/countryOfOrigin> <http://schema.org/Uganda> .
+<http://schema.org/trustfund/TF0C4083_Leveraging_property_and____________geospatial_data_for_disaster_and_climate_resili> <http://www.w3.org/2000/01/rdf-schema#label> "TF0C4083_Leveraging_property_and____________geospatial_data_for_disaster_and_climate_resili" .
+<http://schema.org/Turkiye> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/country> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Implementation_Status_and_Results_Report> .
+<http://schema.org/India> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/country> .
+<http://schema.org/Project_Paper> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Sustainable_Development_DPL___P500557___Sequence_No_:_1> <http://schema.org/isPartOf> <http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Sustainable_Development_DPL___P500557___Sequence_No_:_1> .
+<http://schema.org/abstract/Montenegro___First_Resilient
+____________Fiscal_and_Sustainable_Development_DPF_Project> <http://www.w3.org/2000/01/rdf-schema#label> "{'cdata!': 'The development objective of First\\n            Resilient Fiscal and Sustainable Development DPF Project for\\n            Montenegro is to support the government of Montenegro to:\\n            (i) strengthen fiscal sustainability and (ii) enable\\n            sustainable development. The DPF program supports reforms to\\n            strengthen the resilience of fiscal and development policy.\\n            These reforms are consistent with the government’s Economic\\n            Reform Program for 2024-2026. The operation is the first in\\n            a series of two programmatic loans organized under two\\n            pillars: (i) strengthening fiscal sustainability; and (ii)\\n            enabling sustainable development. These pillars closely\\n            complement each other in reinforcing the impact of the\\n            reform program. The program is informed by the findings of\\n            the World Bank 2022 Montenegro Country Economic Memorandum\\n            (CEM) and builds on the programmatic Policy-Based Guarantee\\n            operations, approved in 2017 and 2020. The programmatic\\n            series of two DPFs is also an integral part of the\\n            authorities’ medium-term debt strategy. The objectives of\\n            the operation are fully aligned with the Country Partnership\\n            Framework (CPF) FY2025-2029. The reforms supported by this\\n            operation benefit from the coordinated support and targeted\\n            technical assistance from the European Commission (EC),\\n            French Development Agency (AFD), the International Monetary\\n            Fund (IMF), and the World Bank.'}" .
+<http://schema.org/author/World_Bank> <http://schema.org/authored> <http://schema.org/doc/Lao_People’s_Democratic_Republic
+______________Lao_Airlines_Sustainable_Development_Project_:
+____________Implementation_Support_Mission___July_8_12,_2024> .
+<http://schema.org/author/Borrowing_Agency> <http://schema.org/authored> <http://schema.org/doc/Environmental_and_Social
+____________Commitment_Plan_(ESCP)_Lao_Airlines_Sustainable_Development_(P181359)> .
+<http://schema.org/author/De_Serio,Christopher_J.> <http://www.w3.org/2000/01/rdf-schema#label> "De Serio,Christopher J."@en .
+<http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_32> <http://schema.org/isPartOf> <http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_32> .
+<http://schema.org/doc/Stakeholder_Engagement_Plan_(SEP)
+____________Lao_Airlines_Sustainable_Development_(P181359)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Stakeholder_Engagement_Plan> .
+<http://schema.org/doc/Official_Documents_
+____________Administration_Agreement_with_the_Grand_Duchy_of_Luxembourg,
+____________acting_through_its_Ministry_of_the_Environment,_Climate_and
+____________Sustainable_Development,_for_TF072858.pdf> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF072858_Global_Shield_Financing____________Facility_Multi_Donor_Trust_Fund> .
+<http://schema.org/doc/Agenda_for_Action_:_Key_Policy
+____________Recommendations_for_Mongolia’s_Sustainable_Development_Vision> <http://schema.org/isPartOf> <http://schema.org/project/MN_Structural_Reforms_Asa:_Policy_Notes____P500438> .
+<http://schema.org/doc/Appraisal_Environmental_and
+____________Social_Review_Summary_(ESRS)___Rio_Grande_do_Norte:
+____________Sustainable_Development_and_Governance_of_Rio_Grande_do
+____________Norte___Phase_2_ __P502493> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Environmental_and_Social_Review_Summary> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Rio_de_Janeiro_Adjustment_and_Sustainable_Development_Policy
+____________Loan___P178729___Sequence_No_:_2> <http://schema.org/authoredBy> <http://schema.org/author/Colbano,Fabiano_Silvio> .
+<http://schema.org/abstract/Concept_Environmental_and_Social
+____________Review_Summary_(ESRS)___Haryana_Clean_Air_and_Sustainable
+____________Development_Program___P502491> <http://schema.org/isPartOf> <http://schema.org/abstract/Concept_Environmental_and_Social
+____________Review_Summary_(ESRS)___Haryana_Clean_Air_and_Sustainable
+____________Development_Program___P502491> .
+<http://schema.org/doc/Lao_People’s_Democratic_Republic
+______________Lao_Airlines_Sustainable_Development_Project_:
+____________Implementation_Support_Mission___July_8_12,_2024> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C2756_Lao_Airlines_Implementation_Support> .
+<http://schema.org/trustfund/TF0C4697_Haryana_Clean_Air_Project_for____________Sustainable_Development:_Clean_Cooking_Pr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_33> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0B8604_Circular_Economy_Actions_for____________Non_Point_Source_Pollution_Reduction_at_th> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Ceara_Rural_Sustainable_Development_and_Competitiveness
+____________Phase_II___P167455___Sequence_No_:_10> <http://schema.org/isPartOf> <http://schema.org/project/BR_Ceara_Rural_Sustainable_Development_And
+____________Competitiveness_Phase_I____P167455> .
+<http://schema.org/author/Borrowing_Agency> <http://www.w3.org/2000/01/rdf-schema#label> "Borrowing Agency"@en .
+<http://schema.org/trustfund/TF0C2756_Lao_Airlines_Implementation_Support> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/doc/Stakeholder_Engagement_Plan_(SEP)
+______________Haryana_Clean_Air_and_Sustainable_Development_Program___P502491> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Stakeholder_Engagement_Plan> .
+<http://schema.org/doc/Concept_Environmental_and_Social
+____________Review_Summary_(ESRS)___Kiritimati_Sustainable_Development
+____________Platform___P505401> <http://schema.org/isPartOf> <http://schema.org/project/KI_Kiritimati_Sustainable_Development
+____________Platform____P505401> .
+<http://schema.org/abstract/Lao_People’s_Democratic_Republic
+______________Lao_Airlines_Sustainable_Development_Project_:
+____________Implementation_Support_Mission___July_8_12,_2024> <http://schema.org/isPartOf> <http://schema.org/abstract/Lao_People’s_Democratic_Republic
+______________Lao_Airlines_Sustainable_Development_Project_:
+____________Implementation_Support_Mission___July_8_12,_2024> .
+<http://schema.org/doc/Lao_People's_Democratic
+____________Republic___EAST_ASIA_AND_PACIFIC__P181359__Lao_Airlines
+____________Sustainable_Development_Project___Procurement_Plan> <http://schema.org/isPartOf> <http://schema.org/project/LA_Lao_Airlines_Sustainable_Development____P181359> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Sustainable_Development_DPL___P500557___Sequence_No_:_1> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C5780_Technical_Assistance_for____________Establishing_Science_Based_Policy_Options_for> .
+<http://schema.org/doc/Concept_Environmental_and_Social
+____________Review_Summary_(ESRS)___Haryana_Clean_Air_and_Sustainable
+____________Development_Program___P502491> <http://www.w3.org/2000/01/rdf-schema#label> "Concept Environmental and Social\n            Review Summary (ESRS) - Haryana Clean Air and Sustainable\n            Development Program - P502491"@en .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_4> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C5286_T00fcrkiye:_Leveraging_National____________Spatial_Data_Infrastructure_for_Smart_C> .
+<http://schema.org/doc/Brazil___LATIN_AMERICA_AND
+____________CARIBBEAN___P167455___Ceara_Rural_Sustainable_Development
+____________and_Competitiveness_Phase_II___Audited_Financial_Statement> <http://schema.org/countryOfOrigin> <http://schema.org/Brazil> .
+<http://schema.org/doc/P502491___Draft_Environmental_and
+____________Social_Systems_Assessment_(ESSA)___Haryana_Clean_Air_and
+____________Sustainable_Development_Program> <http://www.w3.org/2000/01/rdf-schema#label> "P502491 - Draft Environmental and\n            Social Systems Assessment (ESSA) - Haryana Clean Air and\n            Sustainable Development Program"@en .
+<http://schema.org/doc/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN___P105680___Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Audited_Financial_Statement> <http://www.w3.org/2000/01/rdf-schema#label> "Argentina - LATIN AMERICA AND\n            CARIBBEAN - P105680 - Matanza-Riachuelo Basin Sustainable\n            Development Project - Audited Financial Statement"@en .
+<http://schema.org/abstractIs> <http://www.w3.org/2000/01/rdf-schema#label> "Short summary of the document." .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_4> <http://schema.org/isPartOf> <http://schema.org/project/TR_Land_Management_Infrastructure_For_Green
+____________And_Sustainable_Develo____P179217> .
+<http://schema.org/doc/Stakeholder_Engagement_Plan_(SEP)
+______________Haryana_Clean_Air_and_Sustainable_Development_Program___P502491> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C4697_Haryana_Clean_Air_Project_for____________Sustainable_Development:_Clean_Cooking_Pr> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_4> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C6078_GSCP___C2___Turkiye:____________Geospatial_informed_Smart_City_Strategies_for_Publ> .
+<http://schema.org/trustfund/TF0B8604_Circular_Economy_Actions_for____________Non_Point_Source_Pollution_Reduction_at_th> <http://www.w3.org/2000/01/rdf-schema#label> "TF0B8604_Circular_Economy_Actions_for____________Non_Point_Source_Pollution_Reduction_at_th" .
+<http://schema.org/doc/Stakeholder_Engagement_Plan_(SEP)
+____________Lao_Airlines_Sustainable_Development_(P181359)> <http://www.w3.org/2000/01/rdf-schema#label> "Stakeholder Engagement Plan (SEP)\n            Lao Airlines Sustainable Development (P181359)"@en .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Sustainable_Development_DPL___P500557___Sequence_No_:_1> <http://schema.org/abstractIs> <http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Sustainable_Development_DPL___P500557___Sequence_No_:_1> .
+<http://schema.org/Argentina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Sustainable_Development_DPL___P500557___Sequence_No_:_1> <http://www.w3.org/2000/01/rdf-schema#label> "nan" .
+<http://schema.org/Environmental_and_Social_Management_Plan> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Sustainable_Development_DPL___P500557___Sequence_No_:_1> <http://schema.org/authoredBy> <http://schema.org/author/Siegmann,Katharina> .
+<http://schema.org/abstract/Disclosable_Restructuring_Paper__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project___P105680> <http://www.w3.org/2000/01/rdf-schema#label> "nan" .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_32> <http://www.w3.org/2000/01/rdf-schema#label> "Disclosable Version of the ISR -\n            Matanza-Riachuelo Basin Sustainable Development Project -\n            P105680 - Sequence No : 32"@en .
+<http://schema.org/doc/Lao_People's_Democratic
+____________Republic___EAST_ASIA_AND_PACIFIC__P181359__Lao_Airlines
+____________Sustainable_Development_Project___Procurement_Plan> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C2754_Lao_Air_Transport_Policy_&____________Governance_Technical_Assistance> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Sustainable_Development_DPL___P500557___Sequence_No_:_1> <http://schema.org/isPartOf> <http://schema.org/project/DO_Sustainable_Development_Dpl____P500557> .
+<http://www.wikidata.org/entity/Q2145098> <http://www.w3.org/2000/01/rdf-schema#label> "entity wikidata code"@en .
+<http://schema.org/Auditing_Document> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/author/Pedraza_Morales,Alvaro_Enrique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/doc/Environmental_and_Social
+____________Commitment_Plan_(ESCP)_Lao_Airlines_Sustainable_Development_(P181359)> <http://schema.org/isPartOf> <http://schema.org/project/LA_Lao_Airlines_Sustainable_Development____P181359> .
+<http://schema.org/trustfund/TF0B8604_Circular_Economy_Actions_for____________Non_Point_Source_Pollution_Reduction_at_th> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/Environmental_and_Social_Commitment_Plan> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/abstract/Lao_People's_Democratic
+____________Republic___EAST_ASIA_AND_PACIFIC__P181359__Lao_Airlines
+____________Sustainable_Development___Procurement_Plan> <http://schema.org/isPartOf> <http://schema.org/abstract/Lao_People's_Democratic
+____________Republic___EAST_ASIA_AND_PACIFIC__P181359__Lao_Airlines
+____________Sustainable_Development___Procurement_Plan> .
+<http://schema.org/abstract/Environmental_and_Social
+____________Management_Framework_(ESMF)_Cashew_Value_Chain_Sustainable
+____________Development_Project_(P180040)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/abstract> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Lao_Airlines_Sustainable_Development_Project___P181359__
+____________Sequence_No_:_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Implementation_Status_and_Results_Report> .
+<http://schema.org/Mongolia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/doc/Labor_Management_Procedures_Lao
+____________Airlines_Sustainable_Development_(P181359)> <http://schema.org/authoredBy> <http://schema.org/author/Borrowing_Agency> .
+<http://schema.org/doc/Concept_Environmental_and_Social
+____________Review_Summary_(ESRS)___Rio_Grande_do_Norte:_Sustainable
+____________Development_and_Governance_of_Rio_Grande_do_Norte___Phase_2
+____________ __P502493> <http://schema.org/isPartOf> <http://schema.org/project/BR_Rio_Grande_Do_Norte:_Sustainable
+____________Development_And_Governance_Pro____P502493> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Ceara_Rural_Sustainable_Development_and_Competitiveness
+____________Phase_II___P167455___Sequence_No_:_09> <http://schema.org/countryOfOrigin> <http://schema.org/Brazil> .
+<http://schema.org/author/Corsi,Anna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/author/Colbano,Fabiano_Silvio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/doc/Lao_People's_Democratic
+____________Republic___EAST_ASIA_AND_PACIFIC__P181359__Lao_Airlines
+____________Sustainable_Development_Project___Procurement_Plan> <http://www.w3.org/2000/01/rdf-schema#label> "Lao People's Democratic\n            Republic - EAST ASIA AND PACIFIC- P181359- Lao Airlines\n            Sustainable Development Project - Procurement Plan"@en .
+<http://schema.org/Montenegro> <http://www.w3.org/2000/01/rdf-schema#label> "Montenegro"@en .
+<http://schema.org/doc/Sustainable_Development_Finance
+____________Policy_of_the_International_Development_Association_:_FY24
+____________Implementation_Update_and_Proposal_for_Policy_Enhancement> <http://schema.org/countryOfOrigin> <http://schema.org/World> .
+<http://schema.org/doc/Stakeholder_Engagement_Plan_(SEP)
+____________Lao_Airlines_Sustainable_Development_(P181359)> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C2756_Lao_Airlines_Implementation_Support> .
+<http://schema.org/Aide_Memoire> <http://www.w3.org/2000/01/rdf-schema#label> "Aide Memoire"@en .
+<http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_4> <http://www.w3.org/2000/01/rdf-schema#label> "nan" .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_32> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0B8604_Circular_Economy_Actions_for____________Non_Point_Source_Pollution_Reduction_at_th> .
+<http://schema.org/doc/Environmental_and_Social
+____________Commitment_Plan_(ESCP)_Lao_Airlines_Sustainable_Development_(P181359)> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C2754_Lao_Air_Transport_Policy_&____________Governance_Technical_Assistance> .
+<http://schema.org/trustfund/TF0C5866_FY25_PPIUF_Kirimati_Sustainable____________Development_Platform> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/project/BR_Rio_Grande_Do_Norte:_Sustainable
+____________Development_And_Governance_Pro____P502493> <http://www.w3.org/2000/01/rdf-schema#label> "BR_Rio_Grande_Do_Norte:_Sustainable\n____________Development_And_Governance_Pro____P502493"@en .
+<http://schema.org/doc/Disclosable_Restructuring_Paper__
+____________Ceara_Rural_Sustainable_Development_and_Competitiveness
+____________Phase_II___P167455> <http://schema.org/isPartOf> <http://schema.org/project/BR_Ceara_Rural_Sustainable_Development_And
+____________Competitiveness_Phase_I____P167455> .
+<http://schema.org/doc/Sustainable_Development_Finance
+____________Policy_of_the_International_Development_Association_:_FY24
+____________Implementation_Update_and_Proposal_for_Policy_Enhancement> <http://schema.org/isPartOf> <http://schema.org/project/nan> .
+<http://schema.org/doc/Lao_People’s_Democratic_Republic
+______________Lao_Airlines_Sustainable_Development_Project_:
+____________Implementation_Support_Mission___July_8_12,_2024> <http://schema.org/countryOfOrigin> <http://schema.org/Lao_People's_Democratic_Republic> .
+<http://schema.org/doc/Appraisal_Environmental_and
+____________Social_Review_Summary_(ESRS)___Haryana_Clean_Air_and
+____________Sustainable_Development_Program___P502491> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C4697_Haryana_Clean_Air_Project_for____________Sustainable_Development:_Clean_Cooking_Pr> .
+<http://schema.org/Report> <http://schema.org/wd_URI> <http://www.wikidata.org/entity/Q2145098> .
+<http://schema.org/author/Siegmann,Katharina> <http://www.w3.org/2000/01/rdf-schema#label> "Siegmann,Katharina"@en .
+<http://schema.org/doc/Environmental_and_Social
+____________Commitment_Plan_(ESCP)_Mato_Grosso_Sustainable_Development
+____________of_Family_Farming_(P175723)> <http://schema.org/countryOfOrigin> <http://schema.org/Brazil> .
+<http://schema.org/Program_for_Results_Environmental_and_Social
+____________Systems_Assessment> <http://www.w3.org/2000/01/rdf-schema#label> "Program-for-Results Environmental and Social\n            Systems Assessment"@en .
+<http://schema.org/doc/Disclosable_Restructuring_Paper__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project___P105680> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF098374_Supporting_the_Implementation____________of_Phase_1_of_the_Matanza_Riachuelo_Basin> .
+<http://schema.org/trustfund/TF0C5286_T00fcrkiye:_Leveraging_National____________Spatial_Data_Infrastructure_for_Smart_C> <http://www.w3.org/2000/01/rdf-schema#label> "TF0C5286_T00fcrkiye:_Leveraging_National____________Spatial_Data_Infrastructure_for_Smart_C" .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_4> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C4083_Leveraging_property_and____________geospatial_data_for_disaster_and_climate_resili> .
+<http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_3> <http://www.w3.org/2000/01/rdf-schema#label> "nan" .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Sustainable_Development_DPL___P500557___Sequence_No_:_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Implementation_Status_and_Results_Report> .
+<http://schema.org/trustfund/TF0C5780_Technical_Assistance_for____________Establishing_Science_Based_Policy_Options_for> <http://schema.org/countryOfOrigin> <http://schema.org/Dominican_Republic> .
+<http://schema.org/doc/Appraisal_Program_Information
+____________Document_(PID)___Rio_de_Janeiro_Fiscal_Management_and
+____________Sustainable_Development_Policy_Loan___P179182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Program_Information_Document> .
+<http://schema.org/doc/Environmental_and_Social
+____________Commitment_Plan_(ESCP)___Haryana_Clean_Air_and_Sustainable
+____________Development_Program___P502491> <http://schema.org/abstractIs> <http://schema.org/abstract/Environmental_and_Social
+____________Commitment_Plan_(ESCP)___Haryana_Clean_Air_and_Sustainable
+____________Development_Program___P502491> .
+<http://schema.org/author/Cull,Robert_J.> <http://www.w3.org/2000/01/rdf-schema#label> "Cull,Robert J."@en .
+<http://schema.org/Environmental_and_Social_Commitment_Plan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/project/LA_Lao_Airlines_Sustainable_Development
+____________Project____P181359> <http://www.w3.org/2000/01/rdf-schema#label> "LA_Lao_Airlines_Sustainable_Development\n____________Project____P181359"@en .
+<http://schema.org/author/Vanh_Dilaphanh> <http://schema.org/authored> <http://schema.org/doc/Lao_People's_Democratic
+____________Republic___EAST_ASIA_AND_PACIFIC__P181359__Lao_Airlines
+____________Sustainable_Development_Project___Procurement_Plan> .
+<http://schema.org/doc/Brazil___State_of_Ceará
+____________Sustainable_Development_Policy_Financing> <http://schema.org/countryOfOrigin> <http://schema.org/Brazil> .
+<http://schema.org/abstract/Environmental_and_Social
+____________Commitment_Plan_(ESCP)_Lao_Airlines_Sustainable_Development_(P181359)> <http://schema.org/isPartOf> <http://schema.org/abstract/Environmental_and_Social
+____________Commitment_Plan_(ESCP)_Lao_Airlines_Sustainable_Development_(P181359)> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Lao_Airlines_Sustainable_Development_Project___P181359__
+____________Sequence_No_:_1> <http://schema.org/isPartOf> <http://schema.org/project/LA_Lao_Airlines_Sustainable_Development
+____________Project____P181359> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Mato_Grosso_Sustainable_Development_of_Family_Farming__
+____________P175723___Sequence_No_:_2> <http://www.w3.org/2000/01/rdf-schema#label> "Disclosable Version of the ISR -\n            Mato Grosso Sustainable Development of Family Farming -\n            P175723 - Sequence No : 2"@en .
+<http://schema.org/doc/The_Global_Aquabusiness
+____________Investment_Guide_:_A_Living_Framework_to_Guide_Sustainable
+____________Development_in_the_World's_Fastest_Growing_Food_Sector
+______________Summer_2024> <http://schema.org/countryOfOrigin> <http://schema.org/World> .
+<http://schema.org/doc/Disclosable_Restructuring_Paper__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project___P105680> <http://schema.org/countryOfOrigin> <http://schema.org/Argentina> .
+<http://schema.org/doc/Uganda___EASTERN_AND_SOUTHERN
+____________AFRICA___P145101___Uganda:_Albertine_Region_Sustainable
+____________Development_Project___Audited_Financial_Statement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Auditing_Document> .
+<http://schema.org/doc/Environmental_and_Social
+____________Commitment_Plan_(ESCP)_Mato_Grosso_Sustainable_Development
+____________of_Family_Farming_(P175723)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Environmental_and_Social_Commitment_Plan> .
+<http://schema.org/doc/Revised___Environmental_and
+____________Social_Management_Framework_(ESMF)_Rio_Grande_do_Norte:
+____________Sustainable_Development_and_Governance_of_Rio_Grande_do
+____________Norte___Phase_2__(P502493)> <http://schema.org/isPartOf> <http://schema.org/project/BR_Rio_Grande_Do_Norte:_Sustainable
+____________Development_And_Governance_Of____P502493> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_3> <http://schema.org/authoredBy> <http://schema.org/author/Corsi,Anna> .
+<http://schema.org/doc/Environmental_and_Social
+____________Management_Framework_(ESMF)_Cashew_Value_Chain_Sustainable
+____________Development_Project_(P180040)> <http://schema.org/countryOfOrigin> <http://schema.org/Cote_d'Ivoire> .
+<http://schema.org/doc/Environmental_and_Social
+____________Commitment_Plan_(ESCP)___Rio_Grande_do_Norte:_Sustainable
+____________Development_and_Governance_of_Rio_Grande_do_Norte___Phase_2
+______________P502493> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Environmental_and_Social_Commitment_Plan> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Mato_Grosso_Sustainable_Development_of_Family_Farming__
+____________P175723___Sequence_No_:_1> <http://www.w3.org/2000/01/rdf-schema#label> "Disclosable Version of the ISR -\n            Mato Grosso Sustainable Development of Family Farming -\n            P175723 - Sequence No : 1"@en .
+<http://schema.org/doc/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN__P105680__Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Procurement_Plan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Procurement_Plan> .
+<http://schema.org/doc/Lao_People’s_Democratic_Republic
+______________Lao_Airlines_Sustainable_Development_Project> <http://schema.org/authoredBy> <http://schema.org/author/World_Bank> .
+<http://schema.org/doc/Concept_Environmental_and_Social
+____________Review_Summary_(ESRS)___Kiritimati_Sustainable_Development
+____________Platform___P505401> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C4415_Kiritimati_TAF> .
+<http://schema.org/author/Colbano,Fabiano_Silvio> <http://www.w3.org/2000/01/rdf-schema#label> "Colbano,Fabiano Silvio"@en .
+<http://schema.org/author/World_Bank> <http://schema.org/authored> <http://schema.org/doc/Montenegro___First_Resilient
+____________Fiscal_and_Sustainable_Development_DPF_Project> .
+<http://schema.org/project/KI_Kiritimati_Sustainable_Development
+____________Platform____P505401> <http://www.w3.org/2000/01/rdf-schema#label> "KI_Kiritimati_Sustainable_Development\n____________Platform____P505401"@en .
+<http://schema.org/Lao_People's_Democratic_Republic> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/country> .
+<http://schema.org/trustfund/TF0C5873_Investing_in_the_Dominican____________Republics_Green_Recovery_and_Blue_Economy> <http://www.w3.org/2000/01/rdf-schema#label> "Trustfund: TF0C5873_Investing_in_the_Dominican____________Republics_Green_Recovery_and_Blue_Economy" .
+<http://schema.org/doc/Stakeholder_Engagement_Plan_(SEP)
+______________Rio_Grande_do_Norte:_Sustainable_Development_and
+____________Governance_of_Rio_Grande_do_Norte___Phase_2____P502493> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Stakeholder_Engagement_Plan> .
+<http://schema.org/Environmental_and_Social_Management_Framework> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/Argentina> <http://schema.org/wd_URI> <http://www.wikidata.org/entity/Q414> .
+<http://schema.org/abstract/P502491___Draft_Environmental_and
+____________Social_Systems_Assessment_(ESSA)___Haryana_Clean_Air_and
+____________Sustainable_Development_Program> <http://www.w3.org/2000/01/rdf-schema#label> "nan" .
+<http://schema.org/doc/Stakeholder_Engagement_Plan_(SEP)
+______________Rio_Grande_do_Norte:_Sustainable_Development_and
+____________Governance_of_Rio_Grande_do_Norte___Phase_2____P502493> <http://www.w3.org/2000/01/rdf-schema#label> "Stakeholder Engagement Plan (SEP)\n            - Rio Grande do Norte: Sustainable Development and\n            Governance of Rio Grande do Norte - Phase 2  - P502493"@en .
+<http://schema.org/author/Lafaete_Almenida_de_Oliveira_Mesquita> <http://www.w3.org/2000/01/rdf-schema#label> "Lafaete Almenida de Oliveira Mesquita"@en .
+<http://schema.org/Board_Report> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/Trust_Fund_Administrative_Agreement> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/abstract/Lao_People's_Democratic
+____________Republic___EAST_ASIA_AND_PACIFIC__P181359__Lao_Airlines
+____________Sustainable_Development___Procurement_Plan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/abstract> .
+<http://schema.org/trustfund/TF0C3665_Lao_Aviation_Sustainable_Development> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_33> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF098374_Supporting_the_Implementation____________of_Phase_1_of_the_Matanza_Riachuelo_Basin> .
+<http://schema.org/author/Corsi,Anna> <http://www.w3.org/2000/01/rdf-schema#label> "Corsi,Anna"@en .
+<http://schema.org/author/Daniel_Larrache> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/doc/Disclosable_Restructuring_Paper__
+____________Ceara_Rural_Sustainable_Development_and_Competitiveness
+____________Phase_II___P167455> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Project_Paper> .
+<http://schema.org/author/Borrowing_Agency> <http://schema.org/authored> <http://schema.org/doc/Environmental_and_Social
+____________Management_Framework_(ESMF)_Cashew_Value_Chain_Sustainable
+____________Development_Project_(P180040)> .
+<http://schema.org/doc/Mobilizing_Private_Capital_for
+____________the_Sustainable_Development_Goals> <http://schema.org/countryOfOrigin> <http://schema.org/World> .
+<http://schema.org/India> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/trustfund/TF072858_Global_Shield_Financing____________Facility_Multi_Donor_Trust_Fund> <http://www.w3.org/2000/01/rdf-schema#label> "Trustfund: TF072858_Global_Shield_Financing____________Facility_Multi_Donor_Trust_Fund" .
+<http://schema.org/Project_Appraisal_Document> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/doc/Concept_Environmental_and_Social
+____________Review_Summary_(ESRS)___Kiritimati_Sustainable_Development
+____________Platform___P505401> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C5866_FY25_PPIUF_Kirimati_Sustainable____________Development_Platform> .
+<http://schema.org/project/CI_Cashew_Value_Chain_Sustainable
+____________Development_Project____P180040> <http://www.w3.org/2000/01/rdf-schema#label> "CI_Cashew_Value_Chain_Sustainable\n____________Development_Project____P180040"@en .
+<http://schema.org/author/Borrowing_Agency> <http://schema.org/authored> <http://schema.org/doc/Environmental_and_Social
+____________Commitment_Plan_(ESCP)___Haryana_Clean_Air_and_Sustainable
+____________Development_Program___P502491> .
+<http://schema.org/doc/Environmental_and_Social
+____________Management_Framework_(ESMF)_Cashew_Value_Chain_Sustainable
+____________Development_Project_(P180040)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Environmental_and_Social_Management_Plan> .
+<http://schema.org/project/BR_Rio_Grande_Do_Norte:_Sustainable
+____________Development_And_Governance_Of____P502493> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/doc/Official_Documents_
+____________Administration_Agreement_with_the_Grand_Duchy_of_Luxembourg,
+____________acting_through_its_Ministry_of_the_Environment,_Climate_and
+____________Sustainable_Development,_for_TF072858.pdf> <http://www.w3.org/2000/01/rdf-schema#label> "Official Documents-\n            Administration Agreement with the Grand Duchy of Luxembourg,\n            acting through its Ministry of the Environment, Climate and\n            Sustainable Development, for TF072858.pdf"@en .
+<http://schema.org/trustfund/TF0C5780_Technical_Assistance_for____________Establishing_Science_Based_Policy_Options_for> <http://www.w3.org/2000/01/rdf-schema#label> "Trustfund: TF0C5780_Technical_Assistance_for____________Establishing_Science_Based_Policy_Options_for" .
+<http://schema.org/Honduras> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/country> .
+<http://schema.org/author/Chichgar,Sharlene_Jehanbux> <http://schema.org/authored> <http://schema.org/doc/P502491___Draft_Environmental_and
+____________Social_Systems_Assessment_(ESSA)___Haryana_Clean_Air_and
+____________Sustainable_Development_Program> .
+<http://schema.org/project/TR_Land_Management_Infrastructure_For_Green
+____________And_Sustainable_Develo____P179217> <http://www.w3.org/2000/01/rdf-schema#label> "TR_Land_Management_Infrastructure_For_Green\n____________And_Sustainable_Develo____P179217"@en .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Ceara_Rural_Sustainable_Development_and_Competitiveness
+____________Phase_II___P167455___Sequence_No_:_10> <http://schema.org/countryOfOrigin> <http://schema.org/Brazil> .
+<http://www.wikidata.org/entity/Q54935566> <http://www.w3.org/2000/01/rdf-schema#label> "entity wikidata code"@en .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_02> <http://www.w3.org/2000/01/rdf-schema#label> "Disclosable Version of the ISR -\n            Land management infrastructure for green and sustainable\n            development - P179217 - Sequence No : 02"@en .
+<http://schema.org/author/Siegmann,Katharina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/Dominican_Republic> <http://schema.org/wd_URI> <http://www.wikidata.org/entity/Q786> .
+<http://schema.org/abstract/Concept_Environmental_and_Social
+____________Review_Summary_(ESRS)___Kiritimati_Sustainable_Development
+____________Platform___P505401> <http://www.w3.org/2000/01/rdf-schema#label> "nan" .
+<http://schema.org/trustfund/TF0C5780_Technical_Assistance_for____________Establishing_Science_Based_Policy_Options_for> <http://www.w3.org/2000/01/rdf-schema#label> "TF0C5780_Technical_Assistance_for____________Establishing_Science_Based_Policy_Options_for" .
+<http://schema.org/author/Chichgar,Sharlene_Jehanbux> <http://www.w3.org/2000/01/rdf-schema#label> "Chichgar,Sharlene Jehanbux"@en .
+<http://schema.org/abstract/Lao_People's_Democratic
+____________Republic___EAST_ASIA_AND_PACIFIC__P181359__Lao_Airlines
+____________Sustainable_Development_Project___Procurement_Plan> <http://schema.org/isPartOf> <http://schema.org/abstract/Lao_People's_Democratic
+____________Republic___EAST_ASIA_AND_PACIFIC__P181359__Lao_Airlines
+____________Sustainable_Development_Project___Procurement_Plan> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Mato_Grosso_Sustainable_Development_of_Family_Farming__
+____________P175723___Sequence_No_:_2> <http://schema.org/authoredBy> <http://schema.org/author/Noronha_Farinelli,Barbara_Cristina> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Lao_Airlines_Sustainable_Development_Project___P181359__
+____________Sequence_No_:_1> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C2754_Lao_Air_Transport_Policy_&____________Governance_Technical_Assistance> .
+<http://schema.org/trustfund/TF0C4415_Kiritimati_TAF> <http://www.w3.org/2000/01/rdf-schema#label> "Trustfund: TF0C4415_Kiritimati_TAF" .
+<http://schema.org/doc/Concept_Environmental_and_Social
+____________Review_Summary_(ESRS)___Rio_Grande_do_Norte:_Sustainable
+____________Development_and_Governance_of_Rio_Grande_do_Norte___Phase_2
+____________ __P502493> <http://www.w3.org/2000/01/rdf-schema#label> "Concept Environmental and Social\n            Review Summary (ESRS) - Rio Grande do Norte: Sustainable\n            Development and Governance of Rio Grande do Norte - Phase 2\n             - P502493"@en .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_01> <http://schema.org/countryOfOrigin> <http://schema.org/Turkiye> .
+<http://schema.org/Aide_Memoire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/author/Ruiz_Ortega,Claudia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/trustfund/TF0C4697_Haryana_Clean_Air_Project_for____________Sustainable_Development:_Clean_Cooking_Pr> <http://www.w3.org/2000/01/rdf-schema#label> "Trustfund: TF0C4697_Haryana_Clean_Air_Project_for____________Sustainable_Development:_Clean_Cooking_Pr" .
+<http://schema.org/doc/Montenegro___First_Resilient
+____________Fiscal_and_Sustainable_Development_DPF_Project> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Program_Document> .
+<http://schema.org/doc/The_Global_Aquabusiness
+____________Investment_Guide_:_A_Living_Framework_to_Guide_Sustainable
+____________Development_in_the_World's_Fastest_Growing_Food_Sector
+______________Summer_2024> <http://www.w3.org/2000/01/rdf-schema#label> "The Global Aquabusiness\n            Investment Guide : A Living Framework to Guide Sustainable\n            Development in the World's Fastest Growing Food Sector\n            - Summer 2024"@en .
+<http://schema.org/abstract/Montenegro___First_Resilient
+____________Fiscal_and_Sustainable_Development_DPF_Project> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/abstract> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Lao_Airlines_Sustainable_Development_Project___P181359__
+____________Sequence_No_:_1> <http://schema.org/abstractIs> <http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Lao_Airlines_Sustainable_Development_Project___P181359__
+____________Sequence_No_:_1> .
+<http://schema.org/project/BR_Mato_Grosso_Sustainable_Development_Of
+____________Family_Farming____P175723> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_32> <http://schema.org/countryOfOrigin> <http://schema.org/Argentina> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_32> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF098374_Supporting_the_Implementation____________of_Phase_1_of_the_Matanza_Riachuelo_Basin> .
+<http://schema.org/author/Arthur_Mumanyire> <http://www.w3.org/2000/01/rdf-schema#label> "Arthur Mumanyire"@en .
+<http://schema.org/author/Ramirez,Maria_Catalina> <http://www.w3.org/2000/01/rdf-schema#label> "Ramirez,Maria Catalina"@en .
+<http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_3> <http://schema.org/isPartOf> <http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_3> .
+<http://schema.org/Turkiye> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/Dominican_Republic> <http://www.w3.org/2000/01/rdf-schema#label> "Dominican Republic"@en .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Ceara_Rural_Sustainable_Development_and_Competitiveness
+____________Phase_II___P167455___Sequence_No_:_10> <http://www.w3.org/2000/01/rdf-schema#label> "Disclosable Version of the ISR -\n            Ceara Rural Sustainable Development and Competitiveness\n            Phase II - P167455 - Sequence No : 10"@en .
+<http://schema.org/doc/Sustainable_Development_Finance
+____________Policy_of_the_International_Development_Association_:_FY24
+____________Implementation_Update_and_Proposal_for_Policy_Enhancement> <http://www.w3.org/2000/01/rdf-schema#label> "Sustainable Development Finance\n            Policy of the International Development Association : FY24\n            Implementation Update and Proposal for Policy Enhancement"@en .
+<http://schema.org/abstract/Environmental_and_Social
+____________Commitment_Plan_(ESCP)_Lao_Airlines_Sustainable_Development_(P181359)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/abstract> .
+<http://schema.org/project/BR_Rio_Grande_Do_Norte:_Sustainable
+____________Development_And_Governance_Pro____P502493> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Implementation_Status_and_Results_Report> .
+<http://schema.org/Environmental_and_Social_Review_Summary> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/Program_for_Results_Environmental_and_Social
+____________Systems_Assessment> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/author/Lucas_Figueras> <http://www.w3.org/2000/01/rdf-schema#label> "Lucas Figueras"@en .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_4> <http://schema.org/abstractIs> <http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_4> .
+<http://schema.org/trustfund/TF0B9831_Circular_Economy_for_Waste____________Management_in_Province_of_Buenos_Aires> <http://www.w3.org/2000/01/rdf-schema#label> "Trustfund: TF0B9831_Circular_Economy_for_Waste____________Management_in_Province_of_Buenos_Aires" .
+<http://schema.org/doc/Lao_People's_Democratic
+____________Republic___EAST_ASIA_AND_PACIFIC__P181359__Lao_Airlines
+____________Sustainable_Development___Procurement_Plan> <http://schema.org/abstractIs> <http://schema.org/abstract/Lao_People's_Democratic
+____________Republic___EAST_ASIA_AND_PACIFIC__P181359__Lao_Airlines
+____________Sustainable_Development___Procurement_Plan> .
+<http://schema.org/Policy_Research_Working_Paper> <http://www.w3.org/2000/01/rdf-schema#label> "Policy Research Working Paper"@en .
+<http://schema.org/trustfund/nan> <http://www.w3.org/2000/01/rdf-schema#label> "nan" .
+<http://schema.org/author/Wang,Xiaodong> <http://www.w3.org/2000/01/rdf-schema#label> "Wang,Xiaodong"@en .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_33> <http://schema.org/countryOfOrigin> <http://schema.org/Argentina> .
+<http://schema.org/author/Pedraza_Morales,Alvaro_Enrique> <http://www.w3.org/2000/01/rdf-schema#label> "Pedraza Morales,Alvaro Enrique"@en .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Mato_Grosso_Sustainable_Development_of_Family_Farming__
+____________P175723___Sequence_No_:_1> <http://schema.org/countryOfOrigin> <http://schema.org/Brazil> .
+<http://schema.org/doc/Disclosable_Restructuring_Paper__
+____________Ceara_Rural_Sustainable_Development_and_Competitiveness
+____________Phase_II___P167455> <http://schema.org/countryOfOrigin> <http://schema.org/Brazil> .
+<http://schema.org/doc/Brazil___Mato_Grosso_Sustainable
+____________Development_of_Family_Farming_Project> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Project_Appraisal_Document> .
+<http://schema.org/doc/Labor_Management_Procedures_Lao
+____________Airlines_Sustainable_Development_(P181359)> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C2756_Lao_Airlines_Implementation_Support> .
+<http://schema.org/doc/Disclosable_Restructuring_Paper__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project___P105680> <http://schema.org/isPartOf> <http://schema.org/project/AR_Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project____P105680> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Mato_Grosso_Sustainable_Development_of_Family_Farming__
+____________P175723___Sequence_No_:_2> <http://schema.org/countryOfOrigin> <http://schema.org/Brazil> .
+<http://schema.org/Policy_Research_Working_Paper> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/doc/P502491___Draft_Environmental_and
+____________Social_Systems_Assessment_(ESSA)___Haryana_Clean_Air_and
+____________Sustainable_Development_Program> <http://schema.org/countryOfOrigin> <http://schema.org/India> .
+<http://schema.org/doc/Labor_Management_Procedures_Lao
+____________Airlines_Sustainable_Development_(P181359)> <http://schema.org/countryOfOrigin> <http://schema.org/Lao_People's_Democratic_Republic> .
+<http://schema.org/doc/Lao_People's_Democratic
+____________Republic___EAST_ASIA_AND_PACIFIC__P181359__Lao_Airlines
+____________Sustainable_Development___Procurement_Plan> <http://www.w3.org/2000/01/rdf-schema#label> "Lao People's Democratic\n            Republic - EAST ASIA AND PACIFIC- P181359- Lao Airlines\n            Sustainable Development - Procurement Plan"@en .
+<http://schema.org/doc/Official_Documents_
+____________Administration_Agreement_with_the_Grand_Duchy_of_Luxembourg,
+____________acting_through_its_Ministry_of_the_Environment,_Climate_and
+____________Sustainable_Development,_for_TF072858.pdf> <http://schema.org/countryOfOrigin> <http://schema.org/nan> .
+<http://schema.org/project/BR_Ceara_Rural_Sustainable_Development_And
+____________Competitiveness_Phase_I____P167455> <http://www.w3.org/2000/01/rdf-schema#label> "BR_Ceara_Rural_Sustainable_Development_And\n____________Competitiveness_Phase_I____P167455"@en .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_33> <http://schema.org/abstractIs> <http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_33> .
+<http://schema.org/abstract/Montenegro___First_Resilient
+____________Fiscal_and_Sustainable_Development_DPF_Project> <http://schema.org/isPartOf> <http://schema.org/abstract/Montenegro___First_Resilient
+____________Fiscal_and_Sustainable_Development_DPF_Project> .
+<http://schema.org/Brazil> <http://schema.org/wd_URI> <http://www.wikidata.org/entity/Q155> .
+<http://schema.org/trustfund/TF0B9831_Circular_Economy_for_Waste____________Management_in_Province_of_Buenos_Aires> <http://schema.org/countryOfOrigin> <http://schema.org/Argentina> .
+<http://schema.org/doc/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN___P105680___Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Audited_Financial_Statement> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0B9831_Circular_Economy_for_Waste____________Management_in_Province_of_Buenos_Aires> .
+<http://schema.org/doc/Lao_People's_Democratic
+____________Republic___EAST_ASIA_AND_PACIFIC__P181359__Lao_Airlines
+____________Sustainable_Development___Procurement_Plan> <http://schema.org/isPartOf> <http://schema.org/project/LA_Lao_Airlines_Sustainable_Development____P181359> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_4> <http://www.w3.org/2000/01/rdf-schema#label> "Disclosable Version of the ISR -\n            Land management infrastructure for green and sustainable\n            development - P179217 - Sequence No : 4"@en .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_33> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0B9831_Circular_Economy_for_Waste____________Management_in_Province_of_Buenos_Aires> .
+<http://schema.org/trustfund/TF0C5866_FY25_PPIUF_Kirimati_Sustainable____________Development_Platform> <http://www.w3.org/2000/01/rdf-schema#label> "TF0C5866_FY25_PPIUF_Kirimati_Sustainable____________Development_Platform" .
+<http://schema.org/author/zgen_alar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Mato_Grosso_Sustainable_Development_of_Family_Farming__
+____________P175723___Sequence_No_:_1> <http://schema.org/isPartOf> <http://schema.org/project/BR_Mato_Grosso_Sustainable_Development_Of
+____________Family_Farming____P175723> .
+<http://schema.org/Cote_d'Ivoire> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/country> .
+<http://schema.org/Program_Information_Document> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Rio_de_Janeiro_Adjustment_and_Sustainable_Development_Policy
+____________Loan___P178729___Sequence_No_:_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/abstract> .
+<http://schema.org/doc/Lao_People’s_Democratic_Republic
+______________Lao_Airlines_Sustainable_Development_Project_:
+____________Implementation_Support_Mission___July_8_12,_2024> <http://www.w3.org/2000/01/rdf-schema#label> "Lao People’s Democratic Republic\n            - Lao Airlines Sustainable Development Project :\n            Implementation Support Mission - July 8-12, 2024"@en .
+<http://schema.org/project/BR_State_Of_Ceará_Sustainable_Development
+____________Policy_Loan____P180497> <http://www.w3.org/2000/01/rdf-schema#label> "BR_State_Of_Ceará_Sustainable_Development\n____________Policy_Loan____P180497"@en .
+<http://schema.org/Kiribati> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/country> .
+<http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Mato_Grosso_Sustainable_Development_of_Family_Farming__
+____________P175723___Sequence_No_:_2> <http://www.w3.org/2000/01/rdf-schema#label> "nan" .
+<http://schema.org/doc/Lao_People's_Democratic
+____________Republic___EAST_ASIA_AND_PACIFIC__P181359__Lao_Airlines
+____________Sustainable_Development___Procurement_Plan> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C2754_Lao_Air_Transport_Policy_&____________Governance_Technical_Assistance> .
+<http://schema.org/doc/Environmental_and_Social
+____________Commitment_Plan_(ESCP)_Lao_Airlines_Sustainable_Development_(P181359)> <http://schema.org/authoredBy> <http://schema.org/author/Borrowing_Agency> .
+<http://schema.org/Lao_People's_Democratic_Republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/isPartOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://schema.org/abstract/Official_Documents_
+____________Administration_Agreement_with_the_Grand_Duchy_of_Luxembourg,
+____________acting_through_its_Ministry_of_the_Environment,_Climate_and
+____________Sustainable_Development,_for_TF072858.pdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/abstract> .
+<http://schema.org/author/De_Serio,Christopher_J.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/doc/Appraisal_Program_Information
+____________Document_(PID)___Rio_de_Janeiro_Fiscal_Management_and
+____________Sustainable_Development_Policy_Loan___P179182> <http://schema.org/countryOfOrigin> <http://schema.org/Brazil> .
+<http://schema.org/author/Chichgar,Sharlene_Jehanbux> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/trustfund/TF0C5286_T00fcrkiye:_Leveraging_National____________Spatial_Data_Infrastructure_for_Smart_C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/project/1W_Global_Aquabusiness_Investment_Guide____P503117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/project/AR_Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project____P105680> <http://www.w3.org/2000/01/rdf-schema#label> "AR_Matanza_Riachuelo_Basin_Sustainable\n____________Development_Project____P105680"@en .
+<http://schema.org/author/Paviot,Marie_Caroline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/author/Mileva,Elitza_Alexandrova> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/author/Corsi,Anna> <http://schema.org/authored> <http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_4> .
+<http://schema.org/doc/Labor_Management_Procedures_Lao
+____________Airlines_Sustainable_Development_(P181359)> <http://schema.org/abstractIs> <http://schema.org/abstract/Labor_Management_Procedures_Lao
+____________Airlines_Sustainable_Development_(P181359)> .
+<http://schema.org/trustfund/TF0C4697_Haryana_Clean_Air_Project_for____________Sustainable_Development:_Clean_Cooking_Pr> <http://schema.org/countryOfOrigin> <http://schema.org/India> .
+<http://schema.org/doc/Lao_People’s_Democratic_Republic
+______________Lao_Airlines_Sustainable_Development_Project> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C2756_Lao_Airlines_Implementation_Support> .
+<http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/abstract> .
+<http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_4> <http://schema.org/isPartOf> <http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_4> .
+<http://schema.org/doc/Lao_People’s_Democratic_Republic
+______________Lao_Airlines_Sustainable_Development_Project> <http://schema.org/countryOfOrigin> <http://schema.org/Lao_People's_Democratic_Republic> .
+<http://schema.org/Uganda> <http://www.w3.org/2000/01/rdf-schema#label> "Uganda"@en .
+<http://schema.org/author/Daniel_Larrache> <http://www.w3.org/2000/01/rdf-schema#label> "Daniel Larrache"@en .
+<http://schema.org/project/KI_Kiritimati_Sustainable_Development
+____________Platform____P505401> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/doc/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN___P105680___Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Audited_Financial_Statement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Auditing_Document> .
+<http://schema.org/abstract/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN__P105680__Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Procurement_Plan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/abstract> .
+<http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/abstract> .
+<http://schema.org/author/De_Serio,Christopher_J.> <http://schema.org/authored> <http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Lao_Airlines_Sustainable_Development_Project___P181359__
+____________Sequence_No_:_1> .
+<http://schema.org/Trust_Fund_Administrative_Agreement> <http://www.w3.org/2000/01/rdf-schema#label> "Trust Fund Administrative Agreement"@en .
+<http://schema.org/doc/Revised__Resettlement_Framework
+____________Rio_Grande_do_Norte:_Sustainable_Development_and_Governance
+____________of_Rio_Grande_do_Norte___Phase_2__(P502493)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Environmental_and_Social_Management_Framework> .
+<http://schema.org/World> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/country> .
+<http://schema.org/author/Chichgar,Sharlene_Jehanbux> <http://schema.org/authored> <http://schema.org/doc/Appraisal_Environmental_and
+____________Social_Review_Summary_(ESRS)___Haryana_Clean_Air_and
+____________Sustainable_Development_Program___P502491> .
+<http://schema.org/Honduras> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/abstract/Turkiye___EUROPE_AND_CENTRAL
+____________ASIA__P179217__Land_management_infrastructure_for_green_and
+____________sustainable_development___Procurement_Plan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/abstract> .
+<http://schema.org/doc/Dominican_Republic___Sustainable
+____________Development_Policy_Loan_Program> <http://schema.org/isPartOf> <http://schema.org/project/DO_Sustainable_Development_Dpl____P500557> .
+<http://schema.org/author/Oppong,M._Yaa_Pokua_Afriyie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/author/Liduina_Cynthya_Lemos> <http://www.w3.org/2000/01/rdf-schema#label> "Liduina Cynthya Lemos"@en .
+<http://schema.org/abstract/Lao_People's_Democratic
+____________Republic___EAST_ASIA_AND_PACIFIC__P181359__Lao_Airlines
+____________Sustainable_Development_Project___Procurement_Plan> <http://www.w3.org/2000/01/rdf-schema#label> "nan" .
+<http://schema.org/trustfund/TF072858_Global_Shield_Financing____________Facility_Multi_Donor_Trust_Fund> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/trustfund/TF0C4618_Designing_Innovative_Climate____________Finance_Instruments_for_Scaling_Climate_Sm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/abstract/Environmental_and_Social
+____________Commitment_Plan_(ESCP)___Haryana_Clean_Air_and_Sustainable
+____________Development_Program___P502491> <http://schema.org/isPartOf> <http://schema.org/abstract/Environmental_and_Social
+____________Commitment_Plan_(ESCP)___Haryana_Clean_Air_and_Sustainable
+____________Development_Program___P502491> .
+<http://schema.org/doc/Brazil___State_of_Ceará
+____________Sustainable_Development_Policy_Financing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Program_Document> .
+<http://schema.org/Montenegro> <http://schema.org/wd_URI> <http://www.wikidata.org/entity/Q236> .
+<http://schema.org/authors> <http://www.w3.org/2000/01/rdf-schema#label> "worldbank authors" .
+<http://schema.org/trustfund/TF0C2754_Lao_Air_Transport_Policy_&____________Governance_Technical_Assistance> <http://www.w3.org/2000/01/rdf-schema#label> "Trustfund: TF0C2754_Lao_Air_Transport_Policy_&____________Governance_Technical_Assistance" .
+<http://schema.org/doc/Lao_People’s_Democratic_Republic
+______________Lao_Airlines_Sustainable_Development_Project> <http://www.w3.org/2000/01/rdf-schema#label> "Lao People’s Democratic Republic\n            - Lao Airlines Sustainable Development Project"@en .
+<http://schema.org/doc/Appraisal_Environmental_and
+____________Social_Review_Summary_(ESRS)___Haryana_Clean_Air_and
+____________Sustainable_Development_Program___P502491> <http://schema.org/abstractIs> <http://schema.org/abstract/Appraisal_Environmental_and
+____________Social_Review_Summary_(ESRS)___Haryana_Clean_Air_and
+____________Sustainable_Development_Program___P502491> .
+<http://schema.org/doc/Environmental_and_Social
+____________Commitment_Plan_(ESCP)_Lao_Airlines_Sustainable_Development_(P181359)> <http://schema.org/abstractIs> <http://schema.org/abstract/Environmental_and_Social
+____________Commitment_Plan_(ESCP)_Lao_Airlines_Sustainable_Development_(P181359)> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_32> <http://schema.org/isPartOf> <http://schema.org/project/AR_Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project____P105680> .
+<http://schema.org/trustfund/TF0C6078_GSCP___C2___Turkiye:____________Geospatial_informed_Smart_City_Strategies_for_Publ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/author/Corsi,Anna> <http://schema.org/authored> <http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_3> .
+<http://schema.org/trustfund/TF0B9837_Co_creating_safe_and_inclusive____________infrastructure_to_enhance_childrenâ> <http://www.w3.org/2000/01/rdf-schema#label> "TF0B9837_Co_creating_safe_and_inclusive____________infrastructure_to_enhance_childrenâ" .
+<http://schema.org/Project_Paper> <http://www.w3.org/2000/01/rdf-schema#label> "Project Paper"@en .
+<http://schema.org/trustfund/TF098374_Supporting_the_Implementation____________of_Phase_1_of_the_Matanza_Riachuelo_Basin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/doc/Dominican_Republic___Sustainable
+____________Development_Policy_Loan_Program> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Program_Document> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_02> <http://schema.org/isPartOf> <http://schema.org/project/TR_Land_Management_Infrastructure_For_Green
+____________And_Sustainable_Develo____P179217> .
+<http://schema.org/doc/Labor_Management_Procedures_Lao
+____________Airlines_Sustainable_Development_(P181359)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Procedure_and_Checklist> .
+<http://schema.org/doc/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN___P105680___Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Audited_Financial_Statement> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0B8604_Circular_Economy_Actions_for____________Non_Point_Source_Pollution_Reduction_at_th> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Mato_Grosso_Sustainable_Development_of_Family_Farming__
+____________P175723___Sequence_No_:_2> <http://schema.org/abstractIs> <http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Mato_Grosso_Sustainable_Development_of_Family_Farming__
+____________P175723___Sequence_No_:_2> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Ceara_Rural_Sustainable_Development_and_Competitiveness
+____________Phase_II___P167455___Sequence_No_:_09> <http://www.w3.org/2000/01/rdf-schema#label> "Disclosable Version of the ISR -\n            Ceara Rural Sustainable Development and Competitiveness\n            Phase II - P167455 - Sequence No : 09"@en .
+<http://schema.org/trustfund/TF0B9837_Co_creating_safe_and_inclusive____________infrastructure_to_enhance_childrenâ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/abstractIs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://schema.org/doc/Appraisal_Program_Information
+____________Document_(PID)___Rio_de_Janeiro_Fiscal_Management_and
+____________Sustainable_Development_Policy_Loan___P179182> <http://www.w3.org/2000/01/rdf-schema#label> "Appraisal Program Information\n            Document (PID) - Rio de Janeiro Fiscal Management and\n            Sustainable Development Policy Loan - P179182"@en .
+<http://schema.org/doc/Concept_Environmental_and_Social
+____________Review_Summary_(ESRS)___Rio_Grande_do_Norte:_Sustainable
+____________Development_and_Governance_of_Rio_Grande_do_Norte___Phase_2
+____________ __P502493> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Environmental_and_Social_Review_Summary> .
+<http://schema.org/doc/Concept_Environmental_and_Social
+____________Review_Summary_(ESRS)___Haryana_Clean_Air_and_Sustainable
+____________Development_Program___P502491> <http://schema.org/countryOfOrigin> <http://schema.org/India> .
+<http://schema.org/doc/Disclosable_Restructuring_Paper__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project___P105680> <http://schema.org/authoredBy> <http://schema.org/author/Ramirez,Maria_Catalina> .
+<http://schema.org/Environmental_and_Social_Management_Framework> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/author/Betty_Namatovu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Sustainable_Development_DPL___P500557___Sequence_No_:_1> <http://www.w3.org/2000/01/rdf-schema#label> "Disclosable Version of the ISR -\n            Sustainable Development DPL - P500557 - Sequence No : 1"@en .
+<http://schema.org/countryOfOrigin> <http://www.w3.org/2000/01/rdf-schema#label> "Country that this document is about." .
+<http://schema.org/doc/Brazil___LATIN_AMERICA_AND
+____________CARIBBEAN__P167455__Ceara_Rural_Sustainable_Development_and
+____________Competitiveness_Phase_II___Procurement_Plan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Procurement_Plan> .
+<http://schema.org/abstract/Turkiye___EUROPE_AND_CENTRAL
+____________ASIA__P179217__Land_management_infrastructure_for_green_and
+____________sustainable_development___Procurement_Plan> <http://schema.org/isPartOf> <http://schema.org/abstract/Turkiye___EUROPE_AND_CENTRAL
+____________ASIA__P179217__Land_management_infrastructure_for_green_and
+____________sustainable_development___Procurement_Plan> .
+<http://schema.org/author/Joseph_Kawuma_Kawuma> <http://www.w3.org/2000/01/rdf-schema#label> "Joseph Kawuma Kawuma"@en .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_31> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0B9831_Circular_Economy_for_Waste____________Management_in_Province_of_Buenos_Aires> .
+<http://schema.org/trustfund/TF0C2754_Lao_Air_Transport_Policy_&____________Governance_Technical_Assistance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://www.wikidata.org/entity/Q236> <http://www.w3.org/2000/01/rdf-schema#label> "Montenegro wikidata code"@en .
+<http://schema.org/trustfund/TF0C3665_Lao_Aviation_Sustainable_Development> <http://www.w3.org/2000/01/rdf-schema#label> "Trustfund: TF0C3665_Lao_Aviation_Sustainable_Development" .
+<http://schema.org/doc/Revised___Environmental_and
+____________Social_Management_Framework_(ESMF)_Rio_Grande_do_Norte:
+____________Sustainable_Development_and_Governance_of_Rio_Grande_do
+____________Norte___Phase_2__(P502493)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Environmental_and_Social_Management_Plan> .
+<http://schema.org/abstract/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_31> <http://www.w3.org/2000/01/rdf-schema#label> "nan" .
+<http://schema.org/author/Ru,Jiang> <http://schema.org/authored> <http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_31> .
+<http://schema.org/doc/Appraisal_Environmental_and
+____________Social_Review_Summary_(ESRS)___Haryana_Clean_Air_and
+____________Sustainable_Development_Program___P502491> <http://schema.org/isPartOf> <http://schema.org/project/IN_Haryana_Clean_Air_And_Sustainable
+____________Development_Program_P502491> .
+<http://schema.org/author/Wang,Xiaodong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/trustfund/TF0C4618_Designing_Innovative_Climate____________Finance_Instruments_for_Scaling_Climate_Sm> <http://www.w3.org/2000/01/rdf-schema#label> "Trustfund: TF0C4618_Designing_Innovative_Climate____________Finance_Instruments_for_Scaling_Climate_Sm" .
+<http://schema.org/doc/Appraisal_Environmental_and
+____________Social_Review_Summary_(ESRS)___Haryana_Clean_Air_and
+____________Sustainable_Development_Program___P502491> <http://schema.org/countryOfOrigin> <http://schema.org/India> .
+<http://schema.org/doc/Dominican_Republic___Sustainable
+____________Development_Policy_Loan_Program> <http://schema.org/countryOfOrigin> <http://schema.org/Dominican_Republic> .
+<http://schema.org/abstract/Labor_Management_Procedures_Lao
+____________Airlines_Sustainable_Development_(P181359)> <http://schema.org/isPartOf> <http://schema.org/abstract/Labor_Management_Procedures_Lao
+____________Airlines_Sustainable_Development_(P181359)> .
+<http://schema.org/identifier> <http://www.w3.org/2000/01/rdf-schema#domain> <http://schema.org/trustfund> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_4> <http://schema.org/countryOfOrigin> <http://schema.org/Turkiye> .
+<http://schema.org/trustfund/TF0B8604_Circular_Economy_Actions_for____________Non_Point_Source_Pollution_Reduction_at_th> <http://schema.org/countryOfOrigin> <http://schema.org/Argentina> .
+<http://schema.org/Annual_Report> <http://www.w3.org/2000/01/rdf-schema#label> "Annual Report"@en .
+<http://schema.org/author/ELAINY_CRISTINA_PINHEIRO_VIEIRA> <http://www.w3.org/2000/01/rdf-schema#label> "ELAINY CRISTINA PINHEIRO VIEIRA"@en .
+<http://schema.org/doc/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN__P105680__Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Procurement_Plan> <http://schema.org/authoredBy> <http://schema.org/author/Lucas_Figueras> .
+<http://schema.org/doc/The_Global_Aquabusiness
+____________Investment_Guide_:_A_Living_Framework_to_Guide_Sustainable
+____________Development_in_the_World's_Fastest_Growing_Food_Sector
+______________Summer_2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Report> .
+<http://schema.org/project/LA_Lao_Airlines_Sustainable_Development____P181359> <http://www.w3.org/2000/01/rdf-schema#label> "LA_Lao_Airlines_Sustainable_Development____P181359"@en .
+<http://schema.org/author/Lafaete_Almeida_de_Oliveira> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/Mongolia> <http://schema.org/wd_URI> <http://www.wikidata.org/entity/Q711> .
+<http://schema.org/abstract/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN__P105680__Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Procurement_Plan> <http://schema.org/isPartOf> <http://schema.org/abstract/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN__P105680__Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Procurement_Plan> .
+<http://schema.org/Program_Document> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/authoredBy> <http://www.w3.org/2000/01/rdf-schema#label> "This document was authored by this author." .
+<http://schema.org/abstract/Lao_People’s_Democratic_Republic
+______________Lao_Airlines_Sustainable_Development_Project_:
+____________Implementation_Support_Mission___July_8_12,_2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/abstract> .
+<http://schema.org/project/HN_First_Fiscal_And_Climate_Transparency_And
+____________Sustainability_Develo____P179909> <http://www.w3.org/2000/01/rdf-schema#label> "HN_First_Fiscal_And_Climate_Transparency_And\n____________Sustainability_Develo____P179909"@en .
+<http://schema.org/doc/Lao_People’s_Democratic_Republic
+______________Lao_Airlines_Sustainable_Development_Project> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C3665_Lao_Aviation_Sustainable_Development> .
+<http://schema.org/Brazil> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/country> .
+<http://schema.org/doc/Lao_People's_Democratic
+____________Republic___EAST_ASIA_AND_PACIFIC__P181359__Lao_Airlines
+____________Sustainable_Development_Project___Procurement_Plan> <http://schema.org/isPartOf> <http://schema.org/trustfund/TF0C2756_Lao_Airlines_Implementation_Support> .
+<http://schema.org/project/TR_Land_Management_Infrastructure_For_Green
+____________And_Sustainable_Develo____P179217> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/doc/Concept_Environmental_and_Social
+____________Review_Summary_(ESRS)___Haryana_Clean_Air_and_Sustainable
+____________Development_Program___P502491> <http://schema.org/isPartOf> <http://schema.org/project/IN_Haryana_Clean_Air_And_Sustainable
+____________Development_Program_P502491> .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Matanza_Riachuelo_Basin_Sustainable_Development_Project__
+____________P105680___Sequence_No_:_33> <http://schema.org/authoredBy> <http://schema.org/author/Ramirez,Maria_Catalina> .
+<http://schema.org/author/Borrowing_Agency> <http://schema.org/authored> <http://schema.org/doc/Stakeholder_Engagement_Plan_(SEP)
+____________Lao_Airlines_Sustainable_Development_(P181359)> .
+<http://schema.org/Annual_Report> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/doc/Appraisal_Program_Information
+____________Document_(PID)___Rio_de_Janeiro_Fiscal_Management_and
+____________Sustainable_Development_Policy_Loan___P179182> <http://schema.org/isPartOf> <http://schema.org/project/BR_Rio_De_Janeiro_Fiscal_Management_And
+____________Sustainable_Development_Po____P179182> .
+<http://schema.org/abstract/Stakeholder_Engagement_Plan_(SEP)
+______________Haryana_Clean_Air_and_Sustainable_Development_Program___P502491> <http://www.w3.org/2000/01/rdf-schema#label> "nan" .
+<http://schema.org/project/DO_Sustainable_Development_Dpl____P500557> <http://www.w3.org/2000/01/rdf-schema#label> "DO_Sustainable_Development_Dpl____P500557"@en .
+<http://schema.org/doc/Argentina___LATIN_AMERICA_AND
+____________CARIBBEAN___P105680___Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project___Audited_Financial_Statement> <http://schema.org/countryOfOrigin> <http://schema.org/Argentina> .
+<http://schema.org/Kiribati> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/Program_Information_Document> <http://www.w3.org/2000/01/rdf-schema#label> "Program Information Document"@en .
+<http://schema.org/doc/Stakeholder_Engagement_Plan_(SEP)
+____________Lao_Airlines_Sustainable_Development_(P181359)> <http://schema.org/isPartOf> <http://schema.org/project/LA_Lao_Airlines_Sustainable_Development____P181359> .
+<http://schema.org/doc/Stakeholder_Engagement_Plan_(SEP)
+______________Haryana_Clean_Air_and_Sustainable_Development_Program___P502491> <http://www.w3.org/2000/01/rdf-schema#label> "Stakeholder Engagement Plan (SEP)\n            - Haryana Clean Air and Sustainable Development Program - P502491"@en .
+<http://schema.org/author/Borrowing_Agency> <http://schema.org/authored> <http://schema.org/doc/Stakeholder_Engagement_Plan_(SEP)
+______________Haryana_Clean_Air_and_Sustainable_Development_Program___P502491> .
+<http://schema.org/abstract/Concept_Environmental_and_Social
+____________Review_Summary_(ESRS)___Haryana_Clean_Air_and_Sustainable
+____________Development_Program___P502491> <http://www.w3.org/2000/01/rdf-schema#label> "nan" .
+<http://schema.org/doc/Disclosable_Version_of_the_ISR__
+____________Land_management_infrastructure_for_green_and_sustainable
+____________development___P179217___Sequence_No_:_01> <http://www.w3.org/2000/01/rdf-schema#label> "Disclosable Version of the ISR -\n            Land management infrastructure for green and sustainable\n            development - P179217 - Sequence No : 01"@en .

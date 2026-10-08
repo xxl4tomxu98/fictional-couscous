@@ -1,0 +1,1670 @@
+@prefix ns1: <http://schema.org/located_in/> .
+@prefix ns2: <http://schema.org/Treccani'> .
+@prefix ns3: <http://schema.org/ITU/ISO/> .
+@prefix ns4: <http://schema.org/topic'> .
+@prefix ns5: <http://schema.org/Analysis_&> .
+@prefix ns6: <http://schema.org/Harper'> .
+@prefix ns7: <http://schema.org/Who'> .
+@prefix ns8: <http://schema.org/Google_Arts_&> .
+@prefix ns9: <http://schema.org/Database_of_Canada'> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema1: <http://schema.org/> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+
+schema1:Aide_Memoire a rdfs:Class ;
+    rdfs:label "Aide Memoire"@en ;
+    rdfs:subClassOf schema1:world_bank_document .
+
+schema1:Annual_Report a rdfs:Class ;
+    rdfs:label "Annual Report"@en ;
+    schema1:wd_URI wd:Q54935566 ;
+    rdfs:subClassOf schema1:world_bank_document .
+
+schema1:Argentina a rdfs:Class ;
+    rdfs:label "Argentina"@en ;
+    schema1:ASC_Leiden_Thesaurus_ID "294899065",
+        "http://www.wikidata.org/entity/statement/Q414-EDB9F079-9856-44CE-AB4D-FE7245A57A17" ;
+    schema1:Academy_Awards_Database_nominee_ID "1103",
+        "http://www.wikidata.org/entity/statement/Q414-3F9B4E69-6A04-4847-9E34-FA514E31DB7E" ;
+    schema1:AllTrails_trail_ID "argentina",
+        "http://www.wikidata.org/entity/statement/Q414-195d182d-40a7-be74-922c-c10672f9937e" ;
+    ns5:_Policy_Observatory_term_ID "19395",
+        "http://www.wikidata.org/entity/statement/Q414-C0A45BC8-AF51-4FAD-8416-08A51E431EC2" ;
+    schema1:AniDB_tag_ID "1832",
+        "http://www.wikidata.org/entity/statement/Q414-84D8D940-19CC-442B-A823-0DC773AB3CC9" ;
+    schema1:Arab_Encyclopedia_concept_ID "162755",
+        "http://www.wikidata.org/entity/statement/Q414-1960e515-4f22-7cde-3a8c-610e83707538" ;
+    schema1:Archive_of_Our_Own_tag "Argentina",
+        "http://www.wikidata.org/entity/statement/Q414-78d52261-4692-a021-4c93-001a49ba43d7" ;
+    schema1:Armeniapedia_ID "3939",
+        "http://www.wikidata.org/entity/statement/Q414-9e0cc4f3-46d1-396e-ae94-ffe21a4ed45d" ;
+    schema1:Atlante_Geopolitico_ID "argentina",
+        "argentina_res-0f26b779-fe80-11e1-b986-d5ce3506d72e",
+        "argentina_res-23f6a8b1-a825-11e2-9d1b-00271042e8d9",
+        "argentina_res-b31c0994-fa0f-11e4-9760-00271042e8d9",
+        "argentina_res-ecb56aa3-7f1d-11e6-9672-00271042e8d9",
+        "http://www.wikidata.org/entity/statement/Q414-28fd8eca-4a87-6118-f4be-ff3acad60b1b",
+        "http://www.wikidata.org/entity/statement/Q414-42595f5d-47e2-0686-7be1-48fd9c2a7222",
+        "http://www.wikidata.org/entity/statement/Q414-accf9171-47b8-e4db-1e8b-ae6dcb49e737",
+        "http://www.wikidata.org/entity/statement/Q414-cba7fc73-4b19-c704-7abc-0f38423a6e6b",
+        "http://www.wikidata.org/entity/statement/Q414-f24e35c3-4b8d-e6c7-22e7-1ae5adf0f589" ;
+    schema1:BBC_News_topic_ID "c77jz3mdm3rt",
+        "http://www.wikidata.org/entity/statement/Q414-0a2e283e-4c6d-31fd-e44f-6bf01965251c" ;
+    schema1:BBC_Things_ID "f0e68d01-22ae-42a7-9e05-d299a29d4ce5",
+        "http://www.bbc.co.uk/things/f0e68d01-22ae-42a7-9e05-d299a29d4ce5#id",
+        "http://www.wikidata.org/entity/statement/Q414-f23dfc8b-4f1d-431d-a101-c0a72e85e7bb" ;
+    schema1:BHCL_UUID "12ee579a-e3c7-4020-ae8e-33ab7fa18f7a",
+        "b947e636-5a22-4b98-876f-5a66617f326e",
+        "http://www.wikidata.org/entity/statement/Q414-87C62B97-41AF-4A8B-AB67-D8738349860E",
+        "http://www.wikidata.org/entity/statement/Q414-BDDA9C5E-E82B-4968-B6E3-3CB847665FA0" ;
+    schema1:BNMM_authority_ID "000001692",
+        "http://www.wikidata.org/entity/statement/Q414-aefd4e5d-4c66-a4f7-4da3-f0f6a1ca22ca" ;
+    schema1:BTI_Governance_Index "4.78",
+        "5.01",
+        "5.28",
+        "5.46",
+        "5.52",
+        "5.56",
+        "5.91",
+        "6",
+        "6.1",
+        "http://www.wikidata.org/entity/statement/Q414-1F4E8CE7-FE28-4ADE-A9FC-988DAEFB0866",
+        "http://www.wikidata.org/entity/statement/Q414-3423EC4D-FEA0-4C54-86ED-1E1E40F290ED",
+        "http://www.wikidata.org/entity/statement/Q414-5490A7E7-52E8-463D-B727-156E73ED3EAB",
+        "http://www.wikidata.org/entity/statement/Q414-681C5F14-5199-47FD-A6D7-257B3A42477C",
+        "http://www.wikidata.org/entity/statement/Q414-693FD244-DBFB-496C-BD9D-A3F80EE47B72",
+        "http://www.wikidata.org/entity/statement/Q414-8CED2E4A-27D9-46D0-8AB1-B60952957834",
+        "http://www.wikidata.org/entity/statement/Q414-8E952A3C-7AA9-4B18-BD4B-46B0C8553094",
+        "http://www.wikidata.org/entity/statement/Q414-B32DBA81-2D2E-4270-87E3-B02F908B5922",
+        "http://www.wikidata.org/entity/statement/Q414-D269A213-E13C-41C2-9CDF-164DF2023AA8" ;
+    schema1:BTI_Status_Index "6.65",
+        "6.73",
+        "6.76",
+        "6.95",
+        "7.21",
+        "7.25",
+        "7.27",
+        "7.29",
+        "7.34",
+        "http://www.wikidata.org/entity/statement/Q414-1DB0DA81-6997-46DB-8E28-FE473E07C5E4",
+        "http://www.wikidata.org/entity/statement/Q414-23AEAE29-0443-42E3-BE83-00824C05B1BC",
+        "http://www.wikidata.org/entity/statement/Q414-25E09A87-C9FE-4956-8761-623706AEB336",
+        "http://www.wikidata.org/entity/statement/Q414-4F0575B7-4FBD-4B66-9627-167946953E9D",
+        "http://www.wikidata.org/entity/statement/Q414-854356AF-349B-4886-A7D4-C4C1649CC195",
+        "http://www.wikidata.org/entity/statement/Q414-8CCAEAA6-D1A7-406F-AB6B-3F3AF9940D41",
+        "http://www.wikidata.org/entity/statement/Q414-C2E294F1-32D2-4430-84E5-F2D276F96143",
+        "http://www.wikidata.org/entity/statement/Q414-D2A9CDAC-84CF-4A43-8B03-44B52EBDE2B7",
+        "http://www.wikidata.org/entity/statement/Q414-FC1D3FBA-99DE-428F-96F5-E7E7BD74422E" ;
+    schema1:BabelNet_ID "00005569n",
+        "http://babelnet.org/rdf/s00005569n",
+        "http://www.wikidata.org/entity/statement/Q414-309015DB-F704-4B51-8915-8055F6B4E3B2" ;
+    schema1:Bibliothèque_nationale_de_France_ID "11862283g",
+        "http://data.bnf.fr/ark:/12148/cb11862283g#about",
+        "http://www.wikidata.org/entity/statement/Q414-70B28504-F804-4F6D-9B3D-A4F6A2DF59FA" ;
+    schema1:Biblissima_authority_ID "Q26947",
+        "http://www.wikidata.org/entity/statement/Q414-F78855DC-DCA5-45A8-90DF-F95F751FCC0D",
+        "https://data.biblissima.fr/entity/Q26947" ;
+    schema1:British_Museum_place_ID "http://www.wikidata.org/entity/statement/Q414-330d411c-4fe9-1166-8735-6bf3b9320c59",
+        "x26953" ;
+    schema1:Brockhaus_Enzyklopädie_online_ID "argentinien",
+        "http://www.wikidata.org/entity/statement/Q414-858dad56-4d6b-fa9c-1545-03343312956f" ;
+    schema1:CIVICUS_Monitor_country_entry "argentina",
+        "http://www.wikidata.org/entity/statement/Q414-D11BFFDA-1A34-482A-8AB0-6191303E9AC2" ;
+    schema1:CNA_topic_ID "argentina",
+        "http://www.wikidata.org/entity/statement/Q414-CE2CB01A-2A52-4629-BEA3-94D345659D41" ;
+    schema1:Canadiana_Name_Authority_ID "http://www.wikidata.org/entity/statement/q414-282dcd31-4511-5c46-d155-f2cdd1330586",
+        "ncf10000509" ;
+    schema1:Catholic_Encyclopedia_ID "01702d",
+        "http://www.wikidata.org/entity/statement/Q414-A8D59CBF-9EEC-4325-831F-1142981B89F5" ;
+    schema1:CiNii_Research_ID "1140845216522867328",
+        "http://www.wikidata.org/entity/statement/Q414-2B9266E7-6D9D-40FB-B9A0-316EFAE41EFE",
+        "https://cir.nii.ac.jp/crid/1140845216522867328.rdf" ;
+    schema1:Colon_Classification "SG--7913",
+        "http://www.wikidata.org/entity/statement/Q414-6FE759A0-1C35-4BD4-B877-4794BD53F964" ;
+    schema1:Comic_Vine_ID "4020-55944",
+        "http://www.wikidata.org/entity/statement/Q414-FB383823-5B88-49BC-B6B6-04A48C21D16C" ;
+    schema1:Commons_category "Argentina",
+        "http://www.wikidata.org/entity/statement/q414-BED3D164-B8B8-4FEE-8008-3A4A0E9E8134" ;
+    schema1:Commons_gallery "Argentina",
+        "http://www.wikidata.org/entity/statement/Q414-A6F566BE-283C-41D7-B556-54D835B3D0B5" ;
+    schema1:Curlie_ID "Regional/South_America/Argentina/",
+        "http://www.wikidata.org/entity/statement/Q414-2de0a440-4090-6096-355b-8f6984a94b05" ;
+    schema1:DBNL_country_ID "argen01",
+        "http://www.wikidata.org/entity/statement/Q414-B1C0D494-6E11-4769-BF41-323EE5662077" ;
+    schema1:DR_topic_ID "argentina",
+        "http://www.wikidata.org/entity/statement/Q414-786DA9EA-B4EC-4862-9690-D4191C41D972" ;
+    schema1:Dagens_Nyheter_topic_ID "argentina",
+        "http://www.wikidata.org/entity/statement/Q414-F7FE6EB4-8403-4A84-B53A-81F7A2D4122D" ;
+    schema1:Data_Commons_ID "country/ARG",
+        "http://www.wikidata.org/entity/statement/Q414-2e1051d2-4dbf-decc-564b-ef11ee85af9c" ;
+    schema1:De_Agostini_ID "Argentina+(Stato)",
+        "http://www.wikidata.org/entity/statement/Q414-1a5fe36b-4adb-5f9e-413d-8f75dc7db4f8" ;
+    schema1:Deaf_Movie_Database_country_ID "argentina",
+        "http://www.wikidata.org/entity/statement/Q414-1718473B-5B1C-46B7-82DD-595CB674CACA" ;
+    schema1:Democracy_Index "6.81",
+        "http://www.wikidata.org/entity/statement/Q414-083D40BF-2E05-4AB3-82B2-280F37BE66CD",
+        "http://www.wikidata.org/entity/statement/Q414-199dad8f-4d59-7845-db81-df829ba39932",
+        "http://www.wikidata.org/entity/statement/Q414-33C37764-77BE-48BE-BDFD-4DA6CBA95D59",
+        "http://www.wikidata.org/entity/statement/Q414-40B50903-5363-4689-B2AF-DE797E9A3CD8",
+        "http://www.wikidata.org/entity/statement/Q414-6029A94B-0E47-42F9-950F-1189B8E1C9E5",
+        "http://www.wikidata.org/entity/statement/Q414-6DE662AA-2A26-47BC-B93D-6CAB69E5343D",
+        "http://www.wikidata.org/entity/statement/Q414-7B83C323-EFA4-4C5C-922B-71FEE465E390",
+        "http://www.wikidata.org/entity/statement/Q414-DEABF2A1-3F58-4170-9D55-6D9B97824699",
+        "http://www.wikidata.org/entity/statement/Q414-DEEFB464-C4E9-4A2C-9384-76C60A9CD533",
+        "http://www.wikidata.org/entity/statement/Q414-DFCA4F3D-F48A-4119-B9E0-439A737E07F3",
+        "http://www.wikidata.org/entity/statement/Q414-E77EFBE2-09C0-45D3-80FB-50D94F93A508",
+        "http://www.wikidata.org/entity/statement/Q414-EB810AE8-1616-442C-B2A1-11CEA79B6851",
+        "http://www.wikidata.org/entity/statement/Q414-F8A2D45F-43D7-46B4-B3DC-E7160DFDB6ED",
+        "http://www.wikidata.org/entity/statement/Q414-FABA47CF-6B6D-43E7-BE52-16EB72F32AF3" ;
+    schema1:Der_Spiegel_topic_ID "argentinien",
+        "http://www.wikidata.org/entity/statement/Q414-e90eada1-4096-adab-c29c-806dc483d35c" ;
+    schema1:Dewey_Decimal_Classification "2--82",
+        "http://www.wikidata.org/entity/statement/Q414-6d3e03d5-437a-d9a1-ec9c-5d6f466c48af" ;
+    schema1:EU_Knowledge_Graph_item_ID "Q379",
+        "http://www.wikidata.org/entity/statement/Q414-B4D72D18-22F7-49CB-ADDD-5A8707130456",
+        "https://linkedopendata.eu/entity/Q379" ;
+    schema1:El_Moudjahid_topic_ID "argentine",
+        "http://www.wikidata.org/entity/statement/Q414-c89c82ae-40c6-eef0-969d-d92053fe1408" ;
+    schema1:Enciclopedia_Galega_Universal_ID "79157",
+        "http://www.wikidata.org/entity/statement/Q414-b467451d-4c93-f070-1c3f-7670b8753fa0" ;
+    schema1:Enciclopedia_dei_ragazzi_ID "argentina",
+        "http://www.wikidata.org/entity/statement/Q414-fd71da4d-44c6-9f6b-e358-d3ba7c293b23" ;
+    schema1:Encyclopedia_of_China_\(Second_Edition\)_ID "190355",
+        "http://www.wikidata.org/entity/statement/Q414-03788C2B-4739-400E-B915-CB1C2989485C" ;
+    schema1:Encyclopedia_of_China_\(Third_Edition\)_ID_\(2026\) "hONIr",
+        "http://www.wikidata.org/entity/statement/Q414-F4094F40-0C84-4EA2-BBB2-35ADEDA06811" ;
+    schema1:Encyclopedia_of_China_\(Third_Edition\)_old_ID_\(2021\) "551853",
+        "http://www.wikidata.org/entity/statement/Q414-b1e90497-4d91-36e5-b481-718aa2af75b0" ;
+    schema1:Encyclopedia_of_Korean_Culture_ID "E0034271",
+        "http://www.wikidata.org/entity/statement/Q414-565eeddf-4fc3-b33a-aaaf-663ae41b30f2" ;
+    schema1:Encyclopedia_of_Modern_Ukraine_ID "43186",
+        "http://www.wikidata.org/entity/statement/Q414-605E2FB4-9872-4501-A0FB-67D65F53A16D" ;
+    schema1:Encyclopedia_of_Science_Fiction_ID "argentina",
+        "http://www.wikidata.org/entity/statement/Q414-E7BEB0DE-F1E4-4A55-9649-51D38DF26472" ;
+    schema1:Encyclopedia_of_the_History_of_Ukraine_ID "Arhentyna",
+        "http://www.wikidata.org/entity/statement/Q414-612b50ea-4e03-194e-3e92-6a398ca3ccec" ;
+    schema1:Encyclopædia_Britannica_Online_ID "http://www.wikidata.org/entity/statement/Q414-90AA16BF-A972-4DAE-B0F2-FAE468A61A2D",
+        "place/Argentina" ;
+    schema1:Encyclopædia_Universalis_ID "argentine",
+        "http://www.wikidata.org/entity/statement/Q414-BF4636C2-D05A-46E1-8E79-80D33662EB14" ;
+    schema1:EuroVoc_ID "2525",
+        "http://eurovoc.europa.eu/2525",
+        "http://www.wikidata.org/entity/statement/Q414-3502ABDD-0555-4615-B8DA-C7B7146CFDB1" ;
+    schema1:Euronews_topic_ID "argentina",
+        "http://www.wikidata.org/entity/statement/Q414-B2D054B2-E2EE-4BE7-B25C-B211087F12F2" ;
+    schema1:FAST_ID "1205614",
+        "http://id.worldcat.org/fast/1205614",
+        "http://www.wikidata.org/entity/statement/Q414-c1884bf6-4d5f-fd9c-11fa-446ea6fb7013" ;
+    schema1:FIPS_10-4_\(countries_and_regions\) "AR",
+        "http://www.wikidata.org/entity/statement/Q414-A6A661B1-D112-4CF6-A855-714C4F53AB78" ;
+    schema1:FactGrid_item_ID "Q389234",
+        "http://www.wikidata.org/entity/statement/Q414-4B65D13D-D57C-410C-BEB5-FD18B227A7C0",
+        "https://database.factgrid.de/entity/Q389234" ;
+    schema1:Fandom_article_ID "countries:Argentina",
+        "cyberpunk:Argentina",
+        "gta:Argentina",
+        "http://www.wikidata.org/entity/statement/Q414-409D7BD7-B12A-47CB-8419-8FCBE85D4CF3",
+        "http://www.wikidata.org/entity/statement/Q414-552d9234-4aab-6aa3-eeb0-f1dbff19212e",
+        "http://www.wikidata.org/entity/statement/Q414-7210D7BD-B5E8-48A8-8F51-2704FB5D3F6F",
+        "http://www.wikidata.org/entity/statement/Q414-FAC7F620-C7FE-452A-93FE-8D0741101E7D",
+        "pt.gta:Argentina" ;
+    schema1:Featherbase_ID "country/AR",
+        "http://www.wikidata.org/entity/statement/Q414-baab75f8-48b1-fc15-8620-53933c57428b" ;
+    schema1:France_24_topic_ID_\(French\) "argentine",
+        "http://www.wikidata.org/entity/statement/Q414-345D226A-EB3B-45A3-994F-2626F3851811" ;
+    schema1:Freebase_ID "/m/0jgd",
+        "http://www.wikidata.org/entity/statement/Q414-A5943089-1906-4529-914A-F5C516232D32" ;
+    schema1:GACS_ID "205",
+        "http://www.wikidata.org/entity/statement/Q414-5CA36C17-6AD8-4B88-A7D8-AF10B1D2F701" ;
+    schema1:GADM_ID "ARG",
+        "http://www.wikidata.org/entity/statement/Q414-96290A12-8C41-48C4-B1CB-1AA9F2E63B5D" ;
+    schema1:GCMD_keyword_ID "838923bc-cda7-4cf5-a21a-0c777304a593",
+        "http://www.wikidata.org/entity/statement/Q414-6E26D5AF-56FB-4153-84B6-1C67FF42B391",
+        "https://gcmd.earthdata.nasa.gov/kms/concept/838923bc-cda7-4cf5-a21a-0c777304a593" ;
+    schema1:GENC_3-character_code "ARG",
+        "http://www.wikidata.org/entity/statement/Q414-32247AC2-10C9-436F-A96E-328DA9859197" ;
+    schema1:GND_ID "4002890-2",
+        "http://www.wikidata.org/entity/statement/q414-365A1F93-2927-4338-9037-50C2AB0DF4D0",
+        "https://d-nb.info/gnd/4002890-2" ;
+    schema1:GS1_country_code "778-779",
+        "http://www.wikidata.org/entity/statement/Q414-c9b49e9b-4fe1-1bc7-156c-64fb94bfe02e" ;
+    schema1:GeoNLP_ID_\(obsolete\) "E88Q2m",
+        "http://www.wikidata.org/entity/statement/Q414-C90868CD-F0AC-4F74-AC86-9925A4A14D0C" ;
+    schema1:GeoNames_ID "3865483",
+        "http://www.wikidata.org/entity/statement/Q414-D6EA8369-DB07-4C2F-8C05-A7290F1C0C8D",
+        "https://sws.geonames.org/3865483/" ;
+    schema1:Getty_Thesaurus_of_Geographic_Names_ID "7006477",
+        "http://vocab.getty.edu/tgn/7006477",
+        "http://www.wikidata.org/entity/statement/Q414-0686E9F4-407A-4AA3-B0F5-BDB5E333FA39" ;
+    schema1:Giant_Bomb_ID_\(former_scheme\) "3035-2867",
+        "http://www.wikidata.org/entity/statement/Q414-C017B1C4-68F5-4DDB-8879-C0FD3ECBB5A8" ;
+    schema1:Giant_Bomb_Wiki_ID "Locations/Argentina",
+        "http://www.wikidata.org/entity/statement/Q414-9BE2B8FE-AF28-4DF2-8360-041989690E12" ;
+    schema1:Gini_coefficient "423",
+        "http://www.wikidata.org/entity/statement/Q414-ac3791b9-4b00-e54d-cfaa-f723d08d0fee" ;
+    schema1:GitHub_topic "argentina",
+        "http://www.wikidata.org/entity/statement/Q414-A351A611-368E-4704-B6A3-9190CDE2A9A8" ;
+    schema1:Global_Anabaptist_Mennonite_Encyclopedia_Online_ID "Argentina",
+        "http://www.wikidata.org/entity/statement/Q414-FFE2C64B-B1ED-44E8-8430-6CF0E1476ACD" ;
+    schema1:Golden_ID_\(archived\) "Argentina-PRVA5V",
+        "http://www.wikidata.org/entity/statement/Q414-ce9dc1f7-47b0-cff2-d585-d4d4c495dae5" ;
+    ns8:_Culture_entity_ID "http://www.wikidata.org/entity/statement/Q414-e6f0aa26-497d-bd5f-57e3-8e4282193292",
+        "m0jgd" ;
+    schema1:Google_News_topics_ID "CAAqIAgKIhpDQkFTRFFvSEwyMHZNR3BuWkJJQ1pXNG9BQVAB",
+        "http://www.wikidata.org/entity/statement/Q414-ad0139a7-4e36-c68d-174e-69e8b4c40fc6" ;
+    schema1:Gran_Enciclopèdia_Catalana_ID "argentina-1",
+        "http://www.wikidata.org/entity/statement/Q414-cfaee5ba-594e-4656-82a9-ef58aace167d" ;
+    schema1:Gran_Enciclopèdia_Catalana_ID_\(former_scheme\) "0005048",
+        "http://www.wikidata.org/entity/statement/Q414-B7D15F19-7071-4891-B7D2-AB06AA60D333" ;
+    schema1:Great_Norwegian_Encyclopedia_ID "Argentina",
+        "http://www.wikidata.org/entity/statement/Q414-3852e7e6-405b-4ac0-991a-60ee96b70e1d" ;
+    schema1:Great_Russian_Encyclopedia_Online_ID_\(2017\) "3252173",
+        "http://www.wikidata.org/entity/statement/Q414-E3738A89-6199-44E8-B4B1-1873DB2954BB",
+        "http://www.wikidata.org/entity/statement/Q414-c55db6b9-4f3a-41c6-7e60-035328768ce6" ;
+    schema1:Great_Ukrainian_Encyclopedia_Online_ID "http://www.wikidata.org/entity/statement/Q414-b1c1933c-4e70-b137-dca8-88beb6a4e085",
+        "Аргентина" ;
+    schema1:Grove_Art_Online_ID "T003988",
+        "http://dx.doi.org/10.1093/gao/9781884446054.article.T003988",
+        "http://www.wikidata.org/entity/statement/Q414-1447DF8D-985B-4DD0-9542-857B64B4765D" ;
+    schema1:Gujarati_Vishwakosh_entry "http://www.wikidata.org/entity/statement/Q414-9422c49e-48f9-53e2-9c48-3f5b5a82ab3a",
+        "આર્જેન્ટીના" ;
+    schema1:Gyldendals_Teaterleksikon_ID "Argentina",
+        "http://www.wikidata.org/entity/statement/Q414-C4048BED-8739-4BA8-9F32-D4F9547A5F7E" ;
+    schema1:Gynopedia_ID "Argentina",
+        "http://www.wikidata.org/entity/statement/Q414-492AEDA2-AD42-486A-911F-8B51A951A13C" ;
+    schema1:HBL_topic_ID "Argentina",
+        "http://www.wikidata.org/entity/statement/Q414-b0a5b080-4dd6-9e51-0562-df95a3811406" ;
+    schema1:HDS_ID "003391",
+        "http://www.wikidata.org/entity/statement/Q414-377015EB-E95F-4E69-A374-E35EE15CF2C2" ;
+    schema1:Happy_Planet_Index_score "50",
+        "http://www.wikidata.org/entity/statement/Q414-9316C33B-896E-4BC4-AEF8-F0272C0394DD" ;
+    ns6:s_tag "argentina",
+        "http://www.wikidata.org/entity/statement/Q414-90909696-D73F-4EDB-9B2F-A17528E343A4" ;
+    schema1:Historical_Gazetteer_\(GOV\)_ID "http://www.wikidata.org/entity/statement/Q414-2ABFDB5E-B93D-49E6-9954-72DF283DAD08",
+        "object_290337" ;
+    schema1:Hrvatska_enciklopedija_ID "3683",
+        "http://www.wikidata.org/entity/statement/Q414-0A2BD2BD-F9A4-472D-8E28-4B6F6271C41A" ;
+    schema1:Human_Development_Index "0.842",
+        "http://www.wikidata.org/entity/statement/Q414-13907463-A57E-485B-BCD9-D03B8EDD6F81",
+        "http://www.wikidata.org/entity/statement/Q414-1418A9DB-9482-42F0-BE41-A0DA8EE2A0F0",
+        "http://www.wikidata.org/entity/statement/Q414-181E4337-178D-4C4E-97F8-F60FB93C89CB",
+        "http://www.wikidata.org/entity/statement/Q414-2D033F6A-4BC9-49CA-A879-CACF447BF070",
+        "http://www.wikidata.org/entity/statement/Q414-39DAE4B9-1F42-46F6-9FD6-B31361477375",
+        "http://www.wikidata.org/entity/statement/Q414-4057FD43-29B4-466C-A2F2-88F679D0897C",
+        "http://www.wikidata.org/entity/statement/Q414-50479B2B-1FBD-4D1E-A63A-2EEC6B697CF7",
+        "http://www.wikidata.org/entity/statement/Q414-5653069F-8784-4008-B6BB-2FFF0814A0CB",
+        "http://www.wikidata.org/entity/statement/Q414-5AA2E5E2-33EB-4916-9201-CEF3E3740477",
+        "http://www.wikidata.org/entity/statement/Q414-6B627AF5-AAEF-4EB2-AD7A-B99DBC24F179",
+        "http://www.wikidata.org/entity/statement/Q414-70F703E8-C80A-4244-A5AC-77C47917CFF3",
+        "http://www.wikidata.org/entity/statement/Q414-7317E024-2DE1-4C4B-B369-0EC3554E8EEF",
+        "http://www.wikidata.org/entity/statement/Q414-73374896-BD37-4CDC-9CBA-8197E4E0C734",
+        "http://www.wikidata.org/entity/statement/Q414-74E087D0-8DFD-4F4A-A3C7-2DC080CA795C",
+        "http://www.wikidata.org/entity/statement/Q414-77B50DA5-0752-4A52-ABE0-88F02238ECDD",
+        "http://www.wikidata.org/entity/statement/Q414-78A0C8EE-22AE-4E4B-BED9-9C501BDAB5B4",
+        "http://www.wikidata.org/entity/statement/Q414-7B3D3DB6-760E-4B69-B16E-F7AA7551DB43",
+        "http://www.wikidata.org/entity/statement/Q414-83A5F333-8694-4E49-A89F-8BE9656BC12E",
+        "http://www.wikidata.org/entity/statement/Q414-887FCAC4-1F2E-4E65-A866-F26EB91B4B64",
+        "http://www.wikidata.org/entity/statement/Q414-8AFEF40C-C263-400A-89C7-92B2A631FF83",
+        "http://www.wikidata.org/entity/statement/Q414-A670C5BD-C21D-4EF8-AB65-BE86064BE7B3",
+        "http://www.wikidata.org/entity/statement/Q414-A9F7B882-81EA-4177-9CE5-6A2F8DFF54A1",
+        "http://www.wikidata.org/entity/statement/Q414-B0C584B8-2CD8-450E-BDCF-44F40BE6924F",
+        "http://www.wikidata.org/entity/statement/Q414-B1BFCAEE-E577-4455-B90D-52BDCE1EB40A",
+        "http://www.wikidata.org/entity/statement/Q414-B378C848-AAD2-4998-B4AF-4ACDDB635842",
+        "http://www.wikidata.org/entity/statement/Q414-B37F26F5-54EB-4B6F-AEA5-3AC15423F84F",
+        "http://www.wikidata.org/entity/statement/Q414-B5C8C7AB-186E-4F09-AB5A-6B104CCB1660",
+        "http://www.wikidata.org/entity/statement/Q414-B9606853-BD50-458D-8601-02C4DF51A41D",
+        "http://www.wikidata.org/entity/statement/Q414-B9ABC585-1CD0-4474-8F57-18F136119526",
+        "http://www.wikidata.org/entity/statement/Q414-C0991BFB-8DEA-4A9D-8F76-58564FEEB37A",
+        "http://www.wikidata.org/entity/statement/Q414-CA8FAB27-7B77-4663-8D1F-86B056D72B54",
+        "http://www.wikidata.org/entity/statement/Q414-CCF2AF78-6EFD-4523-BE06-9D0215059155" ;
+    schema1:IAB_code "1239",
+        "http://www.wikidata.org/entity/statement/Q414-28C08C67-CF38-47FD-B77E-62E3D1EC2888" ;
+    schema1:ICPSR_Geographic_Names_Thesaurus_ID "30226",
+        "http://www.wikidata.org/entity/statement/Q414-04ECCB1C-1025-46CE-A5B0-E4A9163C1BB4",
+        "http://www.wikidata.org/entity/statement/Q414-519fd035-4249-6a1c-34cb-4c88749d6d74" ;
+    schema1:IMDb_keyword "argentina",
+        "http://www.wikidata.org/entity/statement/Q414-1BF6055D-2560-48D2-9A2E-708EEFE6DACA" ;
+    schema1:INSEE_countries_and_foreign_territories_code "99415",
+        "http://www.wikidata.org/entity/statement/Q414-EBF05BBB-E07E-4431-92DF-AC15C141490C" ;
+    schema1:IOC_country_code "ARG",
+        "http://www.wikidata.org/entity/statement/Q414-6b7fe9a9-4373-737d-f564-cfb67cdb2fc3" ;
+    schema1:ISNI "0000000123093391",
+        "http://www.wikidata.org/entity/statement/Q414-709a4fe4-4fb6-f131-c86c-491044ccd820" ;
+    schema1:ISO_3166-1_alpha-2_code "AR",
+        "http://www.wikidata.org/entity/statement/q414-886D0013-2A53-42BC-9DB2-D304A0C0D117" ;
+    schema1:ISO_3166-1_alpha-3_code "ARG",
+        "http://www.wikidata.org/entity/statement/q414-91805BB6-4ED7-49F1-AC80-B5848FEF5AFD" ;
+    schema1:ISO_3166-1_numeric_code "032",
+        "http://www.wikidata.org/entity/statement/q414-CE8B49AF-2226-4A0C-A41F-007DAF176DDB" ;
+    ns3:IEC_object_ID "2.16.32",
+        "http://www.wikidata.org/entity/statement/Q414-812829E7-485A-4E9D-9336-2981096DEDCC" ;
+    schema1:ITU_letter_code "ARG",
+        "http://www.wikidata.org/entity/statement/Q414-03DD9B3F-B574-4B99-BCBD-F11C2D1FBC5C" ;
+    schema1:IdRef_ID "026359537",
+        "027219909",
+        "http://www.idref.fr/026359537/id",
+        "http://www.idref.fr/027219909/id",
+        "http://www.wikidata.org/entity/statement/Q414-0631D98B-FBF2-450D-BF75-596D2D7666CB",
+        "http://www.wikidata.org/entity/statement/Q414-826246b0-4cb4-f929-a1fd-e2fea5e83447" ;
+    schema1:Inequality-adjusted_Human_Development_Index "0.72",
+        "http://www.wikidata.org/entity/statement/Q414-0CBCDC47-AADC-4E6B-91D3-EDC4080059A4",
+        "http://www.wikidata.org/entity/statement/Q414-1174F60E-86A2-48B9-B889-B7AF35435AD4",
+        "http://www.wikidata.org/entity/statement/Q414-11f60054-4a32-d033-8f21-7e84a7a49976",
+        "http://www.wikidata.org/entity/statement/Q414-12E4FBBC-4B5F-4907-98AF-35B2357B4488",
+        "http://www.wikidata.org/entity/statement/Q414-26F16A49-B50B-4767-90C8-ADF25FE238AC",
+        "http://www.wikidata.org/entity/statement/Q414-6292B114-B210-427D-8B64-AEC7C9C75748",
+        "http://www.wikidata.org/entity/statement/Q414-677CB29B-33BE-491C-BE75-28EEEB9B5E66",
+        "http://www.wikidata.org/entity/statement/Q414-6CD7F609-2CB4-4765-B67D-F156FB3829A3",
+        "http://www.wikidata.org/entity/statement/Q414-865EB33D-EC91-4C7E-B395-6085F1700AD7",
+        "http://www.wikidata.org/entity/statement/Q414-D49A98F2-E5DF-4B90-B9CA-3846F093837B",
+        "http://www.wikidata.org/entity/statement/Q414-E17937FC-C0B1-41B0-A7E8-E78F46CB9CF0",
+        "http://www.wikidata.org/entity/statement/Q414-E8E101AA-7DBC-4E99-8E2C-1E9BB10827C6" ;
+    schema1:Interlingual_Index_ID "http://globalwordnet.org/ili/i82686",
+        "http://www.wikidata.org/entity/statement/Q414-91F1C899-7294-49CB-8F7A-6EA43271037C",
+        "i82686" ;
+    schema1:Internet_Encyclopedia_of_Ukraine_ID "A\\R\\Argentina",
+        "http://www.wikidata.org/entity/statement/Q414-831A3CC9-0E0A-4070-8B06-5F1FEECA5B5E" ;
+    schema1:J9U_entity_ID "987007564348705171",
+        "http://www.wikidata.org/entity/statement/Q414-01F06A27-EBA0-4D22-9550-B30C418CD1E7" ;
+    schema1:Jewish_Encyclopedia_ID_\(Russian\) "10274",
+        "http://www.wikidata.org/entity/statement/Q414-63c4d3ca-47d3-5bb9-f8dc-1217305cbb8f" ;
+    schema1:Joconde_location_ID "T84-250",
+        "http://data.culture.fr/thesaurus/resource/ark:/67717/T84-250",
+        "http://www.wikidata.org/entity/statement/Q414-BF2E5612-033D-4E70-B3BE-CAF1E866775C" ;
+    schema1:KBpedia_ID "Argentina",
+        "http://kbpedia.org/kko/rc/Argentina",
+        "http://www.wikidata.org/entity/statement/Q414-3A70E6F5-0629-4A9E-A08C-77B2F60C4EDC" ;
+    schema1:Klexikon_article_ID "Argentinien",
+        "http://www.wikidata.org/entity/statement/Q414-AE7D7BAC-00B3-4D33-A8A4-31E2D4A18CB5" ;
+    schema1:Know_Your_Meme_slug "argentina",
+        "http://www.wikidata.org/entity/statement/Q414-b7dfbfdd-df2a-4514-a0a5-5d3208ffe666" ;
+    schema1:Krugosvet_article_\(archived\) "http://www.wikidata.org/entity/statement/Q414-860b03ab-4fbc-40f4-d21f-b624f2f68d62",
+        "strany_mira/ARGENTINA.html" ;
+    schema1:KulturNav-ID "ec39d043-8774-49ea-a4c5-296489cfefea",
+        "http://kulturnav.org/ec39d043-8774-49ea-a4c5-296489cfefea",
+        "http://www.wikidata.org/entity/statement/Q414-71C15CC8-D72C-4A75-891A-9827AE9D80B3" ;
+    schema1:Kulturenvanteri_taxonomy_ID "20088",
+        "http://www.wikidata.org/entity/statement/Q414-2A5C56B2-872E-491F-98E3-CA31F22F974A" ;
+    schema1:Kyiv_Independent_topic_ID "argentina",
+        "http://www.wikidata.org/entity/statement/Q414-D99632BA-CC63-4CC8-9E98-5346B33BDD7E" ;
+    schema1:LC_and_MARC_vocabularies_ID "countries/ag",
+        "geographicAreas/s-ag",
+        "http://id.loc.gov/vocabulary/countries/ag",
+        "http://id.loc.gov/vocabulary/geographicAreas/s-ag",
+        "http://www.wikidata.org/entity/statement/Q414-42467E36-AB69-40CF-BC02-25426B73AFB5",
+        "http://www.wikidata.org/entity/statement/Q414-B99BB072-3360-4F94-A8CC-8740B7FED8B9" ;
+    schema1:LEMAC_ID "LEMAC201201964",
+        "http://www.wikidata.org/entity/statement/Q414-65d5096f-4228-6d2a-1a0c-02660e39ed3f" ;
+    schema1:Larousse_ID "http://www.wikidata.org/entity/statement/Q414-f43b5373-4776-cb0c-02aa-c977ba5ef72b",
+        "pays/wd/106078" ;
+    schema1:Le_Figaro_tag_ID "Argentine",
+        "http://www.wikidata.org/entity/statement/Q414-b9137d91-4c2e-86ce-eed3-c71f5a871796" ;
+    schema1:Le_Monde_diplomatique_subject_ID "http://www.wikidata.org/entity/statement/Q414-E4F3577F-AA50-4E18-9F62-0CFBF06974E3",
+        "pays/argentine" ;
+    schema1:Lemmy_community_ID "argentina@lemmy.world",
+        "http://www.wikidata.org/entity/statement/Q414-1c85c631-4ac0-6696-74c8-bc6c4fc19773" ;
+    schema1:Lex_ID "Argentina",
+        "http://www.wikidata.org/entity/statement/Q414-48b0fade-47b0-06f0-efe8-ff8921af40e0" ;
+    schema1:Library_of_Congress_Authorities_ID "http://id.loc.gov/authorities/names/n79070134",
+        "http://www.wikidata.org/entity/statement/Q414-74C2BACF-D772-4540-A7B9-30C5A2106D79",
+        "n79070134" ;
+    schema1:Libération_topic_ID "argentine",
+        "http://www.wikidata.org/entity/statement/Q414-CBB041C1-6610-4997-B1F0-6C481B30DBD8" ;
+    schema1:Lille_norske_leksikon_ID "Argentina",
+        "http://www.wikidata.org/entity/statement/Q414-9C746A0E-1760-4C08-A4FC-1C1169BE030B" ;
+    schema1:M49_code "032",
+        "http://www.wikidata.org/entity/statement/Q414-42312119-4dab-e710-b1df-f678b3d718b4" ;
+    schema1:Mapy.com_ID "http://www.wikidata.org/entity/statement/Q414-8b468f48-4499-b853-94b4-0a8466928770",
+        "osm&id=32" ;
+    schema1:Marine_Regions_Geographic_ID "2149",
+        "http://marineregions.org/mrgid/2149",
+        "http://www.wikidata.org/entity/statement/Q414-e660e282-44ab-42f5-caad-794e0c548671" ;
+    schema1:MeSH_descriptor_ID "D001118",
+        "http://id.nlm.nih.gov/mesh/D001118",
+        "http://www.wikidata.org/entity/statement/Q414-2F2C52C4-0115-41FC-A91C-C6256EABCD4B" ;
+    schema1:MeSH_tree_code "Z01.107.757.077",
+        "http://id.nlm.nih.gov/mesh/Z01.107.757.077",
+        "http://www.wikidata.org/entity/statement/Q414-dfa008b7-4ffa-0cff-af56-5a5def658ce3" ;
+    schema1:Mindat_locality_ID "14398",
+        "http://www.wikidata.org/entity/statement/Q414-416bcb7f-4389-52d4-1504-2705f2deb5cc" ;
+    schema1:MusicBrainz_area_ID "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+        "http://musicbrainz.org/area/0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+        "http://www.wikidata.org/entity/statement/Q414-844CA82F-B7E7-4E2B-B0E9-216FDA2FA473" ;
+    schema1:Münzkabinett_ID "country/91",
+        "http://www.wikidata.org/entity/statement/Q414-F08AC19F-CD2E-4BC8-8E13-97AB1ACFD6AF" ;
+    schema1:NACSIS-CAT_author_ID "DA10147253",
+        "http://www.wikidata.org/entity/statement/Q414-F82B73A5-294D-4694-BBD5-28F9F89E9D3B",
+        "https://ci.nii.ac.jp/author/DA10147253#entity" ;
+    schema1:NALT_ID "12077",
+        "http://www.wikidata.org/entity/statement/Q414-95f84199-4d03-d806-3724-7ccfa2781c52",
+        "https://lod.nal.usda.gov/nalt/12077" ;
+    schema1:NDL_Authority_ID "00560367",
+        "http://id.ndl.go.jp/auth/ndlna/00560367",
+        "http://www.wikidata.org/entity/statement/Q414-399D68CA-6989-4D6E-8763-38EE4FD11289" ;
+    schema1:NE.se_ID "argentina",
+        "http://www.wikidata.org/entity/statement/Q414-362967E1-880E-4A91-A020-7E30D6657564" ;
+    schema1:NHK_ONE__News_topic_ID "E0000000421",
+        "http://www.wikidata.org/entity/statement/Q414-d03670b1-4d9c-5329-9522-4736d9b14684" ;
+    schema1:NL_CR_AUT_ID "ge128676",
+        "http://www.wikidata.org/entity/statement/Q414-AE8E2167-FEEA-4422-ABE2-730A6DC771BB" ;
+    schema1:NRK_topic_ID "1.12188075",
+        "1.461245",
+        "http://www.wikidata.org/entity/statement/Q414-533280d9-408a-bb30-403b-49f3ab12238e",
+        "http://www.wikidata.org/entity/statement/Q414-c301e4c2-409a-1704-5302-4a57de2e6d55" ;
+    schema1:Namuwiki_ID "http://www.wikidata.org/entity/statement/Q414-cbc62739-46bf-faf0-90d8-d2faf7ad96ad",
+        "아르헨티나" ;
+    schema1:National_Historical_Museums_of_Sweden_ID "geo/F6F5FBE4-CD4D-4641-9952-F16E665621AB",
+        "http://www.wikidata.org/entity/statement/Q414-FA820E23-C781-4FB3-A1EA-400599D37C45" ;
+    schema1:National_Library_of_Brazil_ID "000146320",
+        "http://www.wikidata.org/entity/statement/q414-5bd3ef4e-4a5f-dba3-f49d-24bdbae082df" ;
+    schema1:National_Library_of_Iceland_ID "000076684",
+        "http://www.wikidata.org/entity/statement/q414-a7529999-4908-b767-b880-e42bccf68037" ;
+    schema1:National_Library_of_Ireland_ID "http://www.wikidata.org/entity/statement/q414-8f87ea3d-463c-95c0-01ad-fd8784c561bd",
+        "vtls000063629" ;
+    schema1:National_Library_of_Israel_ID_\(old\) "000975864",
+        "http://www.wikidata.org/entity/statement/Q414-BED60FD4-F36D-44EE-8846-73F71E1E1852" ;
+    schema1:National_Library_of_Lithuania_ID "LNB:Yo6;=Bk",
+        "http://www.wikidata.org/entity/statement/q414-141b248d-4488-923b-5aaf-f5537b3bdfbf" ;
+    schema1:National_Library_of_Spain_SpMaBN_ID "XX451102",
+        "XX5308160",
+        "http://www.wikidata.org/entity/statement/Q414-8B37873F-7BD2-4F7B-BE11-7AE1CA9CF090",
+        "http://www.wikidata.org/entity/statement/Q414-EB6A2186-A471-434D-BAE5-A23BDBCDE30A",
+        "https://datos.bne.es/resource/XX451102",
+        "https://datos.bne.es/resource/XX5308160" ;
+    schema1:National_Library_of_Wales_Authority_ID "argentina",
+        "argentina-3",
+        "http://www.wikidata.org/entity/statement/Q414-0D612610-2948-49F1-A9AA-EFDB1AD68486",
+        "http://www.wikidata.org/entity/statement/Q414-9C83AC39-20EF-4CE5-8F24-17C87005FF16" ;
+    schema1:New_York_Post_topic_ID "argentina",
+        "http://www.wikidata.org/entity/statement/Q414-1D78C292-9893-48CD-B2EB-17870240F9D7" ;
+    schema1:New_York_Times_topic_ID "destination/argentina",
+        "http://www.wikidata.org/entity/statement/Q414-3C1C7B6F-0347-4E42-A611-5FEF4FB80766" ;
+    schema1:Newsweek_topic_ID "argentina",
+        "http://www.wikidata.org/entity/statement/Q414-75AAF0C7-3DA0-4BF6-A399-0352F4A8C5CC" ;
+    schema1:NicoNicoPedia_word_article_ID "http://www.wikidata.org/entity/statement/Q414-f7b565f6-406e-edf2-1e68-1042ac977827",
+        "アルゼンチン" ;
+    schema1:Numista_ruling_authority_ID "3983",
+        "http://www.wikidata.org/entity/statement/Q414-0F2FDB72-7C28-4FA9-BBE5-1290FFC69EFC" ;
+    schema1:OBO_Gazetteer_ID "00002928",
+        "http://purl.obolibrary.org/obo/GAZ_00002928",
+        "http://www.wikidata.org/entity/statement/Q414-7FA5C787-C23F-44A0-ADC3-FB71C19C7A77" ;
+    schema1:OHDSI_ID "4073750",
+        "http://www.wikidata.org/entity/statement/Q414-04CF8B72-85C2-4DD9-B71F-6C78AC639743" ;
+    schema1:OmegaWiki_Defined_Meaning "5774",
+        "http://www.wikidata.org/entity/statement/Q414-BB48CBAA-3055-4667-94E2-C651701E671E" ;
+    schema1:Online_Books_Page_author_ID "Argentina",
+        "http://www.wikidata.org/entity/statement/Q414-35C554CC-EEF5-41C2-83D5-CE146B3FD41E" ;
+    schema1:Online_PWN_Encyclopedia_ID "4168996",
+        "http://www.wikidata.org/entity/statement/Q414-31dd4850-4a8c-6484-ec05-cf7fc1bda02d" ;
+    schema1:OpenHistoricalMap_relation_ID "2848698",
+        "http://www.wikidata.org/entity/statement/Q414-74A6BC45-D694-4B3E-A987-D2A53B4F337C",
+        "https://www.openhistoricalmap.org/relation/2848698" ;
+    schema1:OpenStreetMap_node_ID "249399280",
+        "http://www.wikidata.org/entity/statement/Q414-4FC0172B-2A89-45C0-A513-20C416DCBE66" ;
+    schema1:OpenStreetMap_relation_ID "286393",
+        "http://www.wikidata.org/entity/statement/Q414-6924B7E5-0981-4080-9630-F97BF92BF404",
+        "https://www.openstreetmap.org/relation/286393" ;
+    schema1:Open_Library_subject_ID "http://www.wikidata.org/entity/statement/Q414-720b5759-4b92-6dd7-002f-690e98eeaf14",
+        "place:argentina" ;
+    schema1:Orthodox_Encyclopedia_ID "75856",
+        "http://www.wikidata.org/entity/statement/Q414-410cb8aa-44ec-ced0-acc4-a2f6eb4a58c8" ;
+    schema1:Our_Campaigns_container_ID "6378",
+        "http://www.wikidata.org/entity/statement/Q414-f5d0c4af-4520-84d4-652b-386fc334de42" ;
+    schema1:PM20_geo_code "E86",
+        "http://www.wikidata.org/entity/statement/Q414-AD9DCCF8-8C25-425E-8DBA-A6229B395D5E" ;
+    schema1:Personality_Database_profile_ID "50674",
+        "http://www.wikidata.org/entity/statement/Q414-ce181ea2-4a2a-85a9-9055-e5ab526e5b30" ;
+    schema1:Pixiv_Encyclopedia_ID "http://www.wikidata.org/entity/statement/Q414-01b8b28f-4340-97a1-e4cd-ddcbfe1a871e",
+        "アルゼンチン" ;
+    schema1:Pontificia_Università_della_Santa_Croce_ID "3042",
+        "http://catalogo.pusc.it/auth/3042",
+        "http://www.wikidata.org/entity/statement/Q414-B0F3CCC3-0697-4B0D-80B8-BA3480176F05" ;
+    schema1:Postimees_topic_ID "2672",
+        "http://www.wikidata.org/entity/statement/Q414-3e025b3f-4ffa-a8ac-ed51-73f657a19c1c" ;
+    schema1:Proleksis_enciklopedija_ID "9390",
+        "http://www.wikidata.org/entity/statement/Q414-90EFAC50-6D4C-4B5F-834C-D78A607D3036" ;
+    schema1:ProofWiki_ID "Mathematician:Mathematicians/Sorted_By_Nation/Argentina",
+        "http://www.wikidata.org/entity/statement/Q414-0704f9fd-4404-74af-3b25-301a6871469a" ;
+    schema1:Provenio_UUID "b5dd4126-a049-4804-b6e9-4c2dcaeabb7c",
+        "http://www.wikidata.org/entity/statement/Q414-FD79BE5B-4432-4603-B80D-A1F6CD0A8599" ;
+    schema1:Punjabipedia_ID "http://www.wikidata.org/entity/statement/Q414-c2eb3161-42b0-a027-9df1-010c8691c38a",
+        "ਅਰਜਨਟੀਨਾ" ;
+    schema1:Quora_topic_ID "Argentina",
+        "http://www.wikidata.org/entity/statement/Q414-B4F20436-B086-4365-9C0A-F748C4868A13" ;
+    schema1:RKD_thesaurus_ID "446",
+        "http://www.wikidata.org/entity/statement/Q414-98e3c032-9f05-47fd-947d-ebf28caee309",
+        "https://data.rkd.nl/thesau/446" ;
+    schema1:Reddit_topic_ID_\(obsolete\) "argentina",
+        "http://www.wikidata.org/entity/statement/Q414-572F95D6-3A84-420B-B9DF-A96A4E227539" ;
+    schema1:SNARC_ID "Q1285",
+        "http://www.wikidata.org/entity/statement/Q414-C2C7C1B9-ABFF-4620-9710-007658A419B6" ;
+    schema1:SPAP_ID "http://data.performing-arts.ch/p/8c407ca9-421f-466a-9213-c95e23b0d967",
+        "http://www.wikidata.org/entity/statement/Q414-42577F1D-A9BA-4E25-A3EA-46788650A57D",
+        "p/8c407ca9-421f-466a-9213-c95e23b0d967" ;
+    schema1:STW_Thesaurus_for_Economics_ID "17911-2",
+        "http://www.wikidata.org/entity/statement/Q414-9DA5BE53-191A-43DE-8E96-DBA40B683849",
+        "http://zbw.eu/stw/descriptor/17911-2" ;
+    schema1:SVKKL_authority_ID "g0004061-Argentina",
+        "http://www.wikidata.org/entity/statement/Q414-9ED090C0-90C9-4EE8-A6FD-2A4C7C6BA0C6" ;
+    schema1:Schoenberg_Database_of_Manuscripts_place_ID "4932",
+        "http://www.wikidata.org/entity/statement/Q414-4ED5DD13-1F36-4540-9075-E4824A9AB402" ;
+    schema1:Slovak_National_Library_\(VIAF\)_ID "http://www.wikidata.org/entity/statement/q414-a9edcf48-445d-813d-8fc4-e5560988289b",
+        "vtls001306995" ;
+    schema1:Spanish_Cultural_Heritage_thesauri_ID "geografico/1114832",
+        "http://tesauros.mecd.es/tesauros/geografico/1114832",
+        "http://www.wikidata.org/entity/statement/Q414-24ffa907-4af8-c566-2cef-cc332a327170" ;
+    schema1:Statoids_ID "http://www.wikidata.org/entity/statement/Q414-41C583E7-001C-4757-B037-0DDC379EF7D2",
+        "uar" ;
+    schema1:Swedish_Anbytarforum_ID "3216.0",
+        "http://www.wikidata.org/entity/statement/Q414-265f4741-4831-bbb4-04ec-c7e8623ca01b" ;
+    schema1:TASS_Encyclopedia_country_ID "http://www.wikidata.org/entity/statement/Q414-e514c59b-4fc3-7184-7e4d-a7bbd9a192f6",
+        "А/argentina" ;
+    schema1:TDV_Encyclopedia_of_Islam_ID "arjantin",
+        "http://www.wikidata.org/entity/statement/Q414-8202DE93-E9BC-4ECA-84F6-1C3F0612E3A2" ;
+    schema1:TasteAtlas_ID "argentina",
+        "http://www.wikidata.org/entity/statement/Q414-f7f17ef6-4bac-2ec0-c240-475273373365" ;
+    schema1:The_Guardian_topic_ID "http://www.wikidata.org/entity/statement/Q414-31f28f3d-42c2-eaf2-35a3-4a1743092de0",
+        "world/argentina" ;
+    schema1:The_New_Yorker_topic_ID "argentina",
+        "http://www.wikidata.org/entity/statement/Q414-F34E6C75-2A45-438D-8F53-280AE47B0D69" ;
+    schema1:The_Top_Tens_ID "120",
+        "http://www.wikidata.org/entity/statement/Q414-e9c34a82-420b-19cb-dfc4-e92274f4411b" ;
+    schema1:The_World_Factbook_country_ID_\(archived\) "argentina",
+        "http://www.wikidata.org/entity/statement/Q414-22c47541-4cab-fd49-bb0a-a079d3dd47dd" ;
+    schema1:Thesaurus_Linguae_Aegyptiae_ID "BK3Z2HN47JCWHCA3ITSLAN7MKI",
+        "http://www.wikidata.org/entity/statement/Q414-874f6232-4a06-8b3c-76f6-ce5059cdd071" ;
+    ns2:s_Dizionario_di_Storia_ID "argentina",
+        "http://www.wikidata.org/entity/statement/Q414-622D14FB-5D83-47D7-B298-D36A284E5761" ;
+    ns2:s_Enciclopedia_Dantesca_ID "argentina",
+        "http://www.wikidata.org/entity/statement/Q414-8986bc05-48e9-783a-270d-3a52dc42481d" ;
+    ns2:s_Enciclopedia_Italiana_ID "argentina",
+        "argentina_res-31223f9f-87e9-11dc-8e9d-0016357eee51",
+        "argentina_res-419c7581-87e7-11dc-8e9d-0016357eee51",
+        "argentina_res-43aeb5b5-dd64-11e6-add6-00271042e8d9",
+        "argentina_res-55318963-9bbd-11e2-9d1b-00271042e8d9",
+        "argentina_res-f40c5c73-9b91-11e2-9d1b-00271042e8d9",
+        "http://www.wikidata.org/entity/statement/Q414-0ee7c685-4abf-ef3f-7cec-c91f364f1779",
+        "http://www.wikidata.org/entity/statement/Q414-616b4924-4339-f1ea-3c88-c4078c9dc78f",
+        "http://www.wikidata.org/entity/statement/Q414-67f4e659-4a42-9d4b-e983-fcdf0fe5170f",
+        "http://www.wikidata.org/entity/statement/Q414-6dcb6285-47bd-b3be-59a8-9d2cb7707d24",
+        "http://www.wikidata.org/entity/statement/Q414-7269dc5e-4831-74ea-f1ea-c2bf72898e72",
+        "http://www.wikidata.org/entity/statement/Q414-8455254c-4208-87cd-d3c7-cd1d8c0ec513",
+        "http://www.wikidata.org/entity/statement/Q414-ab18c482-402a-7db2-fd46-c4872726fb73",
+        "http://www.wikidata.org/entity/statement/Q414-b371ddbc-4ebb-5a30-c10d-1c60d4559a3e",
+        "http://www.wikidata.org/entity/statement/Q414-e00557e6-4b51-ef8a-846b-e28be0ee8291",
+        "repubblica-argentina",
+        "repubblica-argentina_res-2df89b0d-87e5-11dc-8e9d-0016357eee51",
+        "repubblica-argentina_res-31a9f075-8b74-11dc-8e9d-0016357eee51" ;
+    ns2:s_Enciclopedia_del_Cinema_ID "argentina",
+        "http://www.wikidata.org/entity/statement/Q414-69699f17-4622-e8cf-91f9-b3971b90f170" ;
+    ns2:s_Lessico_del_XXI_Secolo_ID "argentina",
+        "http://www.wikidata.org/entity/statement/Q414-68c86b2d-47e4-dbba-f756-eca36a4b547a" ;
+    schema1:Treccani_ID "argentina",
+        "http://www.wikidata.org/entity/statement/Q414-e7711cf7-4f28-c75c-244f-47b9c84d8017" ;
+    schema1:U.S._National_Archives_Identifier "10045211",
+        "http://www.wikidata.org/entity/statement/Q414-A51605FB-8AD0-46D7-BA6E-E43BC253244C" ;
+    schema1:UK_Parliament_ID "8UmOvhcD",
+        "http://www.wikidata.org/entity/statement/Q414-FE895317-3A3C-4749-8F02-160B1F9C3308",
+        "https://id.parliament.uk/8UmOvhcD" ;
+    schema1:UK_Parliament_thesaurus_ID "8401",
+        "http://data.parliament.uk/terms/8401",
+        "http://www.wikidata.org/entity/statement/Q414-1119D017-0937-4F3A-8C6A-0CC181FB55F5" ;
+    schema1:UMLS_CUI "C0003761",
+        "http://www.wikidata.org/entity/statement/Q414-7668210D-03B0-4DC9-A028-128D5A742D52" ;
+    schema1:UNDP_country_code "ARG",
+        "http://www.wikidata.org/entity/statement/Q414-E4B72DFF-2A3B-40CA-9A4D-D44334C7CE82" ;
+    schema1:UNESCO_Thesaurus_ID "concept757",
+        "http://vocabularies.unesco.org/thesaurus/concept757",
+        "http://www.wikidata.org/entity/statement/Q414-031C9B45-E565-40A6-BD09-87F132E3CA13" ;
+    schema1:UN_Thesaurus_ID "1000377",
+        "http://metadata.un.org/thesaurus/1000377",
+        "http://www.wikidata.org/entity/statement/Q414-2F91DEF1-4502-4EE5-9D35-1BA92052E96F" ;
+    schema1:UVL_group_ID "argentina",
+        "http://www.wikidata.org/entity/statement/Q414-B1ECBFCC-DC43-4DBF-875E-C9992FF7C965" ;
+    schema1:Unicode_character "http://www.wikidata.org/entity/statement/Q414-cdc3d66b-4bcc-4c49-05e8-500d0556dbc3",
+        "🇦🇷" ;
+    schema1:Urban_Electric_Transit_country_ID "44",
+        "http://www.wikidata.org/entity/statement/Q414-922f1252-4fcb-2a40-04c8-2f00e1aac173" ;
+    schema1:VAT_rate "21",
+        "http://www.wikidata.org/entity/statement/Q414-47f0b531-42d5-29da-2469-3e8130445cb4" ;
+    schema1:VIAF_cluster_ID "146499420",
+        "http://viaf.org/viaf/146499420",
+        "http://www.wikidata.org/entity/statement/Q414-D9FF7417-D573-4BC2-B517-7B64051CC1EA" ;
+    schema1:Vatican_Library_VcBA_ID "497/11757",
+        "http://www.wikidata.org/entity/statement/q414-c5591a07-414a-9a7c-849e-bc266e2c0a2f" ;
+    schema1:Video_Game_History_Foundation_Library_subject_ID "375",
+        "http://www.wikidata.org/entity/statement/Q414-E87492CE-C0B6-4582-8CE7-34380C68BFFA" ;
+    schema1:Vikidia_article_ID "ca:Argentina",
+        "en:Argentina",
+        "es:Argentina",
+        "eu:Argentina",
+        "fr:Argentine",
+        "http://www.wikidata.org/entity/statement/Q414-27d21acf-419c-1b53-7f9d-301174e6bb21",
+        "http://www.wikidata.org/entity/statement/Q414-34ACF39A-2DB0-4394-B226-F70B4A34D1EC",
+        "http://www.wikidata.org/entity/statement/Q414-4DAF5E11-F922-449C-A999-2FF7E30095CC",
+        "http://www.wikidata.org/entity/statement/Q414-57358708-BBE4-4BAC-81D8-EB59828A551C",
+        "http://www.wikidata.org/entity/statement/Q414-79EE092F-36D2-47C6-B854-C74EB465B11F",
+        "http://www.wikidata.org/entity/statement/Q414-B441D073-C9FC-46F8-8F70-1FC18D608783",
+        "http://www.wikidata.org/entity/statement/Q414-F53018E2-6507-4ECA-8AD0-6E1F7AB82625",
+        "it:Argentina",
+        "ru:Аргентина" ;
+    schema1:WIPO_ST.3 "AR",
+        "http://www.wikidata.org/entity/statement/Q414-B37E8D83-05D9-4701-86A0-5FB33C6454C1" ;
+    ns7:s_on_First_ID "85632505",
+        "http://www.wikidata.org/entity/statement/Q414-E563F0D4-4781-411D-A67C-346537D462C1" ;
+    schema1:WikiKids_ID "Argentinië",
+        "http://www.wikidata.org/entity/statement/Q414-D850C6B4-AA72-49A5-84FD-F5F2E8D29AF6" ;
+    schema1:Wikimedia_outline schema1:outline_of_Argentina,
+        "http://www.wikidata.org/entity/statement/Q414-C3D2A2A0-2749-43A6-AF0D-A438D4DF1169" ;
+    schema1:Wikisimpsons_article_ID "48338",
+        "http://www.wikidata.org/entity/statement/Q414-75A8AF9B-8A3D-4184-8434-92F3A789A941" ;
+    schema1:Wolfram_Language_entity_code "Entity[\"Country\", \"Argentina\"]",
+        "http://www.wikidata.org/entity/statement/Q414-B6039B81-3229-4296-86B5-8E7524106E51" ;
+    schema1:WordNet_3.1_Synset_ID "08729807-n",
+        "http://wordnet-rdf.princeton.edu/rdf/id/08729807-n",
+        "http://www.wikidata.org/entity/statement/Q414-47C3D760-21BA-4E4F-9221-B0C395E3DEBC" ;
+    schema1:WorldCat_Entities_ID "E39PBJcrjkRFYtgPrCcwjFWYyd",
+        "http://www.wikidata.org/entity/statement/Q414-ddc6d850-4772-a084-7937-adffc273aa9b" ;
+    schema1:World_Encyclopedia_of_Puppetry_Arts_ID "argentina",
+        "http://www.wikidata.org/entity/statement/Q414-C75005D8-93A7-41A8-8C02-5388140D7A3D" ;
+    schema1:YSA_ID "Y108007",
+        "http://www.wikidata.org/entity/statement/Q414-7e5d54bb-4dee-aa67-c00b-b44cc0cf588e",
+        "http://www.yso.fi/onto/ysa/Y108007" ;
+    schema1:YSO_ID "108007",
+        "http://www.wikidata.org/entity/statement/Q414-72B6D2C4-2408-4D34-9876-F80216E23883",
+        "http://www.yso.fi/onto/yso/p108007" ;
+    schema1:Yale_LUX_ID "group/7f40c060-cbc8-4d3a-afe1-b9a4912766c9",
+        "http://www.wikidata.org/entity/statement/Q414-FC57AAA2-C44F-4DC5-8FA7-9AA5FECF0111" ;
+    schema1:Yle_topic_ID "18-207431",
+        "http://www.wikidata.org/entity/statement/Q414-22f755e3-498e-86cb-f0da-1535b140d125" ;
+    schema1:Zhihu_topic_ID "19653366",
+        "http://www.wikidata.org/entity/statement/Q414-974D7E6C-7309-40D8-9671-97A3CE18DABF" ;
+    schema1:age_of_majority "18",
+        "http://www.wikidata.org/entity/statement/Q414-A9162BC2-5FFE-4341-8C54-ADC002160FFD" ;
+    schema1:anthem schema1:Argentine_National_Anthem,
+        "http://www.wikidata.org/entity/statement/q414-549748C1-9FD3-469A-8AEF-99A79FA58B5E" ;
+    schema1:archINFORM_location_ID "2964",
+        "http://www.wikidata.org/entity/statement/Q414-049ABD9B-B6D8-462A-8783-1901C90BBA95" ;
+    schema1:area "2780400",
+        "http://www.wikidata.org/entity/statement/Q414-668dceec-48d9-46d1-bac4-ebb36c4b4b12" ;
+    schema1:award_received schema1:Lagun_Onari,
+        "http://www.wikidata.org/entity/statement/Q414-dc0d67b7-48ee-f3c4-0188-820af9e50911" ;
+    schema1:basic_form_of_government schema1:federal_republic,
+        "http://www.wikidata.org/entity/statement/q414-c7d2c538-43d0-7183-880c-6e5964ab76bf" ;
+    schema1:birth_rate "13.794",
+        "http://www.wikidata.org/entity/statement/Q414-54C92F76-6A6F-4E66-A7D8-D0F491FCF801",
+        "http://www.wikidata.org/entity/statement/Q414-5B11E7BB-7691-44DE-A0DE-37EE217F5916",
+        "http://www.wikidata.org/entity/statement/Q414-6FF78DA9-E975-4A90-A1A8-3C3BF4F9E47B",
+        "http://www.wikidata.org/entity/statement/Q414-D9A8B5E0-BEEB-4378-A4A8-BDFA89C980F2" ;
+    schema1:booru_tag "argentina",
+        "http://www.wikidata.org/entity/statement/Q414-ED96F12A-9F56-4383-A7BE-CECF6262F800" ;
+    schema1:capital schema1:Buenos_Aires,
+        "http://www.wikidata.org/entity/statement/q414-2CE9BB47-00C8-42FB-B226-ED8BF814C226" ;
+    schema1:category_for_films_shot_at_this_location <http://schema.org/Category:Films_shot_in_Argentina>,
+        "http://www.wikidata.org/entity/statement/Q414-E57F5E3A-5558-4CE4-8A5D-7909D2CB81C3" ;
+    schema1:category_for_maps_or_plans <http://schema.org/Category:Maps_of_Argentina>,
+        "http://www.wikidata.org/entity/statement/Q414-e813f3b1-7d9c-4a6b-8376-4d65ea92709c" ;
+    schema1:category_for_people_born_here <http://schema.org/Category:Births_in_Argentina>,
+        "http://www.wikidata.org/entity/statement/Q414-45794DFF-B7B5-4626-AEDE-7A4DC09CF76D" ;
+    schema1:category_for_people_buried_here <http://schema.org/Category:Burials_in_Argentina>,
+        "http://www.wikidata.org/entity/statement/Q414-F5D47F17-85BB-4499-8463-B9DDC7FA90DA" ;
+    schema1:category_for_people_who_died_here <http://schema.org/Category:Deaths_in_Argentina>,
+        "http://www.wikidata.org/entity/statement/Q414-2568779D-8833-4DA1-84D7-232FE7738359" ;
+    schema1:category_of_associated_people <http://schema.org/Category:Argentine_people>,
+        "http://www.wikidata.org/entity/statement/Q414-A4FE93EA-C9B3-42F2-9FDE-C165A5EC6B69" ;
+    schema1:central_bank schema1:Central_Bank_of_Argentina,
+        "http://www.wikidata.org/entity/statement/Q414-7bc5c744-48bb-4763-4de0-adf2c05fb9b5" ;
+    schema1:coat_of_arms schema1:Coat_of_arms_of_Argentina,
+        "http://www.wikidata.org/entity/statement/Q414-B8088D0C-4B17-4F8D-B901-B95C331930C0" ;
+    schema1:coat_of_arms_image "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Argentina.svg",
+        "http://www.wikidata.org/entity/statement/q414-2EBCE638-9BD9-40D0-A318-B07FF7199584" ;
+    schema1:compulsory_education_\(maximum_age\) "17",
+        "http://www.wikidata.org/entity/statement/Q414-0C8F8CB8-68EA-4A97-9D71-CC96B220EE94" ;
+    schema1:compulsory_education_\(minimum_age\) "4",
+        "http://www.wikidata.org/entity/statement/Q414-3C5827CB-7564-49D6-8560-D1AA80ADE21C" ;
+    schema1:contains_the_administrative_territorial_entity schema1:Buenos_Aires_Province,
+        schema1:Catamarca_Province,
+        schema1:Chaco_Province,
+        schema1:Chubut_Province,
+        schema1:Corrientes_Province,
+        schema1:Córdoba_Province,
+        schema1:Entre_Ríos_Province,
+        schema1:Formosa_Province,
+        schema1:Jujuy_Province,
+        schema1:La_Pampa_Province,
+        schema1:La_Rioja_Province,
+        schema1:Mendoza_Province,
+        schema1:Misiones_Province,
+        schema1:Neuquén_Province,
+        schema1:Río_Negro_Province,
+        schema1:Salta_Province,
+        schema1:San_Juan_Province,
+        schema1:San_Luis_Province,
+        schema1:Santa_Cruz_Province,
+        schema1:Santa_Fe_Province,
+        schema1:Santiago_del_Estero_Province,
+        <http://schema.org/Tierra_del_Fuego,_Antarctica_and_South_Atlantic_Islands_Province>,
+        schema1:Tucumán_Province,
+        "http://www.wikidata.org/entity/statement/Q414-b3639174-43e8-9d26-90cc-1dde729a4866",
+        "http://www.wikidata.org/entity/statement/q414-0e36fede-442f-533d-63d2-e53d7d8afe48",
+        "http://www.wikidata.org/entity/statement/q414-0e553d92-4e2f-fe55-54e7-1eb5f5295e17",
+        "http://www.wikidata.org/entity/statement/q414-1a3a510d-42fe-b286-e354-0fd2c0179974",
+        "http://www.wikidata.org/entity/statement/q414-2bde9d2f-4f32-9094-a320-b1bd1f39fd4a",
+        "http://www.wikidata.org/entity/statement/q414-2c5276fe-44c9-c987-0b6c-af52ecb35a39",
+        "http://www.wikidata.org/entity/statement/q414-2d76096c-4cb5-033f-bbd2-73ba51c997ed",
+        "http://www.wikidata.org/entity/statement/q414-34c8ec6e-4c40-7590-ae6c-dd1563d3d639",
+        "http://www.wikidata.org/entity/statement/q414-3dd58179-469d-ef48-6edc-7c0031e83807",
+        "http://www.wikidata.org/entity/statement/q414-40a9f9b1-4493-e554-8314-c61cf212ecff",
+        "http://www.wikidata.org/entity/statement/q414-48e4fc49-45c4-fa51-9570-7c517e2e1e38",
+        "http://www.wikidata.org/entity/statement/q414-64710b36-4396-21c8-1c5b-5d5c7216cbe4",
+        "http://www.wikidata.org/entity/statement/q414-76a746b9-4aac-8abe-e630-900bea795ec1",
+        "http://www.wikidata.org/entity/statement/q414-9ad7e22e-4626-c0d9-f4fc-b8b6ec6121c0",
+        "http://www.wikidata.org/entity/statement/q414-9d911407-42c7-b056-ad30-785302320cf8",
+        "http://www.wikidata.org/entity/statement/q414-9fa95b00-4368-c03c-341e-ca61a06175ea",
+        "http://www.wikidata.org/entity/statement/q414-ad1b0777-4f7c-0d75-3393-b863ea4994d7",
+        "http://www.wikidata.org/entity/statement/q414-c9843997-4053-59b2-eb24-07bc5541a3ab",
+        "http://www.wikidata.org/entity/statement/q414-d31ace5e-4fcf-1308-bd35-0bd67b01731a",
+        "http://www.wikidata.org/entity/statement/q414-de3ae649-4db8-aff6-5fa1-f436f50d1515",
+        "http://www.wikidata.org/entity/statement/q414-e7ee9b6f-4aa0-e105-e9e7-a3dd530de872",
+        "http://www.wikidata.org/entity/statement/q414-f53e9c9c-4f7c-6fb4-0eff-94165beaf0fe",
+        "http://www.wikidata.org/entity/statement/q414-fba589c7-4036-031a-5ac9-27ee4187f203" ;
+    schema1:continent schema1:South_America,
+        "http://www.wikidata.org/entity/statement/q414-91618057-70B5-476E-894C-179120E771F2" ;
+    schema1:coordinate_location "Point(-64.0 -34.0)",
+        "http://www.wikidata.org/entity/statement/q414-26BCD5FE-73F1-4524-9901-5706DD69D547" ;
+    schema1:coordinates_of_easternmost_point "Point(-53.63749757 -26.24965082)",
+        "http://www.wikidata.org/entity/statement/Q414-28272ddf-412d-6b45-410b-ac097b8b91ef" ;
+    schema1:coordinates_of_geographic_center "Point(-64.0 -34.0)",
+        "http://www.wikidata.org/entity/statement/Q414-7997039e-4a44-46fc-8a98-f2b8c225e711" ;
+    schema1:coordinates_of_northernmost_point "Point(-66.22 -21.8)",
+        "http://www.wikidata.org/entity/statement/Q414-9F85E154-7D55-4637-90FC-0B47588BE09F" ;
+    schema1:coordinates_of_southernmost_point "Point(-66.44649049 -55.05727809)",
+        "http://www.wikidata.org/entity/statement/Q414-eb9ff9a0-4967-f414-24c5-02e19b5642db" ;
+    schema1:coordinates_of_westernmost_point "Point(-73.56030107 -49.94475793)",
+        "http://www.wikidata.org/entity/statement/Q414-2479980f-47c8-bed3-fda4-da7e68f3ac9d" ;
+    schema1:country schema1:Argentina,
+        "http://www.wikidata.org/entity/statement/Q414-C5841F18-154C-4E7F-BD06-589BE51BB38B" ;
+    schema1:culture schema1:culture_of_Argentina,
+        "http://www.wikidata.org/entity/statement/Q414-556E6451-8A34-4020-A1D6-F4EABAC0CFF2" ;
+    schema1:currency schema1:Argentine_convertible_peso,
+        "http://www.wikidata.org/entity/statement/Q414-0f05ed2e-4223-4f62-ac5e-73c420e4c839",
+        "http://www.wikidata.org/entity/statement/Q414-3e7b758b-4f92-9cd5-6568-0470468b955c",
+        "http://www.wikidata.org/entity/statement/Q414-b1dfc6a6-4c36-dbca-798e-ad93d0fc7983",
+        "http://www.wikidata.org/entity/statement/Q414-d9e2e65e-4476-3010-4614-c40bb70def0e",
+        "http://www.wikidata.org/entity/statement/q414-21AD4DF2-1C9C-4CDD-93EE-6621DAF29E75" ;
+    schema1:death_rate "8.589",
+        "http://www.wikidata.org/entity/statement/Q414-2C11C6DA-CD2E-47E8-A0BD-BEC7AD2B0AF0",
+        "http://www.wikidata.org/entity/statement/Q414-9022FB8F-7F6E-49BF-BABF-6E9E24BA6079",
+        "http://www.wikidata.org/entity/statement/Q414-DBB5ABF0-137B-46DB-AF2F-FB849E88DC78",
+        "http://www.wikidata.org/entity/statement/Q414-F863B2CB-A303-431E-9B9F-F151FD80BD3B" ;
+    schema1:demographics_of_topic schema1:demographics_of_Argentina,
+        "http://www.wikidata.org/entity/statement/Q414-E3791FDD-95FC-4E67-8714-CEE7A602EAE7" ;
+    schema1:demonym "Airgintíneach",
+        "Argentin",
+        "Argentine",
+        "Argentinec",
+        "Argentinian",
+        "Argentinier",
+        "Argentinierin",
+        "Argentinka",
+        "Arjentiniano",
+        "Largäntänan",
+        "argentin",
+        "argentina",
+        "argentinano",
+        "argentine",
+        "argentiner",
+        "argentini",
+        "argentinian",
+        "argentiniancă",
+        "argentinieni",
+        "argentino",
+        "argentí",
+        "arjentina",
+        "arxentina",
+        "arxentín",
+        "arzentin",
+        "arzentina",
+        "arzentine",
+        "arzentini",
+        "http://www.wikidata.org/entity/statement/Q414-007441a8-458c-5768-06e2-33220d05a204",
+        "http://www.wikidata.org/entity/statement/Q414-0379d0c5-454a-46b3-ea0f-0f78304dc458",
+        "http://www.wikidata.org/entity/statement/Q414-053229E1-29E2-4DFE-BEAC-14DA19F68A15",
+        "http://www.wikidata.org/entity/statement/Q414-0A63521C-FDC9-4EB1-B4F1-50628A389067",
+        "http://www.wikidata.org/entity/statement/Q414-0FB3F853-ACB0-4ADD-A57B-7499E57899DA",
+        "http://www.wikidata.org/entity/statement/Q414-0e5e1781-4da7-13ec-b4cd-8878872a7f7c",
+        "http://www.wikidata.org/entity/statement/Q414-1195466C-FC44-4AC4-ABED-26DEEAF38DAD",
+        "http://www.wikidata.org/entity/statement/Q414-14DCA33E-C782-4785-B517-B1CFEC4BBDBD",
+        "http://www.wikidata.org/entity/statement/Q414-14F24E92-B45A-43DA-9A2C-12B3D79FA4BC",
+        "http://www.wikidata.org/entity/statement/Q414-1619F27A-E0E3-4C50-AD2D-86B30B107CC0",
+        "http://www.wikidata.org/entity/statement/Q414-1eed096a-45fa-a836-7af2-a2414341c940",
+        "http://www.wikidata.org/entity/statement/Q414-1fecc6b5-4867-4902-5d41-70fccd7c5f7c",
+        "http://www.wikidata.org/entity/statement/Q414-339FFCF8-00C8-46A9-B433-41458E65E1DD",
+        "http://www.wikidata.org/entity/statement/Q414-364073ad-4157-e487-d932-e0654e123090",
+        "http://www.wikidata.org/entity/statement/Q414-3CB06F52-F89B-4E4D-A25B-73FF6F224615",
+        "http://www.wikidata.org/entity/statement/Q414-4100dfdf-4068-f578-5946-e5603e1cbffe",
+        "http://www.wikidata.org/entity/statement/Q414-494a90f0-43ba-f54f-5cba-c6f13a0e1988",
+        "http://www.wikidata.org/entity/statement/Q414-4AE5EC3A-DE34-4475-A12E-77B0D18308AA",
+        "http://www.wikidata.org/entity/statement/Q414-4F6D1BF7-97FE-4A6C-981C-0AE802AE5B81",
+        "http://www.wikidata.org/entity/statement/Q414-4f58814b-4296-e79d-4fdd-9bb5abf1a035",
+        "http://www.wikidata.org/entity/statement/Q414-4fb5fc0e-4cf4-a2ec-7974-5839e2186629",
+        "http://www.wikidata.org/entity/statement/Q414-52b6aece-4bad-84b0-3644-284f2fcff917",
+        "http://www.wikidata.org/entity/statement/Q414-5FF64876-8292-4C95-9BBE-C097EC94DD4D",
+        "http://www.wikidata.org/entity/statement/Q414-5ae0ceae-4971-468d-cc0c-f7ea1778b57e",
+        "http://www.wikidata.org/entity/statement/Q414-6291DE9D-F40A-446E-ADF1-1C6E0B28C43F",
+        "http://www.wikidata.org/entity/statement/Q414-6361FA55-3948-43EA-8787-DAC3C9A8543C",
+        "http://www.wikidata.org/entity/statement/Q414-707DAD4E-59AD-4293-9DE9-AE617B5FED36",
+        "http://www.wikidata.org/entity/statement/Q414-70acfc37-430e-9d1e-8b59-c93ac427666e",
+        "http://www.wikidata.org/entity/statement/Q414-71C3968D-870C-4AA8-B6BD-8D04A3F89302",
+        "http://www.wikidata.org/entity/statement/Q414-76de0557-44b2-3bf8-0188-e6b347a1f9fa",
+        "http://www.wikidata.org/entity/statement/Q414-770b5b12-47c2-216e-f827-7d871dc9a28e",
+        "http://www.wikidata.org/entity/statement/Q414-7C3E1F59-230B-4092-AD1F-5566C3E592CE",
+        "http://www.wikidata.org/entity/statement/Q414-8418BFFF-1515-4E2B-A829-6AA9CD60419C",
+        "http://www.wikidata.org/entity/statement/Q414-8818A586-6AD0-4E09-9E92-B4DA2B73336C",
+        "http://www.wikidata.org/entity/statement/Q414-8f528696-40d7-0b4b-f452-f8c8b86380bf",
+        "http://www.wikidata.org/entity/statement/Q414-9D19A259-B8DE-4BAD-BE25-52DBE21F0AE3",
+        "http://www.wikidata.org/entity/statement/Q414-A702BEE5-704D-429A-A8D4-781215AA4964",
+        "http://www.wikidata.org/entity/statement/Q414-AE8CAB0F-3443-403C-8094-60897477D523",
+        "http://www.wikidata.org/entity/statement/Q414-C1044BE2-BAAC-43EC-A4E7-8D26B7D0C13F",
+        "http://www.wikidata.org/entity/statement/Q414-C906B1C9-E16A-4172-8289-139788BED74B",
+        "http://www.wikidata.org/entity/statement/Q414-CD3A781F-D1B9-44B7-9641-0B4EE6B17A6C",
+        "http://www.wikidata.org/entity/statement/Q414-D531AC3E-6598-4F65-83C8-3EF7F1C47605",
+        "http://www.wikidata.org/entity/statement/Q414-E4663E62-BE54-448F-9EE5-570E43A15FBF",
+        "http://www.wikidata.org/entity/statement/Q414-E5C94078-BA3E-4B0C-B547-DA6850DA07D5",
+        "http://www.wikidata.org/entity/statement/Q414-a3fecea2-03f7-4d92-a4fe-0d6fd3cd148b",
+        "http://www.wikidata.org/entity/statement/Q414-abe0be93-4c1a-4751-57db-3385059c6d55",
+        "http://www.wikidata.org/entity/statement/Q414-b07cb401-4896-b04e-57e4-e985a877c885",
+        "http://www.wikidata.org/entity/statement/Q414-b25773a6-4466-b6c9-93bb-cea384aecf9d",
+        "http://www.wikidata.org/entity/statement/Q414-cdd91e29-48de-ef46-8b49-65fc78867a86",
+        "http://www.wikidata.org/entity/statement/Q414-d544cff4-4b2e-eaa5-dd67-b673444eb66d",
+        "http://www.wikidata.org/entity/statement/Q414-d69bd437-47de-23da-f988-b300a8b0f4a5",
+        "http://www.wikidata.org/entity/statement/Q414-da9e5f10-449e-2a23-ca32-2545b12fe1f4",
+        "http://www.wikidata.org/entity/statement/Q414-f001b8d6-4074-4f55-1ada-bc4abc63cf9b",
+        "Αργεντινή",
+        "Αργεντινός",
+        "аргентинец",
+        "аргентинець",
+        "аргентинка",
+        "аргентинцы",
+        "аргентинці",
+        "արգենտինացի",
+        "ארגנטינאי",
+        "ארגנטינאית",
+        "أرجنتيني",
+        "أرجنتينية",
+        "أرجنتينيون",
+        "أرجونتيني",
+        "أرجونتينيات",
+        "أرجونتينية",
+        "أرجونتينيين",
+        "আর্জেন্টিনীয়" ;
+    schema1:described_by_source <http://schema.org/Armenian_Soviet_Encyclopedia,_vol._1>,
+        schema1:Brockhaus_and_Efron_Encyclopedic_Dictionary,
+        schema1:Encyclopædia_Britannica_11th_edition,
+        schema1:Granat_Encyclopedic_Dictionary,
+        <http://schema.org/Great_Soviet_Encyclopedia_(1926–1947)>,
+        schema1:Jewish_Encyclopedia_of_Brockhaus_and_Efron,
+        <http://schema.org/Meyer’s_Universum,_Zwölfter_Band>,
+        schema1:Orthodox_Theological_Encyclopedia,
+        schema1:Pax_Leksikon,
+        schema1:Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,
+        schema1:Sytin_Military_Encyclopedia,
+        <http://schema.org/The_New_Student's_Reference_Work>,
+        schema1:The_Nuttall_Encyclopædia,
+        "http://www.wikidata.org/entity/statement/Q414-09e9bb18-48f6-4fb1-a42a-d51a1901ccd0",
+        "http://www.wikidata.org/entity/statement/Q414-0f307f99-40e0-60df-c2f9-2721240ee87c",
+        "http://www.wikidata.org/entity/statement/Q414-310f6d9a-4a80-9edb-b4ed-df6813d8d78e",
+        "http://www.wikidata.org/entity/statement/Q414-32ff60cd-4235-0681-7490-53abcc11f749",
+        "http://www.wikidata.org/entity/statement/Q414-49DF9293-131A-48FD-9ED6-B1BD10B10FDD",
+        "http://www.wikidata.org/entity/statement/Q414-52bb8e6e-422b-8bfb-2358-f355a8375d5e",
+        "http://www.wikidata.org/entity/statement/Q414-5646975f-4123-5754-c5a2-99451f82c04e",
+        "http://www.wikidata.org/entity/statement/Q414-67eb3ef8-449c-16df-b308-8d8b94d0ab54",
+        "http://www.wikidata.org/entity/statement/Q414-718800a1-44f7-4db0-b65a-db46d8e1082f",
+        "http://www.wikidata.org/entity/statement/Q414-7a914a29-5795-4df9-8cff-472b29a8e2a8",
+        "http://www.wikidata.org/entity/statement/Q414-c2cd3e55-4d3f-4e43-ac31-ecd4eccca546",
+        "http://www.wikidata.org/entity/statement/Q414-faa1b467-b9cb-4a35-a42e-ede387729c66",
+        "http://www.wikidata.org/entity/statement/Q414-fc610710-11a0-4ffb-814b-2b0ec8a103e6" ;
+    schema1:different_from schema1:Argentyna,
+        "http://www.wikidata.org/entity/statement/Q414-123B19A4-7DE2-4E2A-B53C-EF7D00CA98F5" ;
+    schema1:diplomatic_relation schema1:Angola,
+        schema1:Australia,
+        schema1:Bangladesh,
+        schema1:Belarus,
+        schema1:Bolivia,
+        schema1:Brazil,
+        schema1:Canada,
+        schema1:Chile,
+        schema1:Croatia,
+        schema1:Egypt,
+        schema1:European_Union,
+        schema1:France,
+        schema1:Georgia,
+        schema1:Germany,
+        schema1:Greece,
+        schema1:Holy_See,
+        schema1:Hungary,
+        schema1:Indonesia,
+        schema1:Ireland,
+        schema1:Israel,
+        schema1:Italy,
+        schema1:Mexico,
+        schema1:Morocco,
+        schema1:North_Korea,
+        schema1:Pakistan,
+        schema1:Paraguay,
+        <http://schema.org/People's_Republic_of_China>,
+        schema1:Peru,
+        schema1:Philippines,
+        schema1:Portugal,
+        schema1:Qatar,
+        schema1:Russia,
+        schema1:Serbia,
+        schema1:South_Africa,
+        schema1:Spain,
+        schema1:Sweden,
+        schema1:Switzerland,
+        schema1:Taiwan,
+        schema1:Turkey,
+        schema1:Ukraine,
+        schema1:United_Kingdom,
+        schema1:United_States,
+        schema1:Uruguay,
+        "http://www.wikidata.org/entity/statement/Q414-003B2313-AE5D-4F70-9265-3C6FC16F2C06",
+        "http://www.wikidata.org/entity/statement/Q414-0F1F19A0-C9FB-4CA3-8D04-47BEEAFA4A1A",
+        "http://www.wikidata.org/entity/statement/Q414-1A91C672-EBB9-4A49-9772-1472A657A9F9",
+        "http://www.wikidata.org/entity/statement/Q414-22CE7176-3503-496F-837E-F65F9A1EEA65",
+        "http://www.wikidata.org/entity/statement/Q414-2FE4E809-1829-4EB2-82EA-7E75AEDB4D61",
+        "http://www.wikidata.org/entity/statement/Q414-31465B33-ECFC-4ABC-BFCD-B95F06686347",
+        "http://www.wikidata.org/entity/statement/Q414-32782e79-4084-2426-19cd-2db5125c4530",
+        "http://www.wikidata.org/entity/statement/Q414-365E07E4-4BC1-4498-898D-8EE4E2A3ABFC",
+        "http://www.wikidata.org/entity/statement/Q414-3A23D050-7F24-4D55-AB4F-11AB9434131F",
+        "http://www.wikidata.org/entity/statement/Q414-3D719478-4703-4A50-86ED-9623F0904C65",
+        "http://www.wikidata.org/entity/statement/Q414-458690EB-1EAA-4F9D-B63A-E55ED1248625",
+        "http://www.wikidata.org/entity/statement/Q414-47E42172-4856-47B8-9908-DFBA7C99AEE0",
+        "http://www.wikidata.org/entity/statement/Q414-4A7D683B-075F-496F-8E30-1990B6F69FDB",
+        "http://www.wikidata.org/entity/statement/Q414-4F404A09-CE0D-4B9F-9D58-03764C00B55D",
+        "http://www.wikidata.org/entity/statement/Q414-4bc8c254-4261-a77c-d9e9-fb06d4114774",
+        "http://www.wikidata.org/entity/statement/Q414-53CB851E-6B65-448D-99E2-6AF09FB73BA3",
+        "http://www.wikidata.org/entity/statement/Q414-56a14903-4a4a-442f-1fa9-3f7db1f4723e",
+        "http://www.wikidata.org/entity/statement/Q414-5BB3C7F1-B21B-4124-AFD4-BEFD653D659D",
+        "http://www.wikidata.org/entity/statement/Q414-6659E10E-12C2-4118-B379-DBCED6C1B81D",
+        "http://www.wikidata.org/entity/statement/Q414-66FD7194-99F2-4DAE-8499-A9024E1ACC99",
+        "http://www.wikidata.org/entity/statement/Q414-6ED91C6A-42D9-4DAE-B7DE-39EAEC86C6A1",
+        "http://www.wikidata.org/entity/statement/Q414-6ec034ab-481f-1079-4dbe-602c704bdcaf",
+        "http://www.wikidata.org/entity/statement/Q414-702ECD97-AAB6-4A61-9BC2-CFD53B1E1E05",
+        "http://www.wikidata.org/entity/statement/Q414-77359EEE-8C97-4FD2-947E-64C2DD9D1E6A",
+        "http://www.wikidata.org/entity/statement/Q414-77cf3f9e-47da-2369-a2cf-aa31d3a6b78f",
+        "http://www.wikidata.org/entity/statement/Q414-781112A7-A184-4FEA-A87F-D42CFD4A1CDD",
+        "http://www.wikidata.org/entity/statement/Q414-7AD1E4D6-2A7C-4C72-A43D-033F6054E1C8",
+        "http://www.wikidata.org/entity/statement/Q414-8373270D-0588-4E96-90CA-72772BE200D0",
+        "http://www.wikidata.org/entity/statement/Q414-883B9612-CAF8-41C8-B04E-EFA9E1A793C5",
+        "http://www.wikidata.org/entity/statement/Q414-96526345-1BB7-4858-B9B4-FA4BA5B5FCC9",
+        "http://www.wikidata.org/entity/statement/Q414-97CFFC64-0E60-4A85-95E8-A370C1905E95",
+        "http://www.wikidata.org/entity/statement/Q414-9AE1DB37-21D8-4347-96E2-7EB240D26576",
+        "http://www.wikidata.org/entity/statement/Q414-BA78E78F-4A14-4526-9926-63BE6D8B0029",
+        "http://www.wikidata.org/entity/statement/Q414-BA918B36-41BC-49A4-B30C-45DD096EB5F5",
+        "http://www.wikidata.org/entity/statement/Q414-BF110D94-D843-459D-A18E-E7ADF1D024BE",
+        "http://www.wikidata.org/entity/statement/Q414-C512BB9E-3997-428A-860A-14844380A289",
+        "http://www.wikidata.org/entity/statement/Q414-E7F41CC1-872B-4D4E-9E7F-AE1696184331",
+        "http://www.wikidata.org/entity/statement/Q414-E96C9051-1B2D-483C-AD89-217553F3B043",
+        "http://www.wikidata.org/entity/statement/Q414-F06F22B9-17C2-4888-BDB6-E328481AAA77",
+        "http://www.wikidata.org/entity/statement/Q414-FFBB395B-149C-4CA7-9548-F1602FF29005",
+        "http://www.wikidata.org/entity/statement/Q414-ad38c4e4-4f85-17dd-35b8-852f6bfba2ff",
+        "http://www.wikidata.org/entity/statement/Q414-b7d3e0f3-4f2e-1a26-f19e-31e54033ec75",
+        "http://www.wikidata.org/entity/statement/Q414-f502afb3-43de-9ac5-8b2b-9cc022d2c7da" ;
+    schema1:driving_side schema1:left,
+        schema1:right,
+        "http://www.wikidata.org/entity/statement/Q414-41D382E3-7708-45BB-810A-476950C62409",
+        "http://www.wikidata.org/entity/statement/Q414-ad0f0b31-4725-c781-93a7-a0513f189078" ;
+    schema1:economy_of_topic schema1:economy_of_Argentina,
+        "http://www.wikidata.org/entity/statement/Q414-9CDC01BB-AAD0-45C5-AB94-0CA6D3460578" ;
+    schema1:electrical_plug_type <http://schema.org/AS/NZS_3112>,
+        schema1:Europlug,
+        "http://www.wikidata.org/entity/statement/Q414-1517C135-1CA8-4C20-89B3-41E592F3D963",
+        "http://www.wikidata.org/entity/statement/Q414-EBB6710E-75AC-45DC-B839-127D58E4043E" ;
+    schema1:emergency_phone_number schema1:100,
+        schema1:101,
+        schema1:117,
+        schema1:911,
+        "http://www.wikidata.org/entity/statement/Q414-018A1F35-76CC-4C1A-80AA-CCE51A8029B0",
+        "http://www.wikidata.org/entity/statement/Q414-0FED23C1-BD85-446C-BBDB-D2BE31933723",
+        "http://www.wikidata.org/entity/statement/Q414-C2A597BA-C2AF-4E4B-9562-6F36A08FFEC0",
+        "http://www.wikidata.org/entity/statement/Q414-C6B77930-5CE7-4B16-90B4-47D84861A48D" ;
+    schema1:ethnic_group schema1:Afro-Argentines,
+        schema1:European_people,
+        schema1:indigenous_peoples_in_Argentina,
+        "http://www.wikidata.org/entity/statement/Q414-61a6791f-4a84-bac3-3ba6-a1f332b1f579",
+        "http://www.wikidata.org/entity/statement/Q414-cc33f6f9-4c23-a5dd-64e7-a89fb6c42dc7",
+        "http://www.wikidata.org/entity/statement/Q414-eaf3ae1d-48b1-4da2-2f2b-0f749cb66646" ;
+    schema1:executive_body schema1:Government_of_Argentina,
+        "http://www.wikidata.org/entity/statement/Q414-25c94776-4412-b443-5af7-54e98778d58a" ;
+    schema1:female_population "22689693",
+        "22911069",
+        "23130548",
+        "23345532",
+        "http://www.wikidata.org/entity/statement/Q414-2E11445E-C2BD-4907-AF35-6BF96331571A",
+        "http://www.wikidata.org/entity/statement/Q414-70731AFE-A2E2-4B40-A1C1-AD3A99BB3A30",
+        "http://www.wikidata.org/entity/statement/Q414-98EAAF3C-00B4-40F9-BF11-7F628219D518",
+        "http://www.wikidata.org/entity/statement/Q414-AB84E31B-5AA2-4A03-B07D-5BE929A5B6B1" ;
+    schema1:flag schema1:flag_of_Argentina,
+        "http://www.wikidata.org/entity/statement/q414-4A378C14-8D92-4851-BD30-59629753D6A7" ;
+    schema1:flag_image "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Argentina.svg",
+        "http://www.wikidata.org/entity/statement/Q414-b885e80b-41d5-25b6-665f-3709f8596047",
+        "http://www.wikidata.org/entity/statement/q414-35DFF04A-0F34-46EB-833F-0B0D4188E4CC" ;
+    schema1:geography_of_topic schema1:Geography_of_Argentina,
+        "http://www.wikidata.org/entity/statement/Q414-ff2cdfde-4673-f9aa-76fe-b0abba7bb34e" ;
+    schema1:geoshape "http://commons.wikimedia.org/data/main/Data:Argentina.map",
+        "http://www.wikidata.org/entity/statement/Q414-2eaed177-4433-4573-ceb9-405a611cf97d" ;
+    schema1:has_characteristic schema1:free_country,
+        "http://www.wikidata.org/entity/statement/Q414-B40F7E79-CB41-4FDA-98D9-2489D689DB10" ;
+    schema1:hashtag "Argentina",
+        "http://www.wikidata.org/entity/statement/Q414-000948de-484a-6e69-6408-4ad34f4ce5f6" ;
+    schema1:head_of_government schema1:Javier_Milei,
+        "http://www.wikidata.org/entity/statement/Q414-da053058-4c33-f1d7-9b9a-de47e6f7dc1c" ;
+    schema1:head_of_state schema1:Javier_Milei,
+        "http://www.wikidata.org/entity/statement/Q414-40493cd3-40f5-093e-79a3-99099fb27df9" ;
+    schema1:highest_judicial_authority schema1:Supreme_Court_of_Argentina,
+        "http://www.wikidata.org/entity/statement/Q414-4d419804-4b44-c05f-c7fe-2220ba375d03" ;
+    schema1:highest_point schema1:Aconcagua,
+        "http://www.wikidata.org/entity/statement/Q414-0a32c2fe-4571-0853-44bb-ea2d4936f8c1" ;
+    schema1:history_of_topic schema1:history_of_Argentina,
+        "http://www.wikidata.org/entity/statement/Q414-a31d49a7-47ca-eddf-521b-eb0b1750250a" ;
+    schema1:iDAI.gazetteer_ID "2087761",
+        "http://www.wikidata.org/entity/statement/Q414-B76FD01A-7399-44DC-857E-2E5C243023F7" ;
+    schema1:iNaturalist_place_ID "7190",
+        "http://www.wikidata.org/entity/statement/Q414-6C591489-629B-4389-A21D-70973448B933" ;
+    schema1:inception "1816-07-09T00:00:00Z",
+        "http://www.wikidata.org/entity/statement/Q414-01BD6303-136E-4FBE-B3C3-20ED43BFED83" ;
+    schema1:instance_of schema1:confessional_state,
+        schema1:country,
+        schema1:country_sometimes_considered_transcontinental,
+        schema1:nation,
+        schema1:sovereign_state,
+        "http://www.wikidata.org/entity/statement/Q414-669f2278-4240-9c3a-17a1-a5da4b028413",
+        "http://www.wikidata.org/entity/statement/Q414-853ebd9c-488b-e43d-3de3-3f8d4a7d1b44",
+        "http://www.wikidata.org/entity/statement/Q414-a8331c4f-42ba-0c34-0535-556f0d6ee933",
+        "http://www.wikidata.org/entity/statement/Q414-ecfeb232-4c5f-1517-2497-014d061aa06f",
+        "http://www.wikidata.org/entity/statement/q414-8D829838-F09B-4541-9948-5E71B625079C" ;
+    schema1:language_used schema1:Abipón,
+        schema1:Argentine_Sign_Language,
+        <http://schema.org/Iyojwa'ja_Chorote>,
+        schema1:Joseph_Mfonyam,
+        schema1:Mapudungun,
+        schema1:Mbyá_Guaraní,
+        schema1:Mocoví,
+        schema1:Ona,
+        schema1:Pilagá,
+        schema1:Puelche,
+        schema1:Santiagueño_Quechua,
+        schema1:South_Bolivian_Quechua,
+        schema1:Spanish,
+        schema1:Tapieté,
+        schema1:Tehuelche,
+        schema1:Toba_Qom,
+        schema1:Vilela,
+        schema1:Wichí_Lhamtés_Güisnay,
+        schema1:Wichí_Lhamtés_Nocten,
+        schema1:Wichí_Lhamtés_Vejoz,
+        schema1:Yaghan,
+        "http://www.wikidata.org/entity/statement/Q414-024FF96C-19D2-4E90-8C69-77ACEC5A7BCF",
+        "http://www.wikidata.org/entity/statement/Q414-0B6DA870-A484-426D-A4FB-E446CD9982BF",
+        "http://www.wikidata.org/entity/statement/Q414-0BD1833E-7175-4F63-A196-EB39A460D3AF",
+        "http://www.wikidata.org/entity/statement/Q414-1750F26F-F0CD-4BF5-B85B-7AD90F42E974",
+        "http://www.wikidata.org/entity/statement/Q414-1B7CDDB9-BD77-411F-ADBD-3A24F66342F0",
+        "http://www.wikidata.org/entity/statement/Q414-2454F946-FEF5-42FA-BD2D-A12DA3FFA918",
+        "http://www.wikidata.org/entity/statement/Q414-36C6CC49-788A-4001-AA08-60A86909591D",
+        "http://www.wikidata.org/entity/statement/Q414-3C03BB23-A6E2-4363-A4A5-4CA3A4161291",
+        "http://www.wikidata.org/entity/statement/Q414-521691FA-2B49-4150-8875-EF7137EF7E2C",
+        "http://www.wikidata.org/entity/statement/Q414-5A386670-CFF7-4D2C-8B94-094152F49FC1",
+        "http://www.wikidata.org/entity/statement/Q414-5C0687E2-1210-460C-8910-B7AF7BD3ADF6",
+        "http://www.wikidata.org/entity/statement/Q414-5EB81BBF-A47B-4BE6-B36C-F6ECB8168EDF",
+        "http://www.wikidata.org/entity/statement/Q414-756F80B2-5C61-4822-980E-369646320264",
+        "http://www.wikidata.org/entity/statement/Q414-A29B854A-89E6-4C8A-A885-8F7D096940D4",
+        "http://www.wikidata.org/entity/statement/Q414-AC79E526-3EE6-4C88-8D6B-FA99763AC1E0",
+        "http://www.wikidata.org/entity/statement/Q414-AE6A2289-8A56-4EFA-B1B7-0192D95908B8",
+        "http://www.wikidata.org/entity/statement/Q414-C3AF1323-1293-480D-A3DE-6E8B1F13334A",
+        "http://www.wikidata.org/entity/statement/Q414-CF01062A-7A1B-4CDE-812E-6B0C1F1343C2",
+        "http://www.wikidata.org/entity/statement/Q414-E052B4D8-9736-47E2-A0A8-156884A3227B",
+        "http://www.wikidata.org/entity/statement/Q414-E6D14A9C-425F-424C-AA3D-28B590E4C3B7",
+        "http://www.wikidata.org/entity/statement/Q414-F1712A3C-71DF-45B1-888D-F448DDB1F4CF" ;
+    schema1:legislative_body schema1:Argentine_National_Congress,
+        "http://www.wikidata.org/entity/statement/Q414-77aed9a8-4e34-3fee-5d0b-3805ceda263a" ;
+    schema1:life_expectancy "76",
+        "http://www.wikidata.org/entity/statement/Q414-0D3EF05C-695C-4C8E-8023-6DEC8AFE20B9",
+        "http://www.wikidata.org/entity/statement/Q414-1687B1A1-7867-49CA-A852-CF5B76FD2629",
+        "http://www.wikidata.org/entity/statement/Q414-2D58F4B0-3066-4066-9B8F-0E9480E92663",
+        "http://www.wikidata.org/entity/statement/Q414-35A2B614-3E00-441B-8BC8-93CCA1A5DCEF",
+        "http://www.wikidata.org/entity/statement/Q414-37A608DE-3C4C-46B2-9E6D-E7B42A819849",
+        "http://www.wikidata.org/entity/statement/Q414-3968CA96-D9CA-4873-9368-EC2C83AFE233",
+        "http://www.wikidata.org/entity/statement/Q414-39BEF3BD-7144-4A92-B615-D3B1FB8569C2",
+        "http://www.wikidata.org/entity/statement/Q414-46E3F11B-E65E-4DC9-B70A-5671993C9E17",
+        "http://www.wikidata.org/entity/statement/Q414-4B830A92-CCD0-4D90-989C-33F1395D6173",
+        "http://www.wikidata.org/entity/statement/Q414-6B741733-7C07-4BE3-B13E-97BFCD58D573",
+        "http://www.wikidata.org/entity/statement/Q414-7A31A337-5C4D-4382-AC98-3C733A417EFC",
+        "http://www.wikidata.org/entity/statement/Q414-81350EDB-431F-4EE6-9860-9EC8AF0618C1",
+        "http://www.wikidata.org/entity/statement/Q414-86E73551-8FD4-4512-A0AB-AECE9EE5447D",
+        "http://www.wikidata.org/entity/statement/Q414-AA5510F4-D0A4-4617-84B9-5A7087775B05",
+        "http://www.wikidata.org/entity/statement/Q414-AC7B17F8-877B-47CB-BE8D-1BC6447AECFD",
+        "http://www.wikidata.org/entity/statement/Q414-BB1AB278-DABB-4949-855C-6448146A55DB",
+        "http://www.wikidata.org/entity/statement/Q414-BD8D1DF1-0BBF-411D-88B3-6ABB4EFBE080",
+        "http://www.wikidata.org/entity/statement/Q414-C47BEAEC-8C05-4238-96B0-3DD95D3AD437",
+        "http://www.wikidata.org/entity/statement/Q414-C69B8C25-B273-4142-99BE-F3963FCE688D",
+        "http://www.wikidata.org/entity/statement/Q414-E2A65083-EA67-47AB-B184-611512D2122E",
+        "http://www.wikidata.org/entity/statement/Q414-EDBA1ADF-2C98-47E6-8EE0-3B66B8B22BC1",
+        "http://www.wikidata.org/entity/statement/Q414-F9FDFC13-F0FC-4339-BC1C-3A0261EC4FA4" ;
+    schema1:literacy_rate "99",
+        "http://www.wikidata.org/entity/statement/Q414-527cec51-48a7-605c-2224-6120f680fa9e" ;
+    ns1:on_physical_feature schema1:Hispanic_America,
+        schema1:South_America,
+        "http://www.wikidata.org/entity/statement/Q414-3F3A5EC4-6E86-4E7B-9091-029900DF1BF2",
+        "http://www.wikidata.org/entity/statement/Q414-B4D250B6-2B76-4B8E-89F0-14E4E9301C51" ;
+    schema1:located_in_time_zone <http://schema.org/UTC−03:00>,
+        "http://www.wikidata.org/entity/statement/q414-eb77c410-4bed-95f9-af93-313a4d573105" ;
+    schema1:location_map "http://commons.wikimedia.org/wiki/Special:FilePath/LocationArgentina2.svg",
+        "http://www.wikidata.org/entity/statement/Q414-e3e3c666-4828-ce54-f072-52779681ddee" ;
+    schema1:locator_map_image "http://commons.wikimedia.org/wiki/Special:FilePath/ARG%20orthographic.svg",
+        "http://www.wikidata.org/entity/statement/Q414-f6694c6a-44ed-0e16-eaf2-934673f0ee48",
+        "http://www.wikidata.org/entity/statement/q414-0d6d37cf-4f8f-6a2a-a0e9-05558a3c1ae0" ;
+    schema1:lowest_point schema1:Laguna_del_Carbón,
+        "http://www.wikidata.org/entity/statement/Q414-78FBA49F-EB96-422D-B050-86616C59FE7D" ;
+    schema1:main_regulatory_text schema1:Constitution_of_Argentina,
+        "http://www.wikidata.org/entity/statement/Q414-ae7205c2-4f78-116c-c8d2-80e96aaae5e7" ;
+    schema1:mains_voltage "220",
+        "http://www.wikidata.org/entity/statement/Q414-2DC8B739-E4ED-487A-8EFC-DB60E4F65877" ;
+    schema1:maintained_by_WikiProject schema1:WikiProject_Argentina,
+        schema1:WikiProject_Latin_America,
+        "http://www.wikidata.org/entity/statement/Q414-67ec2ea1-4884-c724-6881-54a0a75b480e",
+        "http://www.wikidata.org/entity/statement/Q414-e3b8bbe6-4cf2-fc80-30d3-82f5df605e3e" ;
+    schema1:male_population "22249019",
+        "22465694",
+        "22678199",
+        "22889298",
+        "http://www.wikidata.org/entity/statement/Q414-24D30CF5-5EAD-4F7E-813B-1B8EE9A244A9",
+        "http://www.wikidata.org/entity/statement/Q414-76F798B9-7373-430B-A861-9943C56E1929",
+        "http://www.wikidata.org/entity/statement/Q414-8CC25C11-31E3-4095-AA73-8129FBB16B9B",
+        "http://www.wikidata.org/entity/statement/Q414-A8E952F1-F474-48C5-8254-1E8D709A2CA4" ;
+    schema1:maritime_identification_digits "701",
+        "http://www.wikidata.org/entity/statement/Q414-de95a64c-46fe-4425-8c98-8183c38fd28a" ;
+    schema1:marriageable_age "18",
+        "http://www.wikidata.org/entity/statement/Q414-B592E936-6D7A-4A03-A325-0498BB7AAED5" ;
+    schema1:member_of schema1:ABC_nations,
+        schema1:African_Development_Bank,
+        schema1:Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,
+        schema1:Andean_Community,
+        schema1:Antarctic_Treaty_System,
+        schema1:Australia_Group,
+        schema1:Central_American_Bank_for_Economic_Integration,
+        schema1:G20,
+        schema1:Group_on_Earth_Observations,
+        schema1:International_Bank_for_Reconstruction_and_Development,
+        schema1:International_Centre_for_Settlement_of_Investment_Disputes,
+        schema1:International_Development_Association,
+        schema1:International_Finance_Corporation,
+        schema1:International_Holocaust_Remembrance_Alliance,
+        schema1:International_Hydrographic_Organization,
+        schema1:International_Renewable_Energy_Agency,
+        schema1:International_Telecommunication_Union,
+        schema1:Interpol,
+        schema1:Missile_Technology_Control_Regime,
+        schema1:Multilateral_Investment_Guarantee_Agency,
+        schema1:None,
+        schema1:Nuclear_Suppliers_Group,
+        schema1:Organisation_for_the_Prohibition_of_Chemical_Weapons,
+        schema1:Organization_of_American_States,
+        schema1:Treaty_on_the_Non-Proliferation_of_Nuclear_Weapons,
+        schema1:UNESCO,
+        schema1:Union_of_South_American_Nations,
+        schema1:United_Nations,
+        schema1:Universal_Postal_Union,
+        schema1:World_Customs_Organization,
+        schema1:World_Health_Organization,
+        schema1:World_Meteorological_Organization,
+        schema1:World_Trade_Organization,
+        "http://www.wikidata.org/entity/statement/Q414-0B7A5917-5F1E-4D49-8CA8-0BABBCF562C9",
+        "http://www.wikidata.org/entity/statement/Q414-146F23CB-0DBF-4D90-A958-9410406BE33C",
+        "http://www.wikidata.org/entity/statement/Q414-1831477F-033D-4325-A79A-A8A4E86CAD5E",
+        "http://www.wikidata.org/entity/statement/Q414-21213603-24B4-4AE0-85CA-0A13CD1FBA3E",
+        "http://www.wikidata.org/entity/statement/Q414-2F87F85A-8B69-4F4C-81A5-B5AE92A172CA",
+        "http://www.wikidata.org/entity/statement/Q414-316DF006-1F4D-477D-9896-27C5228A0164",
+        "http://www.wikidata.org/entity/statement/Q414-3288090C-0785-4633-8BC0-ADA7B2C27E0A",
+        "http://www.wikidata.org/entity/statement/Q414-353306FD-B9AD-418E-B16D-7AE234F2BE16",
+        "http://www.wikidata.org/entity/statement/Q414-3696E72F-70B6-4D86-818B-759CA576B3D8",
+        "http://www.wikidata.org/entity/statement/Q414-3991AC1D-0503-49E4-A721-E1E08F396C7A",
+        "http://www.wikidata.org/entity/statement/Q414-3DB8A36E-FA85-4037-B3B8-32450AC2073E",
+        "http://www.wikidata.org/entity/statement/Q414-415ED878-D005-45C4-977D-7DF6F0B02860",
+        "http://www.wikidata.org/entity/statement/Q414-4CAC39FF-64B0-478E-8257-69E06213CB50",
+        "http://www.wikidata.org/entity/statement/Q414-4E5E9DFB-799C-4F4D-830F-C67AB0481086",
+        "http://www.wikidata.org/entity/statement/Q414-51AB8526-7F6B-44EC-8F86-2CB0FF76B89A",
+        "http://www.wikidata.org/entity/statement/Q414-5d998549-448a-e627-18db-0b2726bb822a",
+        "http://www.wikidata.org/entity/statement/Q414-7144A6E8-28F4-4035-B0F3-CC57A28F9FF3",
+        "http://www.wikidata.org/entity/statement/Q414-74BD34B5-2FD4-449E-91AA-DD434A313C65",
+        "http://www.wikidata.org/entity/statement/Q414-765A62BF-A4CE-4B07-A8DA-90CDF85812EB",
+        "http://www.wikidata.org/entity/statement/Q414-77a4f1a0-45be-97c2-aba8-bf9361d17ad3",
+        "http://www.wikidata.org/entity/statement/Q414-780e0186-4b95-7f2f-e366-bf38a135648a",
+        "http://www.wikidata.org/entity/statement/Q414-9dd28477-47fa-8308-2d13-64f35526d182",
+        "http://www.wikidata.org/entity/statement/Q414-AA7FA1B3-20C4-43D3-97FF-D40E382EA76E",
+        "http://www.wikidata.org/entity/statement/Q414-C3751E1A-9101-4006-B500-53B7FFD5F447",
+        "http://www.wikidata.org/entity/statement/Q414-C39EDABD-87F0-4880-9251-3A4C4C39F439",
+        "http://www.wikidata.org/entity/statement/Q414-C82D32A3-E0EC-4113-9943-FDAECAAA6B2A",
+        "http://www.wikidata.org/entity/statement/Q414-D07C88DF-D1AF-4495-89E6-F5327FF9C798",
+        "http://www.wikidata.org/entity/statement/Q414-E7651F39-7566-4432-ABAC-B36EC497BB25",
+        "http://www.wikidata.org/entity/statement/Q414-EDE30DF8-18FF-4053-991E-CB01FDF50980",
+        "http://www.wikidata.org/entity/statement/q414-66209622-B629-4E47-BFDD-9F4637E93109",
+        "http://www.wikidata.org/entity/statement/q414-6A868D07-0953-4ECE-BD85-4F0A2E501646",
+        "http://www.wikidata.org/entity/statement/q414-819292D8-032F-4A88-9C61-BAA89296C2AA",
+        "http://www.wikidata.org/entity/statement/q414-A0067434-B585-4C4E-AB82-2AFAC8F1AE32" ;
+    schema1:minimum_temperature_record "-32.8",
+        "http://www.wikidata.org/entity/statement/Q414-bc3c05fc-4523-63dd-0cc5-62b31597bdcd" ;
+    schema1:mobile_country_code "722",
+        "http://www.wikidata.org/entity/statement/Q414-58a5478c-462b-6a8f-d8c0-6291c944251a" ;
+    schema1:most_populous_urban_area schema1:Buenos_Aires,
+        "http://www.wikidata.org/entity/statement/Q414-9EDD397B-5817-410D-AAAB-1BEFF3F34857" ;
+    schema1:motto schema1:En_unión_y_libertad,
+        "http://www.wikidata.org/entity/statement/Q414-278e8eb0-4111-91cd-dbee-c14c08a0c1cf" ;
+    schema1:motto_text "Beats to your rhythm",
+        "Curiad eich Rhythm",
+        "http://www.wikidata.org/entity/statement/Q414-D23DD7B5-31CC-4DF6-BC70-94D7038C424F",
+        "http://www.wikidata.org/entity/statement/Q414-a4bccd7e-4424-e75b-951c-088350d1416c" ;
+    schema1:museum-digital_place_ID "6866",
+        "http://www.wikidata.org/entity/statement/Q414-EC2152CB-0EC6-4FBC-8231-8A806841B9B8" ;
+    schema1:name_in_native_language "República Argentina",
+        "http://www.wikidata.org/entity/statement/Q414-e80e4cf6-4f3b-e217-8eb1-d62493c700c6" ;
+    schema1:named_after schema1:silver,
+        "http://www.wikidata.org/entity/statement/Q414-b313d364-4120-5715-4ba9-3a5041eb7e19" ;
+    schema1:native_label "República Argentina",
+        "http://www.wikidata.org/entity/statement/Q414-f9f45653-4fcd-21e7-83d2-813dbedec2d9" ;
+    schema1:nominal_GDP "103979106777",
+        "105872372613",
+        "108810885301",
+        "116915052107",
+        "126890235049",
+        "127586973492",
+        "141352630146",
+        "164657930452",
+        "18272123664",
+        "189719984268",
+        "198737095012",
+        "228778917308",
+        "232557260817",
+        "236741715015",
+        "24256667553",
+        "24450604877",
+        "25605249381",
+        "257440000000",
+        "258031750000",
+        "26436857247",
+        "268696750000",
+        "272149750000",
+        "28344705966",
+        "283523000000",
+        "284203750000",
+        "28630474727",
+        "287530508430",
+        "292859000000",
+        "298948250000",
+        "31256284543",
+        "31584210365",
+        "33293199095",
+        "332976484577",
+        "34733000536",
+        "361558037110",
+        "385740508436",
+        "423627422092",
+        "447754683615",
+        "486564085480",
+        "487227125386",
+        "51169499892",
+        "52438647921",
+        "524819892360",
+        "52544000116",
+        "526319673731",
+        "530158122010",
+        "545982375701",
+        "552025140252",
+        "557532320662",
+        "56781000101",
+        "594749285413",
+        "632770284409",
+        "632790070063",
+        "643628393281",
+        "646075277525",
+        "69252328951",
+        "72436777342",
+        "76629728760",
+        "76961923741",
+        "78676842366",
+        "84307486836",
+        "88150891728",
+        "89049453088",
+        "97724004251",
+        "http://www.wikidata.org/entity/statement/Q414-0182081E-4B33-47DF-B289-117381131B34",
+        "http://www.wikidata.org/entity/statement/Q414-0D289158-A67B-4E7D-92C8-2F4D6523FD7C",
+        "http://www.wikidata.org/entity/statement/Q414-0D5EA81F-BF01-4D64-B6AD-2C99A84F1E9E",
+        "http://www.wikidata.org/entity/statement/Q414-0F018E72-3B97-4885-B4EF-BC4D984CFC6B",
+        "http://www.wikidata.org/entity/statement/Q414-13529F91-56CB-43EC-ADA0-ED2BCA3A1FF5",
+        "http://www.wikidata.org/entity/statement/Q414-1AB2A532-67D2-42C6-A09A-0BA0D09C0473",
+        "http://www.wikidata.org/entity/statement/Q414-22C3F640-4601-4434-954F-55E0B7EF2FA0",
+        "http://www.wikidata.org/entity/statement/Q414-2E0F4E62-914C-48B9-A348-BA95ECDE95E6",
+        "http://www.wikidata.org/entity/statement/Q414-2FE37D4B-F89D-43CE-8A99-FCE82EB1663F",
+        "http://www.wikidata.org/entity/statement/Q414-323CAF20-A842-4E52-93D7-1BEA05CBBE30",
+        "http://www.wikidata.org/entity/statement/Q414-349441FB-B90B-46E6-88DF-7DD045F9F685",
+        "http://www.wikidata.org/entity/statement/Q414-3770F36F-67DA-4EAA-BC27-6DA4E2EB4D95",
+        "http://www.wikidata.org/entity/statement/Q414-3B772666-34D2-4D8E-8653-4BCD1736FA63",
+        "http://www.wikidata.org/entity/statement/Q414-44B5BB44-1AF8-47A9-B99A-598CB9341247",
+        "http://www.wikidata.org/entity/statement/Q414-4693FA17-C469-4738-9056-A687D361724F",
+        "http://www.wikidata.org/entity/statement/Q414-4A74A89E-2DAB-4017-AAE7-DFFFF9405BD2",
+        "http://www.wikidata.org/entity/statement/Q414-4B49FF21-8498-4C92-A253-360D3242199B",
+        "http://www.wikidata.org/entity/statement/Q414-4B6A62D6-287E-4B83-8AA4-2286FD41021F",
+        "http://www.wikidata.org/entity/statement/Q414-51DAA63D-90EC-48EC-ACC3-F8998E2F3388",
+        "http://www.wikidata.org/entity/statement/Q414-55A568DC-D8FC-47B3-BDBA-91835D9046FA",
+        "http://www.wikidata.org/entity/statement/Q414-566378A7-6F8F-445A-805C-E21BABCE59D8",
+        "http://www.wikidata.org/entity/statement/Q414-58132F09-9193-4B86-8FA9-1D3C93FF9A2B",
+        "http://www.wikidata.org/entity/statement/Q414-5A875318-8706-4301-B3D1-D4D1815E9158",
+        "http://www.wikidata.org/entity/statement/Q414-5B2591A5-3A51-400E-83DD-0FA019E28566",
+        "http://www.wikidata.org/entity/statement/Q414-5BCD3DA8-C3B7-400B-9F1C-9925A6C7A650",
+        "http://www.wikidata.org/entity/statement/Q414-5C72932C-1377-4E62-8B63-F53837560853",
+        "http://www.wikidata.org/entity/statement/Q414-5CD25BA2-F21C-4DBC-B03F-5048D31BC003",
+        "http://www.wikidata.org/entity/statement/Q414-60618D0F-6073-4DE6-A862-B11F3CBB8E76",
+        "http://www.wikidata.org/entity/statement/Q414-60B2D914-BBE5-4F4A-B174-B0A1C6A76311",
+        "http://www.wikidata.org/entity/statement/Q414-6755E31B-B0AF-46B0-94B7-56514D2C20CB",
+        "http://www.wikidata.org/entity/statement/Q414-6FE50CA2-F4B4-4FDC-9016-4C54B62E1E8D",
+        "http://www.wikidata.org/entity/statement/Q414-71C5D390-F696-4A92-B6CC-613DBBD72675",
+        "http://www.wikidata.org/entity/statement/Q414-72AB46EC-3DB6-498B-8F1F-324D88D6E814",
+        "http://www.wikidata.org/entity/statement/Q414-75998910-03C4-4894-8814-1198E7D5E83F",
+        "http://www.wikidata.org/entity/statement/Q414-799D3AFF-25B9-4003-A5DA-5F6A932BBB7A",
+        "http://www.wikidata.org/entity/statement/Q414-79F2DB74-37E5-41B1-A0DA-05320F8D4314",
+        "http://www.wikidata.org/entity/statement/Q414-80A9F528-D3F6-46E0-93D4-550322799410",
+        "http://www.wikidata.org/entity/statement/Q414-814F0C31-AD77-4B31-A202-7861DC2C37A1",
+        "http://www.wikidata.org/entity/statement/Q414-83EBA297-C52F-4D48-9462-04C9569805A9",
+        "http://www.wikidata.org/entity/statement/Q414-85208193-2EA7-4AD6-8F65-08081CDFAD17",
+        "http://www.wikidata.org/entity/statement/Q414-870D60C9-0772-4E28-9D81-FB7AF64CE6A5",
+        "http://www.wikidata.org/entity/statement/Q414-9E719ACB-9359-4634-86CF-3833B83EC000",
+        "http://www.wikidata.org/entity/statement/Q414-9FE45500-66D1-408E-8B8B-A9C758FA6B61",
+        "http://www.wikidata.org/entity/statement/Q414-A29784B7-D080-4BBD-98D2-E6EB45365700",
+        "http://www.wikidata.org/entity/statement/Q414-A4E76D8B-A6D6-4229-B01D-9E597BA1407B",
+        "http://www.wikidata.org/entity/statement/Q414-A640A54F-DD5B-4073-80B4-0E8E14FA8956",
+        "http://www.wikidata.org/entity/statement/Q414-B9E400BE-EE75-4CA9-A947-C3BB62D08375",
+        "http://www.wikidata.org/entity/statement/Q414-BD28A4F0-23CD-4561-A763-F5AE59CE6B62",
+        "http://www.wikidata.org/entity/statement/Q414-BE3F151A-BADC-4760-AD22-0157A43F7179",
+        "http://www.wikidata.org/entity/statement/Q414-C36F5BA4-377D-41B6-8C97-A446EA38B253",
+        "http://www.wikidata.org/entity/statement/Q414-C5B60E55-2872-46E3-91EF-254428EE1C7D",
+        "http://www.wikidata.org/entity/statement/Q414-CB66145E-6693-4D85-A2D4-51D5877CE02B",
+        "http://www.wikidata.org/entity/statement/Q414-CE03E121-B7CE-405B-8EB0-0DB190F94EC2",
+        "http://www.wikidata.org/entity/statement/Q414-D2A4240A-8813-4423-AADD-43CE2F024012",
+        "http://www.wikidata.org/entity/statement/Q414-D7A855EA-7C31-4B13-A30F-A53FD0B897D9",
+        "http://www.wikidata.org/entity/statement/Q414-D8A701A8-B321-4DFE-8BD0-466327B688ED",
+        "http://www.wikidata.org/entity/statement/Q414-DB0769A4-B654-4C4B-A6EE-9E4B188E3945",
+        "http://www.wikidata.org/entity/statement/Q414-DD4412AE-D727-409F-B5DD-E2FD3F7DE4C3",
+        "http://www.wikidata.org/entity/statement/Q414-DF66B7E4-2269-43A2-9923-53863F1FC3C4",
+        "http://www.wikidata.org/entity/statement/Q414-E7B52216-F6A0-4577-B331-0965978C7DB0",
+        "http://www.wikidata.org/entity/statement/Q414-EDBAA118-B2E0-4092-B904-4BB8A6A17F18",
+        "http://www.wikidata.org/entity/statement/Q414-F0B6EF75-DD0F-4B52-90E4-6D7158FBE6A7",
+        "http://www.wikidata.org/entity/statement/Q414-FA5237C8-573A-4166-B4A3-3893943BB738",
+        "http://www.wikidata.org/entity/statement/Q414-FEBF7D21-0FA4-4B16-9448-5C999A143FA5" ;
+    schema1:number_of_out-of-school_children "261811",
+        "http://www.wikidata.org/entity/statement/Q414-11D952C1-CC29-47A2-995A-A3DEC30D968E",
+        "http://www.wikidata.org/entity/statement/Q414-18309DA6-734D-45CA-A5A8-0CBFD5C7CD77",
+        "http://www.wikidata.org/entity/statement/Q414-3A1B6EED-4B07-4683-91C3-92DB47CF2A5F",
+        "http://www.wikidata.org/entity/statement/Q414-488DB7BD-F02C-4207-B7CF-2897819BA319",
+        "http://www.wikidata.org/entity/statement/Q414-59EFFD55-6C4A-4A5D-9C79-2784BEE91DC6",
+        "http://www.wikidata.org/entity/statement/Q414-60093CE1-8B4D-44F7-AB87-544937E401B1",
+        "http://www.wikidata.org/entity/statement/Q414-6E77DF70-8FB5-4816-B61F-EFA99658E8C5",
+        "http://www.wikidata.org/entity/statement/Q414-768C7020-DF90-4C35-B49F-2C44D9159F07",
+        "http://www.wikidata.org/entity/statement/Q414-88FFB7F9-973E-4446-9FB4-45672A7F1C80",
+        "http://www.wikidata.org/entity/statement/Q414-A5D258A7-9AD0-45EF-8BF2-534510B2AE63",
+        "http://www.wikidata.org/entity/statement/Q414-B099A347-9BF9-4981-B8EB-0AF16538648B",
+        "http://www.wikidata.org/entity/statement/Q414-E13727F0-878C-473D-BFDC-0A5C7657667E",
+        "http://www.wikidata.org/entity/statement/Q414-E7BC7252-494B-4692-AA02-FD7E303A5272",
+        "http://www.wikidata.org/entity/statement/Q414-EA105A2B-F72F-4AAD-A7F5-854DCE999F9C",
+        "http://www.wikidata.org/entity/statement/Q414-EBD70A46-D674-44FF-A254-69E820390FCD",
+        "http://www.wikidata.org/entity/statement/Q414-FE91C559-BB2F-47F5-B0F5-4F2ABD07F880" ;
+    schema1:office_held_by_head_of_state schema1:President_of_Argentina,
+        "http://www.wikidata.org/entity/statement/Q414-cd9ed4b3-4cb9-9c90-bf5c-ffeeb358298b" ;
+    schema1:office_held_by_the_head_of_government schema1:President_of_Argentina,
+        "http://www.wikidata.org/entity/statement/Q414-ae54e6d3-45a9-308d-b861-45c12f03a158" ;
+    schema1:official_language schema1:Spanish,
+        "http://www.wikidata.org/entity/statement/q414-b60fd5c6-4ec0-d23c-e610-eab7b9cd657f" ;
+    schema1:official_name "República Argentina",
+        "http://www.wikidata.org/entity/statement/Q414-4453DC64-F363-4E32-BA9F-1D28EAB1A1F6",
+        "http://www.wikidata.org/entity/statement/Q414-63E02C3F-0FFF-4785-A18C-E557777BB71F",
+        "http://www.wikidata.org/entity/statement/Q414-8673cd55-4a34-e069-4931-afbe2c4ee729",
+        "http://www.wikidata.org/entity/statement/Q414-e0789b4e-4006-4121-c85b-e16cf35c18aa" ;
+    schema1:official_observer_status_in_organization schema1:Organisation_internationale_de_la_Francophonie,
+        "http://www.wikidata.org/entity/statement/Q414-195f1c10-4ce4-799c-9dec-b2fe35d8f67e" ;
+    schema1:official_religion schema1:Catholic_Church,
+        "http://www.wikidata.org/entity/statement/Q414-ace50a3a-491a-74d7-e4a1-6efb7d322813" ;
+    schema1:official_website "http://www.wikidata.org/entity/statement/Q414-0dfbca62-45ef-0d51-5664-afc980878344",
+        "https://www.argentina.gob.ar/" ;
+    schema1:on_focus_list_of_Wikimedia_project schema1:WikiProject_African_diaspora,
+        schema1:WikiProject_Zika_Corpus,
+        <http://schema.org/Wikipedia:List_of_articles_all_languages_should_have>,
+        <http://schema.org/Wikipedia:Vital_articles/Level/4>,
+        "http://www.wikidata.org/entity/statement/Q414-A015780F-2E6F-4247-BB4F-0049A42E1DA5",
+        "http://www.wikidata.org/entity/statement/Q414-B87DD4FD-2354-4215-AD77-2C527E06C2DA",
+        "http://www.wikidata.org/entity/statement/Q414-B8EC5CEE-F37E-40DD-9AF2-D14D60CB4BAB",
+        "http://www.wikidata.org/entity/statement/Q414-E1DD0E26-71EB-4FA0-BC3F-5DB84C7FE5C1" ;
+    schema1:open_data_portal schema1:Argentina_Data_Portal,
+        "http://www.wikidata.org/entity/statement/Q414-f43b0242-497c-2b31-37a1-52ef70a13793" ;
+    schema1:page_banner "http://commons.wikimedia.org/wiki/Special:FilePath/Argentina%20Banner%205.jpg",
+        "http://www.wikidata.org/entity/statement/Q414-2D935B07-C082-4AD4-ACC7-77A83DC7F0DD" ;
+    schema1:part_of schema1:Latin_America,
+        schema1:Southern_Cone,
+        "http://www.wikidata.org/entity/statement/Q414-73C54FBE-02D6-4E5A-A494-D3272CE4FE2B",
+        "http://www.wikidata.org/entity/statement/Q414-cd0b6022-4d30-2498-835e-3075f46a0ee0" ;
+    schema1:participant_in schema1:2018_G20_Buenos_Aires_summit,
+        schema1:Battle_of_Mount_Longdon,
+        schema1:Falklands_War,
+        schema1:Global_System_of_Trade_Preferences_among_Developing_Countries,
+        schema1:South_American_dreadnought_race,
+        "http://www.wikidata.org/entity/statement/Q414-58DDAFED-213C-4476-B260-01370AFF0CF3",
+        "http://www.wikidata.org/entity/statement/Q414-58f439cb-4ee7-f93a-49fd-74ecf4b118c6",
+        "http://www.wikidata.org/entity/statement/Q414-889DF8BC-3AC4-4C4C-8B2B-FAE35AED8007",
+        "http://www.wikidata.org/entity/statement/Q414-DD1CA115-8CEC-4D05-9E26-A2870482FC9E",
+        "http://www.wikidata.org/entity/statement/Q414-E7D6D353-B233-4CF1-9560-CBEEEFF162C2" ;
+    schema1:permanent_duplicated_item schema1:Argentina,
+        "http://www.wikidata.org/entity/statement/Q414-1E8A7297-ACFE-4ED2-A881-83F39E3D330A" ;
+    schema1:population "47327407",
+        "http://www.wikidata.org/entity/statement/Q414-0419E5F5-A070-4FA9-B736-37266E49A7DA",
+        "http://www.wikidata.org/entity/statement/Q414-04B52293-D4C8-4FCD-A6F6-A17C7CE3CFE6",
+        "http://www.wikidata.org/entity/statement/Q414-0F7A7F12-513D-4383-8FAC-6D42948AADC3",
+        "http://www.wikidata.org/entity/statement/Q414-1F38A09C-4EF3-4432-B87D-64F00839F728",
+        "http://www.wikidata.org/entity/statement/Q414-1b42b457-47d9-b5d8-f1da-4c4d879cbb62",
+        "http://www.wikidata.org/entity/statement/Q414-23169E6B-9B51-49AA-93E0-3F2E04380C14",
+        "http://www.wikidata.org/entity/statement/Q414-2883B7FB-934C-4D5E-9A49-CD563C65174B",
+        "http://www.wikidata.org/entity/statement/Q414-34C5D249-3C41-40B3-93C7-9891C3D27A05",
+        "http://www.wikidata.org/entity/statement/Q414-3D445700-ABB0-4C43-B160-D58F1DB2329F",
+        "http://www.wikidata.org/entity/statement/Q414-451E0C00-6D42-4C24-9ED2-B9AA30425AAE",
+        "http://www.wikidata.org/entity/statement/Q414-46D87C51-2942-4BD8-B407-C0445B477150",
+        "http://www.wikidata.org/entity/statement/Q414-56f758ae-4416-a37c-cdc3-dc12bbd65d39",
+        "http://www.wikidata.org/entity/statement/Q414-5C8208B9-495A-41CD-9BFB-8B5C4BD3FED7",
+        "http://www.wikidata.org/entity/statement/Q414-5EA6DEC5-ACB3-406D-9F6C-05FC4C2F139E",
+        "http://www.wikidata.org/entity/statement/Q414-6215BFBE-4A66-4113-BA19-1A27FCC4A196",
+        "http://www.wikidata.org/entity/statement/Q414-64d12b4f-4037-0f8c-bc05-663150e833cb",
+        "http://www.wikidata.org/entity/statement/Q414-65A621EF-822B-4403-A537-FC0BAA0A146C",
+        "http://www.wikidata.org/entity/statement/Q414-667008F2-D5E1-4331-9AAD-4741AF92DEC6",
+        "http://www.wikidata.org/entity/statement/Q414-668F68E7-9122-4AB2-B8FF-8A0920D311E3",
+        "http://www.wikidata.org/entity/statement/Q414-68B997D2-5408-41C8-AC6D-6D2B592B2F32",
+        "http://www.wikidata.org/entity/statement/Q414-6E8BEA8C-C972-40EA-9DC0-A9B2D7D291C6",
+        "http://www.wikidata.org/entity/statement/Q414-716F21A6-2EE1-4837-BE39-DE18A1EEEC08",
+        "http://www.wikidata.org/entity/statement/Q414-78B37EFF-A5D9-4425-A01D-E169D3A3A99D",
+        "http://www.wikidata.org/entity/statement/Q414-7AF22639-58B0-48B2-9063-8553BE24FBD0",
+        "http://www.wikidata.org/entity/statement/Q414-7CDB91B8-F144-4436-A66D-12F99EBCF34F",
+        "http://www.wikidata.org/entity/statement/Q414-80FE9A55-D0E0-490F-B0A9-426E7D08FE8A",
+        "http://www.wikidata.org/entity/statement/Q414-83AC5A9B-932F-4098-B29E-F1F433BA60B0",
+        "http://www.wikidata.org/entity/statement/Q414-842626FA-62F8-4E61-AB3F-0644D6B69670",
+        "http://www.wikidata.org/entity/statement/Q414-845AC4BE-BBEE-4976-B8BE-B9938A443860",
+        "http://www.wikidata.org/entity/statement/Q414-8BD25336-F9CC-4FFD-B1D4-490D185752AB",
+        "http://www.wikidata.org/entity/statement/Q414-91F6B90C-7C44-4C6C-A513-C52381240189",
+        "http://www.wikidata.org/entity/statement/Q414-947E0AB6-9EFB-42A9-B431-DD81B738F2AE",
+        "http://www.wikidata.org/entity/statement/Q414-97D4CBB4-B545-430D-B6E0-5B44ECE83B9B",
+        "http://www.wikidata.org/entity/statement/Q414-98F51173-2D32-4AE6-9F04-A8D8E2D84837",
+        "http://www.wikidata.org/entity/statement/Q414-A38B98D1-936F-4E3B-AA07-C25F248CFBD7",
+        "http://www.wikidata.org/entity/statement/Q414-A4C2FD5E-2698-4E77-8708-F70E4867CA10",
+        "http://www.wikidata.org/entity/statement/Q414-A6FB4367-3342-43FC-92B3-BA630BDAC299",
+        "http://www.wikidata.org/entity/statement/Q414-ADBFEC43-089E-4DFB-9DB9-160C05E3BEFB",
+        "http://www.wikidata.org/entity/statement/Q414-ADF474E1-AB74-4F07-A2AF-0074C913DE52",
+        "http://www.wikidata.org/entity/statement/Q414-B13FFDCC-CA68-46DC-8564-C4CA12BC3D8B",
+        "http://www.wikidata.org/entity/statement/Q414-B3773A0D-BFB3-488E-B573-A2C066170AB6",
+        "http://www.wikidata.org/entity/statement/Q414-BE70EA54-CAE2-48E8-B3EC-81514C4F0EC0",
+        "http://www.wikidata.org/entity/statement/Q414-BEC625B4-57E1-4047-ACF1-035FBD806715",
+        "http://www.wikidata.org/entity/statement/Q414-BF8445B2-E405-4617-BE29-6E4F8D1A4482",
+        "http://www.wikidata.org/entity/statement/Q414-C8865E4E-0AF8-440A-A28D-5BFD54D486F1",
+        "http://www.wikidata.org/entity/statement/Q414-C92F51B6-1FCE-4C86-8A38-3B1EC1EB3448",
+        "http://www.wikidata.org/entity/statement/Q414-CDF06449-72BA-402E-9A54-574DC25239FE",
+        "http://www.wikidata.org/entity/statement/Q414-CFC63AF3-FA65-4318-882A-99F48C8736DA",
+        "http://www.wikidata.org/entity/statement/Q414-D18A4D4E-5CA6-40BF-B483-F93F61385E90",
+        "http://www.wikidata.org/entity/statement/Q414-D55EC362-2C82-4025-950A-1BBE7247122B",
+        "http://www.wikidata.org/entity/statement/Q414-DFCAEA58-432A-4893-88EE-5D59E971C593",
+        "http://www.wikidata.org/entity/statement/Q414-E4583AA1-1DCA-4EEF-8C3D-A1D23A8DB6FD",
+        "http://www.wikidata.org/entity/statement/Q414-E6D99884-51E9-46D7-A5BE-AFA18A8BFBAE",
+        "http://www.wikidata.org/entity/statement/Q414-E996B3B2-7700-470C-9FA0-17F933586CE9",
+        "http://www.wikidata.org/entity/statement/Q414-EEB83EAC-EE7F-46FF-8663-A3B10EE8685A",
+        "http://www.wikidata.org/entity/statement/Q414-F2223317-8F0E-4DA4-A084-3BE0D1269CCC",
+        "http://www.wikidata.org/entity/statement/Q414-F6427581-5F79-43FE-AF66-12DFF9E4CC3E",
+        "http://www.wikidata.org/entity/statement/Q414-FC3A6AE5-E6B4-4750-8261-E37BA2E740BE",
+        "http://www.wikidata.org/entity/statement/Q414-FFA37481-8CCC-4A8B-8913-D5FD88AAB2CD" ;
+    schema1:pronunciation_audio "http://commons.wikimedia.org/wiki/Special:FilePath/Es%20Argentina.ogg",
+        "http://www.wikidata.org/entity/statement/Q414-00ce31aa-f2ab-4786-b65b-8236fb040c41",
+        "http://www.wikidata.org/entity/statement/Q414-1ac4b88b-4d70-e5ef-8692-e3318d56d114",
+        "http://www.wikidata.org/entity/statement/Q414-2570a68c-4fee-c5e0-4c35-2e15f3402a09",
+        "http://www.wikidata.org/entity/statement/Q414-68f3d294-4720-9c95-fb77-23677d796d9e",
+        "http://www.wikidata.org/entity/statement/Q414-977f1a04-4382-4491-89a3-5a114d9b839e",
+        "http://www.wikidata.org/entity/statement/Q414-A7E8E036-DA99-403E-B4C1-80117C0F2540",
+        "http://www.wikidata.org/entity/statement/Q414-DF5AE4C5-3BA5-4B0D-9E0E-7CEB355BA6AF" ;
+    schema1:railway_traffic_side schema1:left,
+        "http://www.wikidata.org/entity/statement/Q414-DDF3B688-FCB0-448E-A3CB-5ECAF64E29F6" ;
+    schema1:replaces schema1:Colonial_Argentina,
+        schema1:United_Provinces_of_the_Río_de_la_Plata,
+        "http://www.wikidata.org/entity/statement/Q414-7d8f11c5-4e82-eb28-3e4d-362183b5d983",
+        "http://www.wikidata.org/entity/statement/Q414-AEF950A8-F0C2-4D20-A3B1-8079EB316C89" ;
+    schema1:rural_population "3538352",
+        "3559798",
+        "3579773",
+        "3599141",
+        "http://www.wikidata.org/entity/statement/Q414-06EB5668-FE48-4D41-9767-15AB9AAFEADD",
+        "http://www.wikidata.org/entity/statement/Q414-55510567-4DE7-40E5-8E68-7408BF544019",
+        "http://www.wikidata.org/entity/statement/Q414-6A950031-D7DF-488F-8303-75EEF0D9A5DF",
+        "http://www.wikidata.org/entity/statement/Q414-DB5AC305-5FFC-4A6B-985F-62D808F8E4DE" ;
+    schema1:shares_border_with schema1:Bolivia,
+        schema1:Brazil,
+        schema1:Chile,
+        schema1:Paraguay,
+        schema1:United_Kingdom,
+        schema1:Uruguay,
+        "http://www.wikidata.org/entity/statement/Q414-31E80C19-A242-4778-8DDE-97F205DF4314",
+        "http://www.wikidata.org/entity/statement/q414-1FF6D60F-8109-4BB7-A508-6E5AD1C33F74",
+        "http://www.wikidata.org/entity/statement/q414-AC2E0456-20E9-4598-A167-8161A045F467",
+        "http://www.wikidata.org/entity/statement/q414-B53D30C9-7C71-4A3D-AB37-4E7C7439DBD2",
+        "http://www.wikidata.org/entity/statement/q414-B9A662FC-FCA7-4A4E-8220-3FA4515CE4B0",
+        "http://www.wikidata.org/entity/statement/q414-E67C649B-B2C7-4B0F-A908-A381E0CD93A7" ;
+    schema1:significant_event schema1:Argentine_economic_crisis,
+        schema1:Rise_of_the_Argentine_Republic,
+        "http://www.wikidata.org/entity/statement/Q414-9c0b5dec-4dd4-c718-948c-7524834392f7",
+        "http://www.wikidata.org/entity/statement/Q414-e729ee6a-470b-6d2c-6722-9e8699db8c52" ;
+    schema1:spoken_text_audio "http://commons.wikimedia.org/wiki/Special:FilePath/Geograf%C3%ADa%20argentina.ogg",
+        "http://www.wikidata.org/entity/statement/Q414-E6F21734-1702-468F-9665-A33E94A7A6B6" ;
+    schema1:subreddit "argentina",
+        "http://www.wikidata.org/entity/statement/Q414-cd8c027a-43f3-0140-b79d-bcfbd5d76894" ;
+    schema1:suicide_rate "8.1",
+        "http://www.wikidata.org/entity/statement/Q414-3b99f78b-48b5-a348-ad50-bdb9402a6b3b",
+        "http://www.wikidata.org/entity/statement/Q414-48B2CCE1-6E8F-408C-AA05-1E57A0888897",
+        "http://www.wikidata.org/entity/statement/Q414-51BB0A83-E269-4707-9A43-F4080ECFF5F7",
+        "http://www.wikidata.org/entity/statement/Q414-823BCA73-E8AE-4613-BF48-341F42972A33",
+        "http://www.wikidata.org/entity/statement/Q414-8A526294-3E9B-43A5-BBDD-91A2FD53D5FF",
+        "http://www.wikidata.org/entity/statement/Q414-9EEB5072-1D4B-458A-970D-B4A216A4C89E" ;
+    schema1:telephone_country_code "+54",
+        "http://www.wikidata.org/entity/statement/q414-c97004cd-443e-bca1-8e5e-cb8a3e330149" ;
+    schema1:top-level_Internet_domain <http://schema.org/.ar>,
+        "http://www.wikidata.org/entity/statement/q414-A112364A-6508-404E-8B17-B9B733ECDD12" ;
+    ns4:s_main_Wikimedia_portal <http://schema.org/Portal:Argentina>,
+        "http://www.wikidata.org/entity/statement/Q414-1d3eb192-408c-6374-ef24-34579a72ff09" ;
+    ns4:s_main_category <http://schema.org/Category:Argentina>,
+        "http://www.wikidata.org/entity/statement/Q414-BE33DCDF-B5F0-40BC-BD4E-7849D3D15BA9" ;
+    schema1:topic_has_template <http://schema.org/Template:Argentina_topics>,
+        <http://schema.org/Template:Provinces_of_Argentina>,
+        "http://www.wikidata.org/entity/statement/Q414-51f24a18-4f46-32a2-2e2f-b4f1763808cc",
+        "http://www.wikidata.org/entity/statement/Q414-CAC47A11-F138-4B4A-8E5D-A1663DFE2748" ;
+    schema1:total_fertility_rate "2.15",
+        "http://www.wikidata.org/entity/statement/Q414-2786B25E-5419-4B5C-8532-00D301E12B5B",
+        "http://www.wikidata.org/entity/statement/Q414-2B0B919A-D736-463F-9B89-F245B2189BC1",
+        "http://www.wikidata.org/entity/statement/Q414-5157125C-7D9C-40FA-B695-BD654168F956",
+        "http://www.wikidata.org/entity/statement/Q414-519F27F2-9A0D-4BD3-B92D-EB99F1B165B7",
+        "http://www.wikidata.org/entity/statement/Q414-52e248dd-45b1-f875-6d01-a45a9848e38d",
+        "http://www.wikidata.org/entity/statement/Q414-723E086E-B608-4CB3-8982-0DC1689AE670",
+        "http://www.wikidata.org/entity/statement/Q414-742E8A22-0857-45F3-9BEC-22E273D9D77C",
+        "http://www.wikidata.org/entity/statement/Q414-88574940-1C8D-4EA7-8EC1-A032156C55D9",
+        "http://www.wikidata.org/entity/statement/Q414-88B1B8BF-3E78-40E1-A8FB-433DDBF67D30",
+        "http://www.wikidata.org/entity/statement/Q414-8A75F751-4C68-472E-883C-761FA7322B41",
+        "http://www.wikidata.org/entity/statement/Q414-99BB30FE-027E-49AC-996E-9F57D40D29F9",
+        "http://www.wikidata.org/entity/statement/Q414-A1FDB02F-563A-43F2-A29C-7F98FD4DB37A",
+        "http://www.wikidata.org/entity/statement/Q414-AEFBF066-98D7-413E-BC8B-4FE2B4070329",
+        "http://www.wikidata.org/entity/statement/Q414-C0ECA88F-E14F-44FE-BF53-967DA2045FF7",
+        "http://www.wikidata.org/entity/statement/Q414-C38150A6-A5BB-43AF-9139-78D1E69F2194",
+        "http://www.wikidata.org/entity/statement/Q414-C64F1550-9957-466C-9D35-F7D106128CBE",
+        "http://www.wikidata.org/entity/statement/Q414-EB12EB2D-1B19-4F79-BF30-FD8A2236115C" ;
+    schema1:trunk_prefix "0",
+        "http://www.wikidata.org/entity/statement/Q414-C97A8597-1DFC-4B9D-86E6-008753C47079" ;
+    schema1:unemployment_rate "8.9",
+        "http://www.wikidata.org/entity/statement/Q414-0253c906-4053-7ef0-2c8f-625e04a67e64",
+        "http://www.wikidata.org/entity/statement/Q414-08958c5e-406c-8d1e-d8bf-82e4d19909c0",
+        "http://www.wikidata.org/entity/statement/Q414-11fa4b00-43ef-4c9e-3135-b7daa935655a",
+        "http://www.wikidata.org/entity/statement/Q414-1e541057-4d7b-926a-20e5-e8ae97d05b63",
+        "http://www.wikidata.org/entity/statement/Q414-2bdffb87-40a1-cb5d-d2bb-e64cf6a13e89",
+        "http://www.wikidata.org/entity/statement/Q414-45e20064-4963-3597-7a34-c9168d12c10e",
+        "http://www.wikidata.org/entity/statement/Q414-4b745d1d-4053-a7ae-a233-d20b6f596807",
+        "http://www.wikidata.org/entity/statement/Q414-5772eb06-4b8a-e244-0403-c98a56663b46",
+        "http://www.wikidata.org/entity/statement/Q414-58d15c7b-4774-50cf-73c3-2605d3ffdc07",
+        "http://www.wikidata.org/entity/statement/Q414-62296a23-4480-13ed-71a8-cbab64be75ac",
+        "http://www.wikidata.org/entity/statement/Q414-7c704442-4829-c017-f7cf-49ca34f9ed4b",
+        "http://www.wikidata.org/entity/statement/Q414-80d5be84-4182-cc08-e215-1b2792f52abe",
+        "http://www.wikidata.org/entity/statement/Q414-9a2866fb-40c4-b31f-74b1-bb55dca0c049",
+        "http://www.wikidata.org/entity/statement/Q414-9fd1e4ba-44fe-a477-4b1c-1b47372cc469",
+        "http://www.wikidata.org/entity/statement/Q414-a0ecb3a0-41b0-2b91-65bd-71326b796322",
+        "http://www.wikidata.org/entity/statement/Q414-ceb57030-48d7-5f01-3f5b-353d9fa47f1d",
+        "http://www.wikidata.org/entity/statement/Q414-d7ca1d53-4870-3d81-d894-988395df89c7",
+        "http://www.wikidata.org/entity/statement/Q414-d9837d2b-4c65-7f3d-90c5-35a7df962536",
+        "http://www.wikidata.org/entity/statement/Q414-e4330123-44dd-dc8c-2190-088d43d29296",
+        "http://www.wikidata.org/entity/statement/Q414-ff9c83ac-4e23-3525-3223-2ba906698321" ;
+    schema1:urban_population "41339571",
+        "41796990",
+        "42248949",
+        "42696478",
+        "http://www.wikidata.org/entity/statement/Q414-2188BA7B-F370-4904-AB81-004777299A10",
+        "http://www.wikidata.org/entity/statement/Q414-529A37F2-64CB-4D9A-A1B8-9E77E911B930",
+        "http://www.wikidata.org/entity/statement/Q414-9B2C520C-E388-4D76-8CA3-5615885E3A5E",
+        "http://www.wikidata.org/entity/statement/Q414-D4EFC2F3-D331-4E48-B906-96A9E9445AB8" ;
+    schema1:vehicle_registration_plate_code "RA",
+        "http://www.wikidata.org/entity/statement/Q414-653c5bc9-42bc-4a7e-bcf4-a5e6e9dd89dd" ;
+    schema1:wd_URI wd:Q414 ;
+    rdfs:subClassOf schema1:country .
+
+schema1:Auditing_Document a rdfs:Class ;
+    rdfs:label "Auditing Document"@en ;
+    rdfs:subClassOf schema1:world_bank_document .
+
+schema1:Board_Report a rdfs:Class ;
+    rdfs:label "Board Report"@en ;
+    rdfs:subClassOf schema1:world_bank_document .
+
+schema1:Brazil a rdfs:Class ;
+    rdfs:label "Brazil"@en ;
+    schema1:1914-1918-Online_ID "brazil",
+        "http://www.wikidata.org/entity/statement/Q155-B0C7DCC7-6F30-4657-BEC4-AFF38C4CAEE4" ;
+    schema1:AGROVOC_ID "c_1070",
+        "http://aims.fao.org/aos/agrovoc/c_1070",
+        "http://www.wikidata.org/entity/statement/Q155-35E9D1D3-53EA-456B-99D5-C4AFD3C066A2" ;
+    schema1:ASC_Leiden_Thesaurus_ID "29490249X",
+        "http://www.wikidata.org/entity/statement/Q155-5BABF047-70E4-4812-B96E-E04A81055684" ;
+    schema1:Academy_Awards_Database_nominee_ID "3483",
+        "http://www.wikidata.org/entity/statement/Q155-293F74F6-F638-4864-B7B7-15CDCB309242" ;
+    schema1:Al-Jazeera_topic_ID "http://www.wikidata.org/entity/statement/Q155-5aaad9e7-4af6-87ac-d5cb-4caef98611a0",
+        "http://www.wikidata.org/entity/statement/Q155-9330F4D4-97AC-4D43-B67A-3A7CC83D1D99",
+        "where/brazil" ;
+    schema1:AllTrails_trail_ID "brazil",
+        "http://www.wikidata.org/entity/statement/Q155-9b122f47-4521-312b-30d9-53ac51c34829" ;
+    ns5:_Policy_Observatory_term_ID "6483",
+        "http://www.wikidata.org/entity/statement/Q155-D9D15239-0985-48A7-9389-6ADA5E919263" ;
+    schema1:Anarâš_aavis_topic_ID "brasilia",
+        "http://www.wikidata.org/entity/statement/Q155-9ff76949-4d98-89e8-0237-d79a3bc5a6b7" ;
+    

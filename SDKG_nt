@@ -1,0 +1,327 @@
+<http://schema.org/author/Vanh_Dilaphanh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://www.wikidata.org/entity/Q710> <http://www.w3.org/2000/01/rdf-schema#label> "Kiribati wikidata code"@en .
+<http://schema.org/Board_Report> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/author/Ru,Jiang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/Trust_Fund_Administrative_Agreement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/project/LA_Lao_Airlines_Sustainable_Development____P181359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/World> <http://www.w3.org/2000/01/rdf-schema#label> "World"@en .
+<http://schema.org/Program_Document> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/trustfund/TF0B9831_Circular_Economy_for_Waste____________Management_in_Province_of_Buenos_Aires> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/Environmental_and_Social_Commitment_Plan> <http://www.w3.org/2000/01/rdf-schema#label> "Environmental and Social Commitment Plan"@en .
+<http://schema.org/Environmental_and_Social_Review_Summary> <http://www.w3.org/2000/01/rdf-schema#label> "Environmental and Social Review Summary"@en .
+<http://schema.org/nan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/world_bank_document> <http://www.w3.org/2000/01/rdf-schema#label> "A document produced and written by the World Bank."@en .
+<http://schema.org/author/Noronha_Farinelli,Barbara_Cristina> <http://www.w3.org/2000/01/rdf-schema#label> "Noronha Farinelli,Barbara Cristina"@en .
+<http://schema.org/project/nan> <http://www.w3.org/2000/01/rdf-schema#label> "nan"@en .
+<http://schema.org/trustfund/TF0C1092_POLICIES_TO_PROMOTE____________MONTENEGRO#S_RESILIENT_RECOVERY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/wd_URI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://schema.org/Dominican_Republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/trustfund/TF0C1092_POLICIES_TO_PROMOTE____________MONTENEGRO#S_RESILIENT_RECOVERY> <http://www.w3.org/2000/01/rdf-schema#label> "TF0C1092_POLICIES_TO_PROMOTE____________MONTENEGRO#S_RESILIENT_RECOVERY" .
+<http://schema.org/author/Lugo,Maria_Ana> <http://www.w3.org/2000/01/rdf-schema#label> "Lugo,Maria Ana"@en .
+<http://schema.org/author/Bichara_Rocha,Leonardo> <http://www.w3.org/2000/01/rdf-schema#label> "Bichara Rocha,Leonardo"@en .
+<http://schema.org/Montenegro> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/country> .
+<http://schema.org/author/World_Bank> <http://www.w3.org/2000/01/rdf-schema#label> "World Bank"@en .
+<http://schema.org/trustfund/TF072858_Global_Shield_Financing____________Facility_Multi_Donor_Trust_Fund> <http://www.w3.org/2000/01/rdf-schema#label> "TF072858_Global_Shield_Financing____________Facility_Multi_Donor_Trust_Fund" .
+<http://schema.org/author/Gill,Indermit_S.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/Stakeholder_Engagement_Plan> <http://www.w3.org/2000/01/rdf-schema#label> "Stakeholder Engagement Plan"@en .
+<http://schema.org/project/IN_Haryana_Clean_Air_And_Sustainable
+____________Development_Program_P502491> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/Annual_Report> <http://schema.org/wd_URI> <http://www.wikidata.org/entity/Q54935566> .
+<http://schema.org/Procurement_Plan> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://www.wikidata.org/entity/Q711> <http://www.w3.org/2000/01/rdf-schema#label> "Mongolia wikidata code"@en .
+<http://schema.org/Board_Report> <http://www.w3.org/2000/01/rdf-schema#label> "Board Report"@en .
+<http://schema.org/author/Joseph_Kawuma_Kawuma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/project> <http://www.w3.org/2000/01/rdf-schema#label> "worldbank project" .
+<http://schema.org/author/Zeni,Federica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/World> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/author/Betty_Namatovu> <http://www.w3.org/2000/01/rdf-schema#label> "Betty Namatovu"@en .
+<http://schema.org/Procurement_Plan> <http://www.w3.org/2000/01/rdf-schema#label> "Procurement Plan"@en .
+<http://schema.org/Program_for_Results_Environmental_and_Social
+____________Systems_Assessment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/Procedure_and_Checklist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/author/Vanh_Dilaphanh> <http://www.w3.org/2000/01/rdf-schema#label> "Vanh Dilaphanh"@en .
+<http://schema.org/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://schema.org/Policy_Research_Working_Paper> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/trustfund/TF0C2754_Lao_Air_Transport_Policy_&____________Governance_Technical_Assistance> <http://www.w3.org/2000/01/rdf-schema#label> "TF0C2754_Lao_Air_Transport_Policy_&____________Governance_Technical_Assistance" .
+<http://schema.org/author/Lugo,Maria_Ana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/project/AR_Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project____P105680> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/author/Waksberg_Guerrini,Ana> <http://www.w3.org/2000/01/rdf-schema#label> "Waksberg Guerrini,Ana"@en .
+<http://schema.org/trustfund/TF0C6078_GSCP___C2___Turkiye:____________Geospatial_informed_Smart_City_Strategies_for_Publ> <http://www.w3.org/2000/01/rdf-schema#label> "TF0C6078_GSCP___C2___Turkiye:____________Geospatial_informed_Smart_City_Strategies_for_Publ" .
+<http://schema.org/Program_Document> <http://www.w3.org/2000/01/rdf-schema#label> "Program Document"@en .
+<http://www.wikidata.org/entity/Q668> <http://www.w3.org/2000/01/rdf-schema#label> "India wikidata code"@en .
+<http://schema.org/project/1W_Global_Aquabusiness_Investment_Guide____P503117> <http://www.w3.org/2000/01/rdf-schema#label> "1W_Global_Aquabusiness_Investment_Guide____P503117"@en .
+<http://schema.org/author/Maria_Salene_Maia_da_Silva> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/trustfund/TF0C4083_Leveraging_property_and____________geospatial_data_for_disaster_and_climate_resili> <http://www.w3.org/2000/01/rdf-schema#label> "TF0C4083_Leveraging_property_and____________geospatial_data_for_disaster_and_climate_resili" .
+<http://schema.org/author/Bichara_Rocha,Leonardo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/Turkiye> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/country> .
+<http://schema.org/India> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/country> .
+<http://schema.org/Project_Paper> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/author/Cull,Robert_J.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/author/Ruiz_Ortega,Claudia> <http://www.w3.org/2000/01/rdf-schema#label> "Ruiz Ortega,Claudia"@en .
+<http://schema.org/author/Diaz_Sanchez,Jose_Luis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/author/De_Serio,Christopher_J.> <http://www.w3.org/2000/01/rdf-schema#label> "De Serio,Christopher J."@en .
+<http://schema.org/trustfund/TF098374_Supporting_the_Implementation____________of_Phase_1_of_the_Matanza_Riachuelo_Basin> <http://www.w3.org/2000/01/rdf-schema#label> "TF098374_Supporting_the_Implementation____________of_Phase_1_of_the_Matanza_Riachuelo_Basin" .
+<http://schema.org/author/LEGKL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/India> <http://www.w3.org/2000/01/rdf-schema#label> "India"@en .
+<http://schema.org/trustfund/TF0C4697_Haryana_Clean_Air_Project_for____________Sustainable_Development:_Clean_Cooking_Pr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/Aide_Memoire> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/Program_Information_Document> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/author/World_Bank> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://www.wikidata.org/entity/Q786> <http://www.w3.org/2000/01/rdf-schema#label> "Dominican Republic wikidata code"@en .
+<http://schema.org/trustfund/TF0C2756_Lao_Airlines_Implementation_Support> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/author/Borrowing_Agency> <http://www.w3.org/2000/01/rdf-schema#label> "Borrowing Agency"@en .
+<http://schema.org/trustfund/TF0C5873_Investing_in_the_Dominican____________Republics_Green_Recovery_and_Blue_Economy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/project/UG_Uganda:_Albertine_Region_Sustainable
+____________Development_Project____P145101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/trustfund/TF0B8604_Circular_Economy_Actions_for____________Non_Point_Source_Pollution_Reduction_at_th> <http://www.w3.org/2000/01/rdf-schema#label> "TF0B8604_Circular_Economy_Actions_for____________Non_Point_Source_Pollution_Reduction_at_th" .
+<http://schema.org/project/HN_First_Fiscal_And_Climate_Transparency_And
+____________Sustainability_Develo____P179909> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/Argentina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/Environmental_and_Social_Management_Plan> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/project/ME_Montenegro_First_Resilient_Fiscal_And
+____________Sustainable_Development_D____P178646> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://www.wikidata.org/entity/Q2145098> <http://www.w3.org/2000/01/rdf-schema#label> "entity wikidata code"@en .
+<http://schema.org/Auditing_Document> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/author/Pedraza_Morales,Alvaro_Enrique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/author/LEGKL> <http://www.w3.org/2000/01/rdf-schema#label> "LEGKL"@en .
+<http://schema.org/trustfund/TF0B8604_Circular_Economy_Actions_for____________Non_Point_Source_Pollution_Reduction_at_th> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/Environmental_and_Social_Commitment_Plan> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://www.wikidata.org/entity/Q783> <http://www.w3.org/2000/01/rdf-schema#label> "Honduras wikidata code"@en .
+<http://schema.org/Mongolia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/Uganda> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/country> .
+<http://schema.org/Project_Appraisal_Document> <http://www.w3.org/2000/01/rdf-schema#label> "Project Appraisal Document"@en .
+<http://schema.org/author/Corsi,Anna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/author/Colbano,Fabiano_Silvio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/Argentina> <http://www.w3.org/2000/01/rdf-schema#label> "Argentina"@en .
+<http://schema.org/Montenegro> <http://www.w3.org/2000/01/rdf-schema#label> "Montenegro"@en .
+<http://schema.org/Aide_Memoire> <http://www.w3.org/2000/01/rdf-schema#label> "Aide Memoire"@en .
+<http://schema.org/trustfund/TF0C5866_FY25_PPIUF_Kirimati_Sustainable____________Development_Platform> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/project/BR_Rio_Grande_Do_Norte:_Sustainable
+____________Development_And_Governance_Pro____P502493> <http://www.w3.org/2000/01/rdf-schema#label> "BR_Rio_Grande_Do_Norte:_Sustainable\n____________Development_And_Governance_Pro____P502493"@en .
+<http://schema.org/trustfund/TF0C4415_Kiritimati_TAF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/Stakeholder_Engagement_Plan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/Report> <http://schema.org/wd_URI> <http://www.wikidata.org/entity/Q2145098> .
+<http://schema.org/author/Lafaete_Almeida_de_Oliveira> <http://www.w3.org/2000/01/rdf-schema#label> "Lafaete Almeida de Oliveira"@en .
+<http://schema.org/Argentina> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/country> .
+<http://schema.org/author/Siegmann,Katharina> <http://www.w3.org/2000/01/rdf-schema#label> "Siegmann,Katharina"@en .
+<http://schema.org/author/Laure,Alexandre_Hugo> <http://www.w3.org/2000/01/rdf-schema#label> "Laure,Alexandre Hugo"@en .
+<http://www.wikidata.org/entity/Q155> <http://www.w3.org/2000/01/rdf-schema#label> "Brazil wikidata code"@en .
+<http://schema.org/Montenegro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/trustfund/TF0C4697_Haryana_Clean_Air_Project_for____________Sustainable_Development:_Clean_Cooking_Pr> <http://www.w3.org/2000/01/rdf-schema#label> "TF0C4697_Haryana_Clean_Air_Project_for____________Sustainable_Development:_Clean_Cooking_Pr" .
+<http://schema.org/trustfund/nan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/Program_for_Results_Environmental_and_Social
+____________Systems_Assessment> <http://www.w3.org/2000/01/rdf-schema#label> "Program-for-Results Environmental and Social\n            Systems Assessment"@en .
+<http://schema.org/trustfund/TF0C5286_T00fcrkiye:_Leveraging_National____________Spatial_Data_Infrastructure_for_Smart_C> <http://www.w3.org/2000/01/rdf-schema#label> "TF0C5286_T00fcrkiye:_Leveraging_National____________Spatial_Data_Infrastructure_for_Smart_C" .
+<http://schema.org/trustfund> <http://www.w3.org/2000/01/rdf-schema#label> "trustfund" .
+<http://schema.org/India> <http://schema.org/wd_URI> <http://www.wikidata.org/entity/Q668> .
+<http://schema.org/Cote_d'Ivoire> <http://www.w3.org/2000/01/rdf-schema#label> "Cote d'Ivoire"@en .
+<http://schema.org/author/Cull,Robert_J.> <http://www.w3.org/2000/01/rdf-schema#label> "Cull,Robert J."@en .
+<http://schema.org/Environmental_and_Social_Commitment_Plan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/Environmental_and_Social_Management_Plan> <http://www.w3.org/2000/01/rdf-schema#label> "Environmental and Social Management Plan"@en .
+<http://schema.org/project/LA_Lao_Airlines_Sustainable_Development
+____________Project____P181359> <http://www.w3.org/2000/01/rdf-schema#label> "LA_Lao_Airlines_Sustainable_Development\n____________Project____P181359"@en .
+<http://schema.org/author/Lafaete_Almenida_de_Oliveira_Mesquita> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/Annual_Report> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/project/IN_Haryana_Clean_Air_And_Sustainable
+____________Development_Program_P502491> <http://www.w3.org/2000/01/rdf-schema#label> "IN_Haryana_Clean_Air_And_Sustainable\n____________Development_Program_P502491"@en .
+<http://schema.org/project/ME_Montenegro_First_Resilient_Fiscal_And
+____________Sustainable_Development_D____P178646> <http://www.w3.org/2000/01/rdf-schema#label> "ME_Montenegro_First_Resilient_Fiscal_And\n____________Sustainable_Development_D____P178646"@en .
+<http://schema.org/author/ELAINY_CRISTINA_PINHEIRO_VIEIRA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/project/LA_Lao_Airlines_Sustainable_Development
+____________Project____P181359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/author/zgen_alar> <http://www.w3.org/2000/01/rdf-schema#label> "zgen alar"@en .
+<http://schema.org/Kiribati> <http://schema.org/wd_URI> <http://www.wikidata.org/entity/Q710> .
+<http://www.wikidata.org/entity/Q1036> <http://www.w3.org/2000/01/rdf-schema#label> "Uganda wikidata code"@en .
+<http://schema.org/Implementation_Status_and_Results_Report> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/Auditing_Document> <http://www.w3.org/2000/01/rdf-schema#label> "Auditing Document"@en .
+<http://schema.org/Report> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/author/Colbano,Fabiano_Silvio> <http://www.w3.org/2000/01/rdf-schema#label> "Colbano,Fabiano Silvio"@en .
+<http://schema.org/project/KI_Kiritimati_Sustainable_Development
+____________Platform____P505401> <http://www.w3.org/2000/01/rdf-schema#label> "KI_Kiritimati_Sustainable_Development\n____________Platform____P505401"@en .
+<http://schema.org/Lao_People's_Democratic_Republic> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/country> .
+<http://schema.org/author/Oppong,M._Yaa_Pokua_Afriyie> <http://www.w3.org/2000/01/rdf-schema#label> "Oppong,M. Yaa Pokua Afriyie"@en .
+<http://schema.org/trustfund/TF0C2756_Lao_Airlines_Implementation_Support> <http://www.w3.org/2000/01/rdf-schema#label> "TF0C2756_Lao_Airlines_Implementation_Support" .
+<http://schema.org/Environmental_and_Social_Management_Framework> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/project/BR_Rio_De_Janeiro_Fiscal_Management_And
+____________Sustainable_Development_Po____P179182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/Argentina> <http://schema.org/wd_URI> <http://www.wikidata.org/entity/Q414> .
+<http://schema.org/Honduras> <http://www.w3.org/2000/01/rdf-schema#label> "Honduras"@en .
+<http://schema.org/author/Lafaete_Almenida_de_Oliveira_Mesquita> <http://www.w3.org/2000/01/rdf-schema#label> "Lafaete Almenida de Oliveira Mesquita"@en .
+<http://schema.org/Board_Report> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/Trust_Fund_Administrative_Agreement> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/trustfund/TF0C3665_Lao_Aviation_Sustainable_Development> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "Identifier" .
+<http://schema.org/country> <http://www.w3.org/2000/01/rdf-schema#label> "country"@en .
+<http://schema.org/author/Corsi,Anna> <http://www.w3.org/2000/01/rdf-schema#label> "Corsi,Anna"@en .
+<http://schema.org/author/Daniel_Larrache> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/India> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/Project_Appraisal_Document> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/project/BR_Rio_De_Janeiro_Fiscal_Management_And
+____________Sustainable_Development_Po____P179182> <http://www.w3.org/2000/01/rdf-schema#label> "BR_Rio_De_Janeiro_Fiscal_Management_And\n____________Sustainable_Development_Po____P179182"@en .
+<http://schema.org/project/CI_Cashew_Value_Chain_Sustainable
+____________Development_Project____P180040> <http://www.w3.org/2000/01/rdf-schema#label> "CI_Cashew_Value_Chain_Sustainable\n____________Development_Project____P180040"@en .
+<http://schema.org/project/BR_Rio_Grande_Do_Norte:_Sustainable
+____________Development_And_Governance_Of____P502493> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/trustfund/TF0B9831_Circular_Economy_for_Waste____________Management_in_Province_of_Buenos_Aires> <http://www.w3.org/2000/01/rdf-schema#label> "TF0B9831_Circular_Economy_for_Waste____________Management_in_Province_of_Buenos_Aires" .
+<http://schema.org/Honduras> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/country> .
+<http://schema.org/project/nan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/project/BR_State_Of_Ceará_Sustainable_Development
+____________Policy_Loan____P180497> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/project/TR_Land_Management_Infrastructure_For_Green
+____________And_Sustainable_Develo____P179217> <http://www.w3.org/2000/01/rdf-schema#label> "TR_Land_Management_Infrastructure_For_Green\n____________And_Sustainable_Develo____P179217"@en .
+<http://www.wikidata.org/entity/Q54935566> <http://www.w3.org/2000/01/rdf-schema#label> "entity wikidata code"@en .
+<http://schema.org/author/Siegmann,Katharina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/Dominican_Republic> <http://schema.org/wd_URI> <http://www.wikidata.org/entity/Q786> .
+<http://schema.org/Report> <http://www.w3.org/2000/01/rdf-schema#label> "Report"@en .
+<http://schema.org/trustfund/TF0C5780_Technical_Assistance_for____________Establishing_Science_Based_Policy_Options_for> <http://www.w3.org/2000/01/rdf-schema#label> "TF0C5780_Technical_Assistance_for____________Establishing_Science_Based_Policy_Options_for" .
+<http://schema.org/author/Chichgar,Sharlene_Jehanbux> <http://www.w3.org/2000/01/rdf-schema#label> "Chichgar,Sharlene Jehanbux"@en .
+<http://schema.org/Aide_Memoire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/author/Ruiz_Ortega,Claudia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/Brazil> <http://www.w3.org/2000/01/rdf-schema#label> "Brazil"@en .
+<http://schema.org/project/BR_Mato_Grosso_Sustainable_Development_Of
+____________Family_Farming____P175723> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/author/Waksberg_Guerrini,Ana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/author/Arthur_Mumanyire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/project/CI_Cashew_Value_Chain_Sustainable
+____________Development_Project____P180040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/author/Arthur_Mumanyire> <http://www.w3.org/2000/01/rdf-schema#label> "Arthur Mumanyire"@en .
+<http://schema.org/author/Ramirez,Maria_Catalina> <http://www.w3.org/2000/01/rdf-schema#label> "Ramirez,Maria Catalina"@en .
+<http://schema.org/Turkiye> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/Dominican_Republic> <http://www.w3.org/2000/01/rdf-schema#label> "Dominican Republic"@en .
+<http://schema.org/trustfund/TF0C4618_Designing_Innovative_Climate____________Finance_Instruments_for_Scaling_Climate_Sm> <http://www.w3.org/2000/01/rdf-schema#label> "TF0C4618_Designing_Innovative_Climate____________Finance_Instruments_for_Scaling_Climate_Sm" .
+<http://schema.org/project/BR_Rio_Grande_Do_Norte:_Sustainable
+____________Development_And_Governance_Pro____P502493> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/Procurement_Plan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/author/Liduina_Cynthya_Lemos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/Cote_d'Ivoire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/Program_for_Results_Environmental_and_Social
+____________Systems_Assessment> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/Environmental_and_Social_Review_Summary> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/author/Maria_Salene_Maia_da_Silva> <http://www.w3.org/2000/01/rdf-schema#label> "Maria Salene Maia da Silva"@en .
+<http://schema.org/Procedure_and_Checklist> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/author/Lucas_Figueras> <http://www.w3.org/2000/01/rdf-schema#label> "Lucas Figueras"@en .
+<http://schema.org/Policy_Research_Working_Paper> <http://www.w3.org/2000/01/rdf-schema#label> "Policy Research Working Paper"@en .
+<http://schema.org/trustfund/nan> <http://www.w3.org/2000/01/rdf-schema#label> "nan" .
+<http://schema.org/author/Wang,Xiaodong> <http://www.w3.org/2000/01/rdf-schema#label> "Wang,Xiaodong"@en .
+<http://www.wikidata.org/entity/Q414> <http://www.w3.org/2000/01/rdf-schema#label> "Argentina wikidata code"@en .
+<http://schema.org/author/Pedraza_Morales,Alvaro_Enrique> <http://www.w3.org/2000/01/rdf-schema#label> "Pedraza Morales,Alvaro Enrique"@en .
+<http://schema.org/Policy_Research_Working_Paper> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/Mongolia> <http://www.w3.org/2000/01/rdf-schema#label> "Mongolia"@en .
+<http://schema.org/project/BR_Ceara_Rural_Sustainable_Development_And
+____________Competitiveness_Phase_I____P167455> <http://www.w3.org/2000/01/rdf-schema#label> "BR_Ceara_Rural_Sustainable_Development_And\n____________Competitiveness_Phase_I____P167455"@en .
+<http://schema.org/author/D_Agostino_Fontaine,Santiago_Manuel> <http://www.w3.org/2000/01/rdf-schema#label> "D Agostino Fontaine,Santiago Manuel"@en .
+<http://schema.org/project/BR_Rio_De_Janeiro_Adjustment_And_Sustainable
+____________Development_Policy_Lo____P178729> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/author/Gill,Indermit_S.> <http://www.w3.org/2000/01/rdf-schema#label> "Gill,Indermit S."@en .
+<http://schema.org/author/Diaz_Sanchez,Jose_Luis> <http://www.w3.org/2000/01/rdf-schema#label> "Diaz Sanchez,Jose Luis"@en .
+<http://schema.org/project/BR_Ceara_Rural_Sustainable_Development_And
+____________Competitiveness_Phase_I____P167455> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/Brazil> <http://schema.org/wd_URI> <http://www.wikidata.org/entity/Q155> .
+<http://schema.org/Kiribati> <http://www.w3.org/2000/01/rdf-schema#label> "Kiribati"@en .
+<http://schema.org/Implementation_Status_and_Results_Report> <http://www.w3.org/2000/01/rdf-schema#label> "Implementation Status and Results Report"@en .
+<http://schema.org/Dominican_Republic> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/country> .
+<http://schema.org/Honduras> <http://schema.org/wd_URI> <http://www.wikidata.org/entity/Q783> .
+<http://schema.org/trustfund/TF0C5866_FY25_PPIUF_Kirimati_Sustainable____________Development_Platform> <http://www.w3.org/2000/01/rdf-schema#label> "TF0C5866_FY25_PPIUF_Kirimati_Sustainable____________Development_Platform" .
+<http://schema.org/author/zgen_alar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/Turkiye> <http://www.w3.org/2000/01/rdf-schema#label> "Turkiye"@en .
+<http://schema.org/wd_URI> <http://www.w3.org/2000/01/rdf-schema#label> "Wikidata URI"@en .
+<http://schema.org/Cote_d'Ivoire> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/country> .
+<http://schema.org/Program_Information_Document> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/author/Noronha_Farinelli,Barbara_Cristina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/Uganda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/trustfund/TF0C5871_CH4D___Brazil___Methane_Action____________in_Livestock_Practices> <http://www.w3.org/2000/01/rdf-schema#label> "TF0C5871_CH4D___Brazil___Methane_Action____________in_Livestock_Practices" .
+<http://schema.org/project/BR_State_Of_Ceará_Sustainable_Development
+____________Policy_Loan____P180497> <http://www.w3.org/2000/01/rdf-schema#label> "BR_State_Of_Ceará_Sustainable_Development\n____________Policy_Loan____P180497"@en .
+<http://schema.org/trustfund/TF0C5871_CH4D___Brazil___Methane_Action____________in_Livestock_Practices> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/Kiribati> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/country> .
+<http://schema.org/Lao_People's_Democratic_Republic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/Uganda> <http://schema.org/wd_URI> <http://www.wikidata.org/entity/Q1036> .
+<http://schema.org/author/Borrowing_Agency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/Lao_People's_Democratic_Republic> <http://www.w3.org/2000/01/rdf-schema#label> "Lao People's Democratic Republic"@en .
+<http://schema.org/author/De_Serio,Christopher_J.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/author/Chichgar,Sharlene_Jehanbux> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/Environmental_and_Social_Management_Plan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/trustfund/TF0C5286_T00fcrkiye:_Leveraging_National____________Spatial_Data_Infrastructure_for_Smart_C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/project/1W_Global_Aquabusiness_Investment_Guide____P503117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/project/AR_Matanza_Riachuelo_Basin_Sustainable
+____________Development_Project____P105680> <http://www.w3.org/2000/01/rdf-schema#label> "AR_Matanza_Riachuelo_Basin_Sustainable\n____________Development_Project____P105680"@en .
+<http://schema.org/author/Paviot,Marie_Caroline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/author/Mileva,Elitza_Alexandrova> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/project/MN_Structural_Reforms_Asa:_Policy_Notes____P500438> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/Uganda> <http://www.w3.org/2000/01/rdf-schema#label> "Uganda"@en .
+<http://schema.org/project/DO_Sustainable_Development_Dpl____P500557> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/author/Daniel_Larrache> <http://www.w3.org/2000/01/rdf-schema#label> "Daniel Larrache"@en .
+<http://schema.org/project/KI_Kiritimati_Sustainable_Development
+____________Platform____P505401> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/nan> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/country> .
+<http://schema.org/Project_Paper> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/Trust_Fund_Administrative_Agreement> <http://www.w3.org/2000/01/rdf-schema#label> "Trust Fund Administrative Agreement"@en .
+<http://schema.org/World> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/country> .
+<http://schema.org/Honduras> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/trustfund/TF0C5873_Investing_in_the_Dominican____________Republics_Green_Recovery_and_Blue_Economy> <http://www.w3.org/2000/01/rdf-schema#label> "TF0C5873_Investing_in_the_Dominican____________Republics_Green_Recovery_and_Blue_Economy" .
+<http://schema.org/Procedure_and_Checklist> <http://www.w3.org/2000/01/rdf-schema#label> "Procedure and Checklist"@en .
+<http://schema.org/author/Zeni,Federica> <http://www.w3.org/2000/01/rdf-schema#label> "Zeni,Federica"@en .
+<http://schema.org/author/Mileva,Elitza_Alexandrova> <http://www.w3.org/2000/01/rdf-schema#label> "Mileva,Elitza Alexandrova"@en .
+<http://schema.org/author/Oppong,M._Yaa_Pokua_Afriyie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/author/Liduina_Cynthya_Lemos> <http://www.w3.org/2000/01/rdf-schema#label> "Liduina Cynthya Lemos"@en .
+<http://schema.org/trustfund/TF072858_Global_Shield_Financing____________Facility_Multi_Donor_Trust_Fund> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/project/MN_Structural_Reforms_Asa:_Policy_Notes____P500438> <http://www.w3.org/2000/01/rdf-schema#label> "MN_Structural_Reforms_Asa:_Policy_Notes____P500438"@en .
+<http://schema.org/trustfund/TF0C4618_Designing_Innovative_Climate____________Finance_Instruments_for_Scaling_Climate_Sm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/author/Paviot,Marie_Caroline> <http://www.w3.org/2000/01/rdf-schema#label> "Paviot,Marie Caroline"@en .
+<http://schema.org/project/UG_Uganda:_Albertine_Region_Sustainable
+____________Development_Project____P145101> <http://www.w3.org/2000/01/rdf-schema#label> "UG_Uganda:_Albertine_Region_Sustainable\n____________Development_Project____P145101"@en .
+<http://schema.org/Montenegro> <http://schema.org/wd_URI> <http://www.wikidata.org/entity/Q236> .
+<http://schema.org/authors> <http://www.w3.org/2000/01/rdf-schema#label> "worldbank authors" .
+<http://schema.org/project/BR_Rio_Grande_Do_Norte:_Sustainable
+____________Development_And_Governance_Of____P502493> <http://www.w3.org/2000/01/rdf-schema#label> "BR_Rio_Grande_Do_Norte:_Sustainable\n____________Development_And_Governance_Of____P502493"@en .
+<http://schema.org/trustfund/TF0C6078_GSCP___C2___Turkiye:____________Geospatial_informed_Smart_City_Strategies_for_Publ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/nan> <http://www.w3.org/2000/01/rdf-schema#label> "nan"@en .
+<http://schema.org/trustfund/TF0B9837_Co_creating_safe_and_inclusive____________infrastructure_to_enhance_childrenâ> <http://www.w3.org/2000/01/rdf-schema#label> "TF0B9837_Co_creating_safe_and_inclusive____________infrastructure_to_enhance_childrenâ" .
+<http://schema.org/Project_Paper> <http://www.w3.org/2000/01/rdf-schema#label> "Project Paper"@en .
+<http://schema.org/author/Laure,Alexandre_Hugo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/trustfund/TF098374_Supporting_the_Implementation____________of_Phase_1_of_the_Matanza_Riachuelo_Basin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/trustfund/TF0C5780_Technical_Assistance_for____________Establishing_Science_Based_Policy_Options_for> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/author/Ru,Jiang> <http://www.w3.org/2000/01/rdf-schema#label> "Ru,Jiang"@en .
+<http://schema.org/author/Ramirez,Maria_Catalina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/author/Lucas_Figueras> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/Auditing_Document> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/trustfund/TF0B9837_Co_creating_safe_and_inclusive____________infrastructure_to_enhance_childrenâ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/Implementation_Status_and_Results_Report> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/Brazil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/Environmental_and_Social_Management_Framework> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/author/Betty_Namatovu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/author/D_Agostino_Fontaine,Santiago_Manuel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/author/Joseph_Kawuma_Kawuma> <http://www.w3.org/2000/01/rdf-schema#label> "Joseph Kawuma Kawuma"@en .
+<http://schema.org/trustfund/TF0C2754_Lao_Air_Transport_Policy_&____________Governance_Technical_Assistance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://www.wikidata.org/entity/Q236> <http://www.w3.org/2000/01/rdf-schema#label> "Montenegro wikidata code"@en .
+<http://schema.org/Stakeholder_Engagement_Plan> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/project/BR_Rio_De_Janeiro_Adjustment_And_Sustainable
+____________Development_Policy_Lo____P178729> <http://www.w3.org/2000/01/rdf-schema#label> "BR_Rio_De_Janeiro_Adjustment_And_Sustainable\n____________Development_Policy_Lo____P178729"@en .
+<http://schema.org/Project_Appraisal_Document> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/trustfund/TF0C4415_Kiritimati_TAF> <http://www.w3.org/2000/01/rdf-schema#label> "TF0C4415_Kiritimati_TAF" .
+<http://schema.org/Environmental_and_Social_Review_Summary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/project/BR_Mato_Grosso_Sustainable_Development_Of
+____________Family_Farming____P175723> <http://www.w3.org/2000/01/rdf-schema#label> "BR_Mato_Grosso_Sustainable_Development_Of\n____________Family_Farming____P175723"@en .
+<http://schema.org/author/Wang,Xiaodong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/identifier> <http://www.w3.org/2000/01/rdf-schema#domain> <http://schema.org/trustfund> .
+<http://schema.org/Mongolia> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/country> .
+<http://schema.org/Annual_Report> <http://www.w3.org/2000/01/rdf-schema#label> "Annual Report"@en .
+<http://schema.org/Environmental_and_Social_Management_Framework> <http://www.w3.org/2000/01/rdf-schema#label> "Environmental and Social Management Framework"@en .
+<http://schema.org/author/ELAINY_CRISTINA_PINHEIRO_VIEIRA> <http://www.w3.org/2000/01/rdf-schema#label> "ELAINY CRISTINA PINHEIRO VIEIRA"@en .
+<http://schema.org/project/LA_Lao_Airlines_Sustainable_Development____P181359> <http://www.w3.org/2000/01/rdf-schema#label> "LA_Lao_Airlines_Sustainable_Development____P181359"@en .
+<http://schema.org/author/Lafaete_Almeida_de_Oliveira> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/authors> .
+<http://schema.org/Mongolia> <http://schema.org/wd_URI> <http://www.wikidata.org/entity/Q711> .
+<http://schema.org/trustfund/TF0C4083_Leveraging_property_and____________geospatial_data_for_disaster_and_climate_resili> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/trustfund> .
+<http://schema.org/Program_Document> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/project/HN_First_Fiscal_And_Climate_Transparency_And
+____________Sustainability_Develo____P179909> <http://www.w3.org/2000/01/rdf-schema#label> "HN_First_Fiscal_And_Climate_Transparency_And\n____________Sustainability_Develo____P179909"@en .
+<http://schema.org/Brazil> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/country> .
+<http://schema.org/project/TR_Land_Management_Infrastructure_For_Green
+____________And_Sustainable_Develo____P179217> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/project> .
+<http://schema.org/Report> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://schema.org/world_bank_document> .
+<http://schema.org/Annual_Report> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/project/DO_Sustainable_Development_Dpl____P500557> <http://www.w3.org/2000/01/rdf-schema#label> "DO_Sustainable_Development_Dpl____P500557"@en .
+<http://schema.org/Kiribati> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://schema.org/Program_Information_Document> <http://www.w3.org/2000/01/rdf-schema#label> "Program Information Document"@en .
+<http://schema.org/trustfund/TF0C3665_Lao_Aviation_Sustainable_Development> <http://www.w3.org/2000/01/rdf-schema#label> "TF0C3665_Lao_Aviation_Sustainable_Development" .
