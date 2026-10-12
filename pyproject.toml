@@ -21,6 +21,7 @@ dependencies = [
     "neo4j>=5.28.1",
     "openai>=1.69.0",
     "spacy",
+    "scikit-learn",
     "groq",
     "tqdm",
     "ipykernel",
