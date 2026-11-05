@@ -1,4 +1,4 @@
-fictional-couscous:
+fictional-couscous (both LPG and RDF graphs):
 A Neo4j implementation of GraphRAG approach for knowledge graph-based retrieval augmented generation.
 
     Extract entities and relationships from unstructured text
