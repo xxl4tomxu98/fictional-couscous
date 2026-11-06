@@ -13,7 +13,7 @@ Requirements
     Neo4j Aura or Desktop database (5.26+)
     APOC plugin installed in Neo4j
     Graph Data Science (GDS) library installed in Neo4j
-    Claude, Groq, or OpenAI API key
+    Local LLM models, Claude, Groq, or OpenAI API key
     pyenv local 3.12.6
     python -m venv .venv
     source .venv/bin/activate
@@ -57,7 +57,7 @@ Quick Start
     
 Features
 
-    Extract Nodes and Relationships: The library uses Anthropic and OpenAI's models to extract entities and relationships from your text data, creating a structured graph.
+    Extract Nodes and Relationships: The library uses local Ollama, Anthropic and OpenAI's LLM models to extract entities and relationships from your text data, creating a structured graph.
     Summarize Nodes and Relationships: Each entity and relationship is summarized to capture its essence across all mentions in the source documents.
     Community Detection: The Leiden algorithm is applied to identify communities of related entities.
     Community Summarization: Each community is summarized to provide a high-level understanding of the concepts it contains.

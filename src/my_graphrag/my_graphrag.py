@@ -54,14 +54,14 @@ class KBGraphRAG:
     - Integration with LLM models for generation
     - Retry logic for LLM calls and JSON parsing operations
 
-    The class connects to Neo4j for graph storage and uses an LLM (selected automatically
-    from the `model` name) for content generation and extraction, providing a seamless way
-    to build knowledge graphs from text.
+    The class connects to Neo4j for graph storage and uses an LLM for content generation and
+    extraction, providing a seamless way to build knowledge graphs from text.
 
     Requirements:
     - Neo4j database with APOC and GDS plugins installed
     - An `ANTHROPIC_API_KEY` (for Claude models) or `OPENAI_API_KEY` (for GPT models)
-    - An `GROQ_API_KEY` for Groq API if using free Groq models (implemented)
+    - An `GROQ_API_KEY` for Groq API if using free Groq models
+    - An `OLLAMA_BASE_URL` for Ollama API if using Ollama local models
 
     Example:
     ```
@@ -92,8 +92,7 @@ class KBGraphRAG:
     """
     def __init__(
         self,
-        driver: Driver,
-        #model: str = "gpt-4o",
+        driver: Driver,        
         model: str = "openai/gpt-oss-120b",
         database: str = "neo4j",
         max_workers: int = 10,
@@ -183,7 +182,7 @@ class KBGraphRAG:
             messages = [
                 {"role": "user", "content": prompt},
             ]
-            # Make the LLM call
+            # Make the LLM call using openai compatible async client (Groq, Ollama, or OpenAI)
             output = await self.achat(messages, model=self.model)
             # Construct JSON from output - this may fail and trigger retry
             try:
@@ -354,7 +353,6 @@ class KBGraphRAG:
         else:
             levels = [community_levels - 1]
         communities = self.query(community_info_query, params={"levels": levels})
-
         # Define async function for processing a single community with retry
         @async_retry(
             max_retries=self.max_retries,
